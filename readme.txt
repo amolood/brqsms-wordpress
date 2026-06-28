@@ -16,7 +16,7 @@ Let users sign up and log in to WordPress with their mobile number and an OTP, d
 
 It works with the standard WordPress forms, WooCommerce, and the plugin's own native forms and shortcodes, and it can also deliver verification codes over WhatsApp or email.
 
-This is an open-source build released under the GPL. There is no license key, no activation, and no remote update checker — install it and go.
+BrqSMS is open source, released under the GPL. There is no license key and no activation — install it and go.
 
 = Key features =
 
@@ -77,7 +77,7 @@ A Sender ID is optional. If your BrqSMS account has an approved Sender ID, enter
 
 = Does it require a license key? =
 
-No. This is an open-source build with no license activation and no remote calls back to a vendor for licensing or updates.
+No. BrqSMS is open source and works without any license key or activation.
 
 = Will it work with WooCommerce? =
 
@@ -109,15 +109,15 @@ On the **API Settings** tab there is a **Test Gateway** field. Enter a phone num
 
 = 1.0.0 =
 * First release.
+* Mobile number signup and login with OTP verification.
 * BrqSMS SMS gateway integration with OTP delivery via the BrqSMS v3 API.
 * Automatic unicode detection so Arabic (and other non-Latin) messages send correctly.
-* Hardened gateway: credential and recipient validation, clearer test-call diagnostics.
-* BrqSMS set as the default SMS gateway for new installs.
-* Open-source build: license activation, the remote update checker, and vendor phone-home calls removed.
-* Admin dashboard restyled with the BrqSMS design system.
-* Translations limited to English and Arabic.
-* `uninstall.php` added — removes plugin settings on delete while preserving user accounts.
-* WPML config updated to register the SMS/WhatsApp message templates for translation.
+* Credential and recipient validation, with clear test-call diagnostics.
+* BrqSMS set as the default SMS gateway.
+* WooCommerce, native forms, shortcodes, and WhatsApp/email OTP support.
+* Admin dashboard built with the BrqSMS design system.
+* English and Arabic translations.
+* Clean uninstall — removes plugin settings while preserving user accounts.
 
 == Upgrade Notice ==
 

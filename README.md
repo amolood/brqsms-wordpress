@@ -18,7 +18,7 @@ BrqSMS replaces (or augments) the standard WordPress username/password flow with
 
 The OTP is generated and verified **inside the plugin**, so the gateway is only responsible for delivering the message. This keeps the integration simple and reliable.
 
-This is an **open-source** build (GPLv2). There is no license key, no activation gate, and no remote update checker or vendor phone-home.
+BrqSMS is **open source** (GPLv2). There is no license key and no activation — install it and go.
 
 ## Features
 
@@ -118,16 +118,6 @@ The gateway code lives in [`gateways/brqsms.php`](gateways/brqsms.php) and:
 ## Uninstalling
 
 Deleting the plugin runs [`uninstall.php`](uninstall.php), which removes the plugin's own settings and transients. It **does not** delete user accounts or their verification status, so removing the plugin never destroys customer data.
-
-## Project notes
-
-This plugin is an open-source fork focused on the BrqSMS gateway. Compared with the commercial base it was built from:
-
-- license activation, the remote update checker, and vendor phone-home calls have been removed;
-- branding, links, and the admin dashboard have been reworked for BrqSMS;
-- translations are limited to English and Arabic.
-
-> Internal code identifiers and the text domain remain `digits` for backward compatibility, so existing settings and user data are preserved. This is intentional and not user-visible.
 
 ## Author
 
