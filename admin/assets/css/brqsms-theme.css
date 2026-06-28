@@ -1,0 +1,315 @@
+/* ==========================================================================
+   BrqSMS admin dashboard theme
+   Built on the BrqSMS dashboard design system (design tokens below).
+   Loaded after settings.min.css to re-skin the settings surface.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+:root {
+    /* Color tokens */
+    --brq-bg: #EEEEEE;
+    --brq-bg-2: #F8F8F8;
+    --brq-surface: #FFFFFF;
+    --brq-surface-dark: #C3C3C3;
+    --brq-text: #625F6E;
+    --brq-text-2: #636363;
+    --brq-text-muted: #6E6B7B;
+    --brq-accent: #7367F0;     /* primary */
+    --brq-accent-2: #D63384;   /* pink */
+    --brq-accent-3: #FF9F43;   /* orange */
+    --brq-border: #22292F;
+    --brq-light: #FFFFFF;
+
+    /* Typography */
+    --brq-font: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --brq-text-xs: 12px;
+    --brq-text-sm: 14px;
+    --brq-text-base: 15px;
+    --brq-text-lg: 17px;
+    --brq-text-xl: 20px;
+    --brq-text-2xl: 21px;
+    --brq-text-3xl: 24px;
+
+    /* Radius */
+    --brq-radius-sm: 2.499px;
+    --brq-radius-md: 3.5px;
+    --brq-radius-lg: 4px;
+    --brq-radius-xl: 5.012px;
+    --brq-radius-full: 5.992px;
+
+    /* Elevation */
+    --brq-shadow-sm: rgba(34, 41, 47, 0.12) 0px 4px 8px 0px, rgba(34, 41, 47, 0.08) 0px 2px 4px 0px;
+    --brq-shadow-glow: rgba(115, 103, 240, 0.7) 0px 0px 10px 1px;
+    --brq-shadow-lg: rgba(34, 41, 47, 0.05) 0px 0px 15px 0px;
+    --brq-shadow-xl: rgba(34, 41, 47, 0.1) 0px 4px 24px 0px;
+
+    /* Motion */
+    --brq-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* ---- Shell -------------------------------------------------------------- */
+.digits_admim_conf,
+.digits_admim_conf * {
+    font-family: var(--brq-font) !important;
+}
+
+.digits_admim_conf {
+    background: var(--brq-bg) !important;
+    color: var(--brq-text) !important;
+    font-size: var(--brq-text-base);
+    border-radius: var(--brq-radius-lg);
+}
+
+.digits_admim_conf h1,
+.digits_admim_conf h2,
+.digits_admim_conf h3 {
+    color: var(--brq-text) !important;
+    font-weight: 600 !important;
+    letter-spacing: -0.2px;
+}
+
+.digits_admim_conf h1 { font-size: var(--brq-text-3xl) !important; }
+.digits_admim_conf h2 { font-size: var(--brq-text-2xl) !important; }
+
+/* ---- Sidebar ----------------------------------------------------------- */
+.dig_admin_left_side {
+    background: var(--brq-surface) !important;
+    box-shadow: var(--brq-shadow-xl) !important;
+    border-right: none !important;
+}
+
+.dig_admin_left_side_content {
+    background: transparent !important;
+}
+
+.dig_sts_logo {
+    padding: 18px 16px !important;
+}
+
+.dig-tab_heading {
+    text-transform: uppercase;
+    font-size: var(--brq-text-xs) !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.6px;
+    color: var(--brq-text-muted) !important;
+    padding: 18px 20px 6px !important;
+    opacity: 0.85;
+}
+
+.digits-left_tab_list { margin: 0 8px !important; }
+
+.dig-nav-tab,
+.digits-large-tab_item {
+    display: flex !important;
+    align-items: center;
+    gap: 8px;
+    font-size: var(--brq-text-sm) !important;
+    font-weight: 500 !important;
+    color: var(--brq-text-muted) !important;
+    padding: 10px 14px !important;
+    margin: 2px 4px !important;
+    border-radius: var(--brq-radius-full) !important;
+    border: none !important;
+    transition: var(--brq-transition) !important;
+}
+
+.dig-nav-tab:hover,
+.digits-large-tab_item:hover {
+    color: var(--brq-accent) !important;
+    background: rgba(115, 103, 240, 0.08) !important;
+}
+
+.dig-nav-tab-active,
+.digits-large-tab_item.dig-nav-tab-active {
+    color: var(--brq-light) !important;
+    background: linear-gradient(118deg, var(--brq-accent), rgba(115, 103, 240, 0.75)) !important;
+    box-shadow: var(--brq-shadow-glow) !important;
+}
+
+.dig-tab-left.dig-nav-tab-active,
+.dig-tab_dashboard.dig-nav-tab-active { background: transparent !important; }
+
+/* tags */
+.dig_admin_tag {
+    border-radius: var(--brq-radius-full) !important;
+    font-size: 10px !important;
+    font-weight: 600 !important;
+    padding: 2px 7px !important;
+    text-transform: uppercase;
+}
+.dig_admin_tag_new { background: rgba(255, 159, 67, 0.18) !important; color: var(--brq-accent-3) !important; }
+.dig_admin_tag_old { background: rgba(214, 51, 132, 0.15) !important; color: var(--brq-accent-2) !important; }
+
+/* ---- Header / logo ----------------------------------------------------- */
+.digits_admin_mobile_header,
+.digits-admin_logo {
+    background: var(--brq-surface) !important;
+}
+.digits_admin_logo { max-height: 38px; width: auto; }
+.digits_plugin_version {
+    font-size: var(--brq-text-xs) !important;
+    color: var(--brq-text-muted) !important;
+}
+
+/* ---- Body / cards ------------------------------------------------------ */
+.digits-settings_body { background: transparent !important; }
+
+.dig_admin_tab_bg,
+.dig_admin_in_pt {
+    background: var(--brq-surface) !important;
+    border-radius: var(--brq-radius-lg) !important;
+    box-shadow: var(--brq-shadow-lg) !important;
+}
+
+.dig_admin_in_pt {
+    padding: 22px !important;
+    margin-bottom: 18px;
+}
+
+.dig_admin_sec_head,
+.dig_admin_head {
+    font-size: var(--brq-text-lg) !important;
+    font-weight: 600 !important;
+    color: var(--brq-text) !important;
+    border-bottom: 1px solid rgba(34, 41, 47, 0.08) !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 16px !important;
+}
+
+.dig_admin_sec_head span,
+.dig_admin_head span { position: relative; padding-left: 12px; }
+.dig_admin_sec_head span::before,
+.dig_admin_head span::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 50%;
+    transform: translateY(-50%);
+    width: 4px; height: 16px;
+    border-radius: var(--brq-radius-full);
+    background: linear-gradient(var(--brq-accent), var(--brq-accent-2));
+}
+
+.dig_ecr_desc,
+.description {
+    color: var(--brq-text-muted) !important;
+    font-size: var(--brq-text-sm) !important;
+}
+
+/* ---- Inputs ------------------------------------------------------------ */
+.digits_admim_conf input[type="text"],
+.digits_admim_conf input[type="number"],
+.digits_admim_conf input[type="email"],
+.digits_admim_conf input[type="password"],
+.digits_admim_conf select,
+.digits_admim_conf textarea {
+    border: 1px solid var(--brq-surface-dark) !important;
+    border-radius: var(--brq-radius-xl) !important;
+    background: var(--brq-bg-2) !important;
+    color: var(--brq-text) !important;
+    font-size: var(--brq-text-sm) !important;
+    padding: 9px 12px !important;
+    box-shadow: none !important;
+    transition: var(--brq-transition) !important;
+}
+
+.digits_admim_conf input[type="text"]:focus,
+.digits_admim_conf input[type="number"]:focus,
+.digits_admim_conf input[type="email"]:focus,
+.digits_admim_conf input[type="password"]:focus,
+.digits_admim_conf select:focus,
+.digits_admim_conf textarea:focus {
+    border-color: var(--brq-accent) !important;
+    background: var(--brq-surface) !important;
+    box-shadow: var(--brq-shadow-glow) !important;
+    outline: none !important;
+}
+
+/* ---- Buttons ----------------------------------------------------------- */
+.digits_admim_conf .button-primary,
+.digits_admim_conf .button.button-primary,
+.dig_save,
+.digits_admin_notice_button,
+.dig_call_test_api_btn,
+.dig_admin_dashboard_button {
+    background: linear-gradient(118deg, var(--brq-accent), rgba(115, 103, 240, 0.85)) !important;
+    border: none !important;
+    color: var(--brq-light) !important;
+    font-weight: 600 !important;
+    font-size: var(--brq-text-sm) !important;
+    border-radius: var(--brq-radius-full) !important;
+    padding: 9px 18px !important;
+    box-shadow: var(--brq-shadow-sm) !important;
+    text-shadow: none !important;
+    transition: var(--brq-transition), transform 0.15s ease !important;
+    cursor: pointer;
+}
+
+.digits_admim_conf .button-primary:hover,
+.dig_save:hover,
+.digits_admin_notice_button:hover,
+.dig_call_test_api_btn:hover,
+.dig_admin_dashboard_button:hover {
+    box-shadow: var(--brq-shadow-glow) !important;
+    transform: translateY(-1px);
+    color: var(--brq-light) !important;
+}
+
+.digits_admim_conf .button:not(.button-primary) {
+    background: var(--brq-surface) !important;
+    border: 1px solid var(--brq-surface-dark) !important;
+    color: var(--brq-text) !important;
+    border-radius: var(--brq-radius-full) !important;
+    font-weight: 500 !important;
+}
+
+/* secondary accent buttons */
+.dig_admin_tag_new,
+.digits_admin_notice_button.digits_show_purchasecode {
+    background: var(--brq-accent-3) !important;
+}
+
+/* ---- Toggles / switches ------------------------------------------------ */
+.dig_switch_slider,
+.dig-switch .slider {
+    border-radius: var(--brq-radius-full) !important;
+}
+input:checked + .dig_switch_slider,
+.dig-switch input:checked + .slider {
+    background: var(--brq-accent) !important;
+}
+
+/* ---- Notices ----------------------------------------------------------- */
+.digits_admin_notice {
+    border-radius: var(--brq-radius-lg) !important;
+    box-shadow: var(--brq-shadow-lg) !important;
+    border-left: 4px solid var(--brq-accent) !important;
+    background: var(--brq-surface) !important;
+}
+
+/* ---- Tables ------------------------------------------------------------ */
+.digits_admim_conf .form-table th {
+    color: var(--brq-text) !important;
+    font-weight: 600 !important;
+    font-size: var(--brq-text-sm) !important;
+}
+
+/* ---- Loader accent ----------------------------------------------------- */
+.dig_double-bounce1,
+.dig_double-bounce2 { background-color: var(--brq-accent) !important; }
+.checkmark.draw,
+.circle-loader { color: var(--brq-accent) !important; }
+
+/* ---- Dashboard cards --------------------------------------------------- */
+.dig_admin_dashboard_card,
+.dig-addon-item,
+.dig_admin_tab_grid_elem {
+    border-radius: var(--brq-radius-lg) !important;
+    box-shadow: var(--brq-shadow-sm) !important;
+    transition: var(--brq-transition), transform 0.15s ease !important;
+}
+.dig-addon-item:hover,
+.dig_admin_dashboard_card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--brq-shadow-xl) !important;
+}
