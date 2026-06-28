@@ -7,7 +7,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-add_shortcode('digits-edit-phone', 'digits_edit_phone_shortcode');
+add_shortcode('barq-edit-phone', 'digits_edit_phone_shortcode');
 add_shortcode('dm-edit-phone', 'digits_edit_phone_shortcode');
 add_shortcode('df-edit-phone', 'digits_edit_phone_shortcode');
 

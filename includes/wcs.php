@@ -69,10 +69,10 @@ function dig_upg_menu_accd($items, $menu, $args)
         $hide_items = array(
             "dm-login-page",
             "dm-login-modal",
-            "[digits-registration]",
-            "[digits-forgot-password]",
-            "[digits-page-registration]",
-            "[digits-page-forgot-password]"
+            "[barq-registration]",
+            "[barq-forgot-password]",
+            "[barq-page-registration]",
+            "[barq-page-forgot-password]"
         ,
             "[dm-registration-page]",
             "[dm-registration-modal]",
@@ -82,7 +82,7 @@ function dig_upg_menu_accd($items, $menu, $args)
             "dm-signup-page"
         );
     } else {
-        $hide_items = array("[digits-logout]", "[dm-logout]");
+        $hide_items = array("[barq-logout]", "[dm-logout]");
     }
     foreach ($items as $i => $item) {
         $menu_item = $item->post_title;

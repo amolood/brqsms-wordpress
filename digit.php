@@ -860,7 +860,7 @@ function digits_login_button()
     return dig_login_contents(false);
 }
 
-add_shortcode('digits-login', 'digits_login_button');
+add_shortcode('barq-login', 'digits_login_button');
 
 
 add_shortcode('dm-page', 'digits_login_button');
@@ -895,7 +895,7 @@ function digits_logout()
     }
 }
 
-add_shortcode('digits-logout', 'digits_logout');
+add_shortcode('barq-logout', 'digits_logout');
 add_shortcode('dm-logout', 'digits_logout');
 
 function dig_addmobile()
@@ -937,7 +937,7 @@ function digits_modal_login()
     return dig_login_contents(true);
 }
 
-add_shortcode('digits-modal-login', 'digits_modal_login');
+add_shortcode('barq-modal-login', 'digits_modal_login');
 
 
 add_shortcode('dm-modal', 'digits_modal_login');
@@ -954,8 +954,8 @@ function digits_modal_forgotpass()
     return dig_login_contents(true, 3);
 }
 
-add_shortcode('digits-registration', 'digits_modal_registration');
-add_shortcode('digits-forgot-password', 'digits_modal_forgotpass');
+add_shortcode('barq-registration', 'digits_modal_registration');
+add_shortcode('barq-forgot-password', 'digits_modal_forgotpass');
 
 add_shortcode('dm-signup-modal', 'digits_modal_registration');
 add_shortcode('dm-registration-modal', 'digits_modal_registration');
@@ -973,8 +973,8 @@ function digits_page_forgotpass()
     return dig_login_contents(true, 3, true);
 }
 
-add_shortcode('digits-page-registration', 'digits_page_registration');
-add_shortcode('digits-page-forgot-password', 'digits_page_forgotpass');
+add_shortcode('barq-page-registration', 'digits_page_registration');
+add_shortcode('barq-page-forgot-password', 'digits_page_forgotpass');
 
 
 add_shortcode('dm-signup-page', 'digits_page_registration');

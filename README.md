@@ -75,14 +75,14 @@ BrqSMS is **open source** (GPLv2). There is no license key and no activation —
 
 | Shortcode | Purpose |
 |-----------|---------|
-| `[digits-login]` | Login form |
-| `[digits-registration]` | Registration form |
-| `[digits-forgot-password]` | Forgot-password form |
-| `[digits-modal-login]` | Login inside a modal |
-| `[digits-edit-phone]` | Let a user change their phone number |
-| `[digits-logout]` | Logout link |
+| `[barq-login]` | Login form |
+| `[barq-registration]` | Registration form |
+| `[barq-forgot-password]` | Forgot-password form |
+| `[barq-modal-login]` | Login inside a modal |
+| `[barq-edit-phone]` | Let a user change their phone number |
+| `[barq-logout]` | Logout link |
 
-Page variants (`[digits-page-registration]`, `[digits-page-forgot-password]`) and the `df-*` / `dm-*` aliases are also registered.
+Page variants (`[barq-page-registration]`, `[barq-page-forgot-password]`) and the `df-*` / `dm-*` aliases are also registered.
 
 ## How the BrqSMS gateway works
 

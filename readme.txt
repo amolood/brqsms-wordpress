@@ -42,14 +42,14 @@ The OTP itself is generated and verified by the plugin, so the BrqSMS gateway is
 
 = Available shortcodes =
 
-* `[digits-login]` — login form
-* `[digits-registration]` — registration form
-* `[digits-forgot-password]` — forgot-password form
-* `[digits-modal-login]` — login in a modal
-* `[digits-edit-phone]` — let a user change their phone number
-* `[digits-logout]` — logout link
+* `[barq-login]` — login form
+* `[barq-registration]` — registration form
+* `[barq-forgot-password]` — forgot-password form
+* `[barq-modal-login]` — login in a modal
+* `[barq-edit-phone]` — let a user change their phone number
+* `[barq-logout]` — logout link
 
-Page variants (`[digits-page-registration]`, `[digits-page-forgot-password]`) and the `df-*` / `dm-*` aliases are also available.
+Page variants (`[barq-page-registration]`, `[barq-page-forgot-password]`) and the `df-*` / `dm-*` aliases are also available.
 
 == Installation ==
 
