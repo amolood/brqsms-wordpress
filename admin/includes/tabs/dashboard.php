@@ -6,8 +6,7 @@ if (!defined('ABSPATH')) {
 
 function digits_settings_dashboard()
 {
-    $code = dig_get_option('dig_purchasecode');
-    $force = empty($code);
+    $force = false;
 
     $log_url = admin_url("admin.php?page=digits_settings&view=message-logs")
     ?>
@@ -76,10 +75,6 @@ function digits_settings_dashboard()
                     </a>
                 </div>
                 <div class="dig_admin_dashboard_buttons dig_admin_dashboard_buttons_row2">
-                    <div class="dig_admin_dashboard_button digits_show_purchasecode">
-                        <span class="dig_admin_dashboard_ic dig_admin_dashboard_purchase_code"></span>
-                        <?php esc_attr_e('License Key', 'digits'); ?>
-                    </div>
                     <a href="?page=digits_settings&tab=shortcodes"
                        class="updatetabview" tab="shortcodestab">
                         <div class="dig_admin_dashboard_button">
@@ -139,26 +134,4 @@ function digits_settings_dashboard()
 
 function digits_admin_activation_modal($force)
 {
-    $class = $force ? 'digits_admin_activation_show' : '';
-    ?>
-    <div id="digits_admin_activation" class="dig_overlay_modal_content digits_activate_rq <?php echo $class; ?>">
-        <div class="digits_admin_activation_modal_container">
-            <div class="digits_admin_activation_modal_back_drop"></div>
-            <div class="digits_admin_activation_modal">
-                <div class="digits_admin_activation_modal_wrapper">
-
-                    <div class="digits_admin_activation_modal_head">
-                        <?php _e('Activate Plugin', 'digits'); ?>
-                    </div>
-                    <div class="digits_admin_activation_modal_body">
-                        <?php
-                        digit_activation();
-                        ?>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <?php
 }

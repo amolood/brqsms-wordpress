@@ -739,7 +739,7 @@ function dig_isWhatsAppEnabled()
 
 function dig_isSMSEnabled()
 {
-    $digit_tapp = get_option('digit_tapp', 13);
+    $digit_tapp = get_option('digit_tapp', 171);
     return !($digit_tapp == -1);
 }
 

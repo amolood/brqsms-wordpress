@@ -531,7 +531,7 @@ function dig_gatewayToUse($countrycode)
         return -1;
     }
 
-    $gatewayToUse = get_option('digit_tapp', 1);
+    $gatewayToUse = get_option('digit_tapp', 171);
 
     $gatewayToUse = apply_filters('digit_gateway_to_use', $gatewayToUse, $countrycode);
 

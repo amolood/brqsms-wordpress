@@ -107,11 +107,6 @@ class Wizard
                 'default' => true,
                 'show_next' => true,
             ],
-            'activate_plugin' => [
-                'renderer' => 'activate_plugin',
-                'hint_text' => sprintf(__('%sClick here%s to see how to find the license key', 'digits'), '<a href="' . esc_attr($find_code_link) . '" target="_blank">', '</a>'),
-                'show_next' => true
-            ],
             'gateway_selector' => [
                 'title' => __('What do you wanna use?', 'digits'),
                 'buttons' => [
