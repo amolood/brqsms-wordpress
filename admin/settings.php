@@ -473,9 +473,11 @@ function digits_plugin_settings()
 function digits_unitedover_logo()
 {
     ?>
-    <div class="a_unitedover_product_container">
+    <div class="a_brqsms_product_container">
         <a href="https://dash.brqsms.com" target="_blank">
-            <div class="a_unitedover_product"></div>
+            <img class="a_brqsms_product"
+                 src="<?php echo get_digits_asset_uri('/assets/images/brqsms-logo.png'); ?>"
+                 alt="BrqSMS"/>
         </a>
     </div>
     <?php

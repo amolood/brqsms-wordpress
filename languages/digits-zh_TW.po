@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login\n"
+"Project-Id-Version: BrqSMS: WordPress Mobile Number Signup and Login\n"
 "POT-Creation-Date: 2023-07-07 21:23+0530\n"
 "PO-Revision-Date: 2023-08-14 00:31:46+0800\n"
 "Last-Translator: \n"
@@ -15,128 +15,101 @@ msgstr ""
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: digit.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.min.js\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Loco-Version: 2.6.4; wp-6.3\n"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:54
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:54
-#: digapprove\Puc\v4p6\Plugin\Ui.php:54
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:54 digapprove\Puc\v4p6\Plugin\Ui.php:54
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:54
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:54
-#: digfilter\Puc\v4p6\Plugin\Ui.php:54
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:54
+#: digfilter\Puc\v4p6\Plugin\Ui.php:54 digmergphne\Puc\v4p6\Plugin\Ui.php:54
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:54
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:54
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:54
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:54
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:54
-#: update\Puc\v4p6\Plugin\Ui.php:54
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:54 digrestapi\Puc\v4p6\Plugin\Ui.php:54
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:54 update\Puc\v4p6\Plugin\Ui.php:54
 msgid "View details"
 msgstr "查看詳情"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:77
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:77
-#: digapprove\Puc\v4p6\Plugin\Ui.php:77
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:77 digapprove\Puc\v4p6\Plugin\Ui.php:77
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:77
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:77
-#: digfilter\Puc\v4p6\Plugin\Ui.php:77
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:77
+#: digfilter\Puc\v4p6\Plugin\Ui.php:77 digmergphne\Puc\v4p6\Plugin\Ui.php:77
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:77
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:77
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:77
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:77
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:77
-#: update\Puc\v4p6\Plugin\Ui.php:77
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:77 digrestapi\Puc\v4p6\Plugin\Ui.php:77
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:77 update\Puc\v4p6\Plugin\Ui.php:77
 #, php-format
 msgid "More information about %s"
 msgstr "有關 %s 的詳細資訊"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:128
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:128
-#: digapprove\Puc\v4p6\Plugin\Ui.php:128
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:128 digapprove\Puc\v4p6\Plugin\Ui.php:128
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:128
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:128
-#: digfilter\Puc\v4p6\Plugin\Ui.php:128
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:128
+#: digfilter\Puc\v4p6\Plugin\Ui.php:128 digmergphne\Puc\v4p6\Plugin\Ui.php:128
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:128
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:128
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:128
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:128
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:128
-#: update\Puc\v4p6\Plugin\Ui.php:128
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:128 digrestapi\Puc\v4p6\Plugin\Ui.php:128
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:128 update\Puc\v4p6\Plugin\Ui.php:128
 msgid "Check for updates"
 msgstr "檢查更新"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:213
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:213
-#: digapprove\Puc\v4p6\Plugin\Ui.php:213
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:213 digapprove\Puc\v4p6\Plugin\Ui.php:213
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:213
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:213
-#: digfilter\Puc\v4p6\Plugin\Ui.php:213
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:213
+#: digfilter\Puc\v4p6\Plugin\Ui.php:213 digmergphne\Puc\v4p6\Plugin\Ui.php:213
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:213
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:213
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:213
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:213
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:213
-#: update\Puc\v4p6\Plugin\Ui.php:213
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:213 digrestapi\Puc\v4p6\Plugin\Ui.php:213
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:213 update\Puc\v4p6\Plugin\Ui.php:213
 #, php-format
 msgctxt "the plugin title"
 msgid "The %s plugin is up to date."
 msgstr "%s 外掛程式是最新的。"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:215
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:215
-#: digapprove\Puc\v4p6\Plugin\Ui.php:215
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:215 digapprove\Puc\v4p6\Plugin\Ui.php:215
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:215
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:215
-#: digfilter\Puc\v4p6\Plugin\Ui.php:215
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:215
+#: digfilter\Puc\v4p6\Plugin\Ui.php:215 digmergphne\Puc\v4p6\Plugin\Ui.php:215
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:215
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:215
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:215
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:215
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:215
-#: update\Puc\v4p6\Plugin\Ui.php:215
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:215 digrestapi\Puc\v4p6\Plugin\Ui.php:215
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:215 update\Puc\v4p6\Plugin\Ui.php:215
 #, php-format
 msgctxt "the plugin title"
 msgid "A new version of the %s plugin is available."
 msgstr "%s 外掛程式的新版本可用。"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:217
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:217
-#: digapprove\Puc\v4p6\Plugin\Ui.php:217
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:217 digapprove\Puc\v4p6\Plugin\Ui.php:217
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:217
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:217
-#: digfilter\Puc\v4p6\Plugin\Ui.php:217
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:217
+#: digfilter\Puc\v4p6\Plugin\Ui.php:217 digmergphne\Puc\v4p6\Plugin\Ui.php:217
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:217
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:217
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:217
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:217
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:217
-#: update\Puc\v4p6\Plugin\Ui.php:217
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:217 digrestapi\Puc\v4p6\Plugin\Ui.php:217
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:217 update\Puc\v4p6\Plugin\Ui.php:217
 #, php-format
 msgctxt "the plugin title"
 msgid "Could not determine if updates are available for %s."
 msgstr "無法確定 %s 的更新是否可用。"
 
 #: additional-gateways\Puc\v4p6\Plugin\Ui.php:223
-#: digadvlogic\Puc\v4p6\Plugin\Ui.php:223
-#: digapprove\Puc\v4p6\Plugin\Ui.php:223
+#: digadvlogic\Puc\v4p6\Plugin\Ui.php:223 digapprove\Puc\v4p6\Plugin\Ui.php:223
 #: digbuilder\Puc\v4p6\Plugin\Ui.php:223
 #: digcountrygateways\Puc\v4p6\Plugin\Ui.php:223
-#: digfilter\Puc\v4p6\Plugin\Ui.php:223
-#: digmergphne\Puc\v4p6\Plugin\Ui.php:223
+#: digfilter\Puc\v4p6\Plugin\Ui.php:223 digmergphne\Puc\v4p6\Plugin\Ui.php:223
 #: digoldaccntmr\Puc\v4p6\Plugin\Ui.php:223
 #: digoneclickls\Puc\v4p6\Plugin\Ui.php:223
-#: digpagelock\Puc\v4p6\Plugin\Ui.php:223
-#: digrestapi\Puc\v4p6\Plugin\Ui.php:223
-#: digsociallogin\Puc\v4p6\Plugin\Ui.php:223
-#: update\Puc\v4p6\Plugin\Ui.php:223
+#: digpagelock\Puc\v4p6\Plugin\Ui.php:223 digrestapi\Puc\v4p6\Plugin\Ui.php:223
+#: digsociallogin\Puc\v4p6\Plugin\Ui.php:223 update\Puc\v4p6\Plugin\Ui.php:223
 #, php-format
 msgid "Unknown update checker status \"%s\""
 msgstr "未知的更新檢查器狀態“%s”"
@@ -157,8 +130,7 @@ msgstr "未知的更新檢查器狀態“%s”"
 msgid "There is no changelog available."
 msgstr "沒有可用的更新日誌。"
 
-#: admin\editor\editor.php:34
-#: includes\core\enqueue\enqueue_scripts.php:168
+#: admin\editor\editor.php:34 includes\core\enqueue\enqueue_scripts.php:168
 #: includes\register.php:771
 msgid "Please try again"
 msgstr "請重試"
@@ -211,14 +183,12 @@ msgstr "註冊彈出視窗"
 msgid "Login / Signup Page"
 msgstr "登錄/註冊頁面"
 
-#: admin\editor\editor.php:169
-#: admin\includes\shortcodes.php:39
+#: admin\editor\editor.php:169 admin\includes\shortcodes.php:39
 #: includes\wcs.php:356
 msgid "Login Page"
 msgstr "登錄頁面"
 
-#: admin\editor\editor.php:170
-#: includes\wcs.php:358
+#: admin\editor\editor.php:170 includes\wcs.php:358
 msgid "Signup Page"
 msgstr "註冊頁面"
 
@@ -226,26 +196,19 @@ msgstr "註冊頁面"
 msgid "Go back"
 msgstr "回去"
 
-#: admin\editor\editor.php:190
-#: digbuilder\includes\post_cst.php:108
+#: admin\editor\editor.php:190 digbuilder\includes\post_cst.php:108
 msgid "Popup Builder"
 msgstr "彈出視窗產生器"
 
-#: admin\editor\editor.php:198
-#: digbuilder\includes\post_cst.php:116
+#: admin\editor\editor.php:198 digbuilder\includes\post_cst.php:116
 msgid "Page Builder"
 msgstr "頁面生成器"
 
-#: admin\editor\editor.php:211
-#: admin\includes\functions.php:1374
-#: admin\includes\functions.php:1429
-#: admin\includes\functions.php:1543
-#: admin\includes\functions.php:1843
-#: admin\includes\functions.php:1896
-#: admin\settings.php:454
-#: admin\settings.php:595
-#: includes\account\secure.php:110
-#: includes\forms\admin.php:136
+#: admin\editor\editor.php:211 admin\includes\functions.php:1374
+#: admin\includes\functions.php:1429 admin\includes\functions.php:1543
+#: admin\includes\functions.php:1843 admin\includes\functions.php:1896
+#: admin\settings.php:454 admin\settings.php:595
+#: includes\account\secure.php:110 includes\forms\admin.php:136
 msgid "Remove"
 msgstr "刪除"
 
@@ -265,10 +228,8 @@ msgstr "選擇器"
 msgid "Cursor"
 msgstr "游標"
 
-#: admin\editor\editor.php:268
-#: admin\includes\functions.php:1070
-#: admin\includes\tabs\signup.php:436
-#: admin\settings.php:406
+#: admin\editor\editor.php:268 admin\includes\functions.php:1070
+#: admin\includes\tabs\signup.php:436 admin\settings.php:406
 msgid "Save"
 msgstr "救"
 
@@ -276,16 +237,13 @@ msgstr "救"
 msgid "Close Editor"
 msgstr "關閉編輯器"
 
-#: admin\includes\api_settings.php:38
-#: admin\includes\shortcodes.php:135
-#: admin\includes\shortcodes.php:160
-#: digbuilder\digbuilder.php:211
+#: admin\includes\api_settings.php:38 admin\includes\shortcodes.php:135
+#: admin\includes\shortcodes.php:160 digbuilder\digbuilder.php:211
 #: digbuilder\includes\import_export.php:51
 #: digbuilder\includes\widget\v1\element_form_widget.php:869
 #: digbuilder\includes\widget\v8\element_form_widget.php:893
 #: digbuilder\includes\widget\v8\element_form_widget.php:940
-#: includes\forms\render.php:676
-#: includes\forms\signup.php:147
+#: includes\forms\render.php:676 includes\forms\signup.php:147
 msgid "Register"
 msgstr "註冊"
 
@@ -298,7 +256,9 @@ msgid ""
 "You are using trial version of Digits, please register the plugin using "
 "license key or else purchase a license to use the plugin with all of its "
 "features."
-msgstr "您使用的是 Digits 的試用版，請使用購買代碼註冊外掛程式，或者購買許可證以使用該外掛程式及其所有功能。"
+msgstr ""
+"您使用的是 Digits 的試用版，請使用購買代碼註冊外掛程式，或者購買許可證以使用"
+"該外掛程式及其所有功能。"
 
 #: admin\includes\api_settings.php:50
 msgid "Fix It"
@@ -307,9 +267,11 @@ msgstr "修復它"
 #: admin\includes\api_settings.php:52
 msgid ""
 "We've noticed that your site is using insecure protocol (http) instead of "
-"secure protocol (https), so we request you change it from your WordPress General "
-"settings."
-msgstr "我們注意到您的網站使用的是不安全協定 （HTTP） 而不是安全協定 （https），因此我們要求您從 WordPress 常規設置中更改它。"
+"secure protocol (https), so we request you change it from your WordPress "
+"General settings."
+msgstr ""
+"我們注意到您的網站使用的是不安全協定 （HTTP） 而不是安全協定 （https），因此"
+"我們要求您從 WordPress 常規設置中更改它。"
 
 #: admin\includes\api_settings.php:68
 msgid "Resume"
@@ -325,28 +287,22 @@ msgstr "您將 Digits 外掛程式設定留在中間，恢復它以設置外掛�
 msgid "API Settings"
 msgstr "介面設置"
 
-#: admin\includes\api_settings.php:97
-#: admin\includes\functions.php:2136
+#: admin\includes\api_settings.php:97 admin\includes\functions.php:2136
 #: admin\includes\shortcodes.php:95
 #: includes\account\secure_account_disable.php:184
 #: includes\account\secure_account_setup.php:98
 #: includes\account\setup_account_security.php:82
 #: includes\account\setup_account_security.php:241
 #: includes\account\setup_account_security.php:414
-#: includes\forms\render.php:364
-#: includes\forms\render.php:556
-#: includes\forms\render.php:711
-#: includes\wc_checkout.php:159
-#: includes\woocommerce-registration.php:1212
-#: includes\wp.php:55
+#: includes\forms\render.php:364 includes\forms\render.php:556
+#: includes\forms\render.php:711 includes\wc_checkout.php:159
+#: includes\woocommerce-registration.php:1212 includes\wp.php:55
 #: includes\wp.php:91
 msgid "Continue"
 msgstr "繼續"
 
-#: admin\includes\api_settings.php:99
-#: admin\includes\functions.php:2139
-#: admin\includes\shortcodes.php:97
-#: admin\includes\tabs\signup.php:437
+#: admin\includes\api_settings.php:99 admin\includes\functions.php:2139
+#: admin\includes\shortcodes.php:97 admin\includes\tabs\signup.php:437
 #: digbuilder\includes\widget\element_button_widget.php:163
 msgid "Back"
 msgstr "返回"
@@ -356,10 +312,8 @@ msgid "Test Gateway Settings"
 msgstr "測試閘道設置"
 
 #: admin\includes\api_settings.php:128
-#: includes\account\setup_account_security.php:75
-#: includes\forms\render.php:294
-#: includes\forms\render.php:457
-#: includes\forms\render.php:768
+#: includes\account\setup_account_security.php:75 includes\forms\render.php:294
+#: includes\forms\render.php:457 includes\forms\render.php:768
 #: includes\forms\render.php:776
 msgid "Email Address"
 msgstr "電子郵件位址"
@@ -368,21 +322,15 @@ msgstr "電子郵件位址"
 msgid "Your Email Address"
 msgstr "您的電子郵件位址"
 
-#: admin\includes\api_settings.php:139
-#: admin\includes\api_settings.php:168
+#: admin\includes\api_settings.php:139 admin\includes\api_settings.php:168
 msgid "Send Test"
 msgstr "發送測試"
 
-#: admin\includes\api_settings.php:149
-#: admin\includes\api_settings.php:713
-#: admin\includes\gateway_functions.php:74
-#: admin\includes\users.php:11
-#: includes\forms\render.php:331
-#: includes\forms\render.php:332
-#: includes\forms\render.php:494
-#: includes\forms\render.php:495
-#: includes\forms\render.php:801
-#: includes\forms\render.php:825
+#: admin\includes\api_settings.php:149 admin\includes\api_settings.php:713
+#: admin\includes\gateway_functions.php:74 admin\includes\users.php:11
+#: includes\forms\render.php:331 includes\forms\render.php:332
+#: includes\forms\render.php:494 includes\forms\render.php:495
+#: includes\forms\render.php:801 includes\forms\render.php:825
 #: includes\forms\render.php:826
 msgid "Phone Number"
 msgstr "電話號碼"
@@ -399,10 +347,11 @@ msgstr "閘道回應"
 msgid ""
 "This response is from your gateway company. If the response looks good and "
 "you didn't receive a message then please contact your gateway support."
-msgstr "此回應來自您的閘道公司。如果回應看起來不錯，但您沒有收到消息，請聯繫您的閘道支援。"
+msgstr ""
+"此回應來自您的閘道公司。如果回應看起來不錯，但您沒有收到消息，請聯繫您的閘道"
+"支援。"
 
-#: admin\includes\api_settings.php:201
-#: digapprove\digapprove.php:74
+#: admin\includes\api_settings.php:201 digapprove\digapprove.php:74
 msgid "Disabled"
 msgstr "禁用"
 
@@ -418,10 +367,8 @@ msgstr "特威利奧身份驗證令牌"
 msgid "Whatsapp Number"
 msgstr "微信號碼"
 
-#: admin\includes\api_settings.php:220
-#: admin\includes\api_settings.php:470
-#: admin\includes\api_settings.php:482
-#: admin\includes\gateway_list.php:1398
+#: admin\includes\api_settings.php:220 admin\includes\api_settings.php:470
+#: admin\includes\api_settings.php:482 admin\includes\gateway_list.php:1398
 msgid "Access Key"
 msgstr "訪問金鑰"
 
@@ -429,38 +376,25 @@ msgstr "訪問金鑰"
 msgid "Whatsapp Channel ID"
 msgstr "微信頻道編號"
 
-#: admin\includes\api_settings.php:222
-#: admin\includes\api_settings.php:255
-#: admin\includes\api_settings.php:266
-#: admin\includes\api_settings.php:285
-#: admin\includes\api_settings.php:295
-#: admin\includes\api_settings.php:307
-#: admin\includes\api_settings.php:320
-#: admin\includes\api_settings.php:332
-#: admin\includes\api_settings.php:343
-#: admin\includes\api_settings.php:355
+#: admin\includes\api_settings.php:222 admin\includes\api_settings.php:255
+#: admin\includes\api_settings.php:266 admin\includes\api_settings.php:285
+#: admin\includes\api_settings.php:295 admin\includes\api_settings.php:307
+#: admin\includes\api_settings.php:320 admin\includes\api_settings.php:332
+#: admin\includes\api_settings.php:343 admin\includes\api_settings.php:355
 msgid "Template Name"
 msgstr "範本名稱"
 
-#: admin\includes\api_settings.php:223
-#: admin\includes\api_settings.php:256
-#: admin\includes\api_settings.php:296
-#: admin\includes\api_settings.php:308
-#: admin\includes\api_settings.php:321
-#: admin\includes\api_settings.php:333
-#: admin\includes\api_settings.php:344
-#: admin\includes\api_settings.php:356
+#: admin\includes\api_settings.php:223 admin\includes\api_settings.php:256
+#: admin\includes\api_settings.php:296 admin\includes\api_settings.php:308
+#: admin\includes\api_settings.php:321 admin\includes\api_settings.php:333
+#: admin\includes\api_settings.php:344 admin\includes\api_settings.php:356
 msgid "Namespace"
 msgstr "Namespace"
 
-#: admin\includes\api_settings.php:224
-#: admin\includes\api_settings.php:257
-#: admin\includes\api_settings.php:297
-#: admin\includes\api_settings.php:309
-#: admin\includes\api_settings.php:322
-#: admin\includes\api_settings.php:334
-#: admin\includes\api_settings.php:345
-#: admin\includes\api_settings.php:357
+#: admin\includes\api_settings.php:224 admin\includes\api_settings.php:257
+#: admin\includes\api_settings.php:297 admin\includes\api_settings.php:309
+#: admin\includes\api_settings.php:322 admin\includes\api_settings.php:334
+#: admin\includes\api_settings.php:345 admin\includes\api_settings.php:357
 msgid "Language"
 msgstr "語言"
 
@@ -468,40 +402,26 @@ msgstr "語言"
 msgid "UID"
 msgstr "優譯員"
 
-#: admin\includes\api_settings.php:233
-#: admin\includes\api_settings.php:561
+#: admin\includes\api_settings.php:233 admin\includes\api_settings.php:561
 msgid "Token"
 msgstr "令牌"
 
-#: admin\includes\api_settings.php:234
-#: admin\includes\api_settings.php:411
-#: admin\includes\api_settings.php:526
-#: admin\includes\api_settings.php:534
-#: admin\includes\api_settings.php:581
-#: admin\includes\api_settings.php:630
-#: admin\includes\api_settings.php:640
-#: admin\includes\api_settings.php:667
-#: admin\includes\gateway_list.php:1426
-#: admin\includes\gateway_list.php:1475
+#: admin\includes\api_settings.php:234 admin\includes\api_settings.php:411
+#: admin\includes\api_settings.php:526 admin\includes\api_settings.php:534
+#: admin\includes\api_settings.php:581 admin\includes\api_settings.php:630
+#: admin\includes\api_settings.php:640 admin\includes\api_settings.php:667
+#: admin\includes\gateway_list.php:1426 admin\includes\gateway_list.php:1475
 msgid "Sender"
 msgstr "寄件者"
 
-#: admin\includes\api_settings.php:243
-#: admin\includes\api_settings.php:254
-#: admin\includes\api_settings.php:274
-#: admin\includes\api_settings.php:398
-#: admin\includes\api_settings.php:422
-#: admin\includes\api_settings.php:432
-#: admin\includes\api_settings.php:493
-#: admin\includes\api_settings.php:514
-#: admin\includes\api_settings.php:533
-#: admin\includes\api_settings.php:540
-#: admin\includes\api_settings.php:571
-#: admin\includes\api_settings.php:580
-#: admin\includes\api_settings.php:609
-#: admin\includes\api_settings.php:649
-#: admin\includes\api_settings.php:666
-#: admin\includes\api_settings.php:926
+#: admin\includes\api_settings.php:243 admin\includes\api_settings.php:254
+#: admin\includes\api_settings.php:274 admin\includes\api_settings.php:398
+#: admin\includes\api_settings.php:422 admin\includes\api_settings.php:432
+#: admin\includes\api_settings.php:493 admin\includes\api_settings.php:514
+#: admin\includes\api_settings.php:533 admin\includes\api_settings.php:540
+#: admin\includes\api_settings.php:571 admin\includes\api_settings.php:580
+#: admin\includes\api_settings.php:609 admin\includes\api_settings.php:649
+#: admin\includes\api_settings.php:666 admin\includes\api_settings.php:926
 #: admin\includes\api_settings.php:930
 msgid "API Key"
 msgstr "介面金鑰"
@@ -514,30 +434,23 @@ msgstr "應用名稱"
 msgid "Source"
 msgstr "源"
 
-#: admin\includes\api_settings.php:246
-#: admin\includes\api_settings.php:445
-#: admin\includes\api_settings.php:459
-#: admin\includes\api_settings.php:517
+#: admin\includes\api_settings.php:246 admin\includes\api_settings.php:445
+#: admin\includes\api_settings.php:459 admin\includes\api_settings.php:517
 #: admin\includes\gateway_list.php:1448
 msgid "Template ID"
 msgstr "範本標識"
 
-#: admin\includes\api_settings.php:265
-#: admin\includes\gateway_list.php:1413
+#: admin\includes\api_settings.php:265 admin\includes\gateway_list.php:1413
 msgid "API Token"
 msgstr "介面令牌"
 
-#: admin\includes\api_settings.php:282
-#: admin\includes\api_settings.php:431
+#: admin\includes\api_settings.php:282 admin\includes\api_settings.php:431
 msgid "Base URL"
 msgstr "基本網址"
 
-#: admin\includes\api_settings.php:283
-#: admin\includes\api_settings.php:293
-#: admin\includes\gateway_list.php:1486
-#: admin\includes\gateway_list.php:1501
-#: admin\includes\gateway_list.php:1516
-#: admin\includes\gateway_list.php:1531
+#: admin\includes\api_settings.php:283 admin\includes\api_settings.php:293
+#: admin\includes\gateway_list.php:1486 admin\includes\gateway_list.php:1501
+#: admin\includes\gateway_list.php:1516 admin\includes\gateway_list.php:1531
 #: admin\includes\gateway_list.php:1566
 msgid "Access Token"
 msgstr "訪問令牌"
@@ -550,30 +463,20 @@ msgstr "廣播名稱"
 msgid "From Phone Number ID"
 msgstr "從電話號碼ID"
 
-#: admin\includes\api_settings.php:305
-#: admin\includes\api_settings.php:318
-#: admin\includes\api_settings.php:331
-#: admin\includes\api_settings.php:342
-#: admin\includes\api_settings.php:353
-#: admin\includes\api_settings.php:869
+#: admin\includes\api_settings.php:305 admin\includes\api_settings.php:318
+#: admin\includes\api_settings.php:331 admin\includes\api_settings.php:342
+#: admin\includes\api_settings.php:353 admin\includes\api_settings.php:869
 #: admin\includes\api_settings.php:874
 msgid "Authentication Key"
 msgstr "身份驗證金鑰"
 
-#: admin\includes\api_settings.php:306
-#: admin\includes\api_settings.php:423
-#: admin\includes\api_settings.php:433
-#: admin\includes\api_settings.php:472
-#: admin\includes\api_settings.php:484
-#: admin\includes\api_settings.php:494
-#: admin\includes\api_settings.php:508
-#: admin\includes\api_settings.php:545
-#: admin\includes\api_settings.php:562
-#: admin\includes\api_settings.php:572
-#: admin\includes\api_settings.php:598
-#: admin\includes\api_settings.php:620
-#: admin\includes\api_settings.php:659
-#: admin\includes\gateway_list.php:1414
+#: admin\includes\api_settings.php:306 admin\includes\api_settings.php:423
+#: admin\includes\api_settings.php:433 admin\includes\api_settings.php:472
+#: admin\includes\api_settings.php:484 admin\includes\api_settings.php:494
+#: admin\includes\api_settings.php:508 admin\includes\api_settings.php:545
+#: admin\includes\api_settings.php:562 admin\includes\api_settings.php:572
+#: admin\includes\api_settings.php:598 admin\includes\api_settings.php:620
+#: admin\includes\api_settings.php:659 admin\includes\gateway_list.php:1414
 msgid "From"
 msgstr "從"
 
@@ -581,18 +484,12 @@ msgstr "從"
 msgid "Instance ID"
 msgstr "實例編號"
 
-#: admin\includes\api_settings.php:354
-#: admin\includes\functions.php:1399
-#: admin\includes\functions.php:1452
-#: admin\includes\functions.php:1566
-#: admin\includes\functions.php:1867
-#: admin\includes\functions.php:1919
-#: admin\includes\tabs\general.php:311
-#: admin\includes\tabs\general.php:322
-#: admin\includes\tabs\general.php:331
-#: admin\includes\tabs\general.php:342
-#: admin\includes\tabs\general.php:351
-#: includes\forms\admin.php:159
+#: admin\includes\api_settings.php:354 admin\includes\functions.php:1399
+#: admin\includes\functions.php:1452 admin\includes\functions.php:1566
+#: admin\includes\functions.php:1867 admin\includes\functions.php:1919
+#: admin\includes\tabs\general.php:311 admin\includes\tabs\general.php:322
+#: admin\includes\tabs\general.php:331 admin\includes\tabs\general.php:342
+#: admin\includes\tabs\general.php:351 includes\forms\admin.php:159
 msgid "URL"
 msgstr "網址"
 
@@ -608,8 +505,7 @@ msgstr "鼻祖"
 msgid "Auth ID"
 msgstr "身份驗證標識"
 
-#: admin\includes\api_settings.php:407
-#: admin\includes\api_settings.php:846
+#: admin\includes\api_settings.php:407 admin\includes\api_settings.php:846
 #: admin\includes\api_settings.php:850
 msgid "Auth Token"
 msgstr "身份驗證令牌"
@@ -618,38 +514,29 @@ msgstr "身份驗證令牌"
 msgid "API Username"
 msgstr "介面使用者名"
 
-#: admin\includes\api_settings.php:441
-#: admin\includes\api_settings.php:455
+#: admin\includes\api_settings.php:441 admin\includes\api_settings.php:455
 msgid "Access Key ID"
 msgstr "訪問金鑰標識"
 
-#: admin\includes\api_settings.php:442
-#: admin\includes\api_settings.php:456
+#: admin\includes\api_settings.php:442 admin\includes\api_settings.php:456
 msgid "Secret Access Key"
 msgstr "秘密訪問金鑰"
 
-#: admin\includes\api_settings.php:443
-#: admin\includes\api_settings.php:457
+#: admin\includes\api_settings.php:443 admin\includes\api_settings.php:457
 #: admin\includes\gateway_list.php:1444
 msgid "Region"
 msgstr "地區"
 
-#: admin\includes\api_settings.php:444
-#: admin\includes\api_settings.php:458
-#: admin\includes\api_settings.php:516
-#: admin\includes\api_settings.php:589
-#: admin\includes\api_settings.php:676
-#: admin\includes\api_settings.php:714
-#: admin\includes\api_settings.php:862
-#: admin\includes\api_settings.php:903
-#: admin\includes\api_settings.php:907
-#: admin\includes\gateway_functions.php:75
+#: admin\includes\api_settings.php:444 admin\includes\api_settings.php:458
+#: admin\includes\api_settings.php:516 admin\includes\api_settings.php:589
+#: admin\includes\api_settings.php:676 admin\includes\api_settings.php:714
+#: admin\includes\api_settings.php:862 admin\includes\api_settings.php:903
+#: admin\includes\api_settings.php:907 admin\includes\gateway_functions.php:75
 #: admin\includes\gateway_list.php:1554
 msgid "Sender ID"
 msgstr "寄件者ID"
 
-#: admin\includes\api_settings.php:446
-#: admin\includes\api_settings.php:460
+#: admin\includes\api_settings.php:446 admin\includes\api_settings.php:460
 msgid "Entity ID"
 msgstr "實體標識"
 
@@ -657,8 +544,7 @@ msgstr "實體標識"
 msgid "Application ID/Project ID"
 msgstr "應用程式 ID/專案 ID"
 
-#: admin\includes\api_settings.php:471
-#: admin\includes\api_settings.php:483
+#: admin\includes\api_settings.php:471 admin\includes\api_settings.php:483
 #: admin\includes\gateway_list.php:1399
 msgid "Access Secret"
 msgstr "訪問金鑰"
@@ -683,66 +569,42 @@ msgstr "席德"
 msgid "Mobile"
 msgstr "移動"
 
-#: admin\includes\api_settings.php:525
-#: admin\includes\api_settings.php:597
-#: admin\includes\api_settings.php:619
-#: admin\includes\api_settings.php:629
-#: admin\includes\api_settings.php:639
-#: admin\includes\api_settings.php:658
-#: admin\includes\gateway_list.php:1425
-#: admin\includes\gateway_list.php:1471
-#: admin\includes\gateway_list.php:1550
-#: admin\includes\tabs\2fa.php:198
+#: admin\includes\api_settings.php:525 admin\includes\api_settings.php:597
+#: admin\includes\api_settings.php:619 admin\includes\api_settings.php:629
+#: admin\includes\api_settings.php:639 admin\includes\api_settings.php:658
+#: admin\includes\gateway_list.php:1425 admin\includes\gateway_list.php:1471
+#: admin\includes\gateway_list.php:1550 admin\includes\tabs\2fa.php:198
 #: digbuilder\includes\form.php:140
 #: digbuilder\includes\widget\v1\element_form_widget.php:354
 #: digbuilder\includes\widget\v1\element_form_widget.php:438
-#: digbuilder\includes\widget\v8\element_form_widget.php:474
-#: digit.php:2532
-#: digit.php:2589
-#: includes\account\secure_account_disable.php:177
-#: includes\core\enqueue\enqueue_scripts.php:175
-#: includes\forms.php:264
-#: includes\forms.php:430
-#: includes\forms.php:659
-#: includes\forms\handler\process.php:76
-#: includes\forms\handler\process.php:188
-#: includes\forms\handler\process.php:552
-#: includes\forms\signup.php:337
-#: includes\forms\signup.php:347
-#: includes\woocommerce-registration.php:372
+#: digbuilder\includes\widget\v8\element_form_widget.php:474 digit.php:2532
+#: digit.php:2589 includes\account\secure_account_disable.php:177
+#: includes\core\enqueue\enqueue_scripts.php:175 includes\forms.php:264
+#: includes\forms.php:430 includes\forms.php:659
+#: includes\forms\handler\process.php:76 includes\forms\handler\process.php:188
+#: includes\forms\handler\process.php:552 includes\forms\signup.php:337
+#: includes\forms\signup.php:347 includes\woocommerce-registration.php:372
 #: includes\woocommerce-registration.php:385
 msgid "Password"
 msgstr "密碼"
 
-#: admin\includes\api_settings.php:541
-#: admin\includes\api_settings.php:610
+#: admin\includes\api_settings.php:541 admin\includes\api_settings.php:610
 msgid "API Secret"
 msgstr "介面金鑰"
 
-#: admin\includes\api_settings.php:570
-#: admin\includes\api_settings.php:596
-#: admin\includes\api_settings.php:618
-#: admin\includes\api_settings.php:657
-#: admin\includes\gateway_list.php:1424
-#: admin\includes\gateway_list.php:1467
-#: admin\includes\gateway_list.php:1505
-#: admin\includes\gateway_list.php:1546
+#: admin\includes\api_settings.php:570 admin\includes\api_settings.php:596
+#: admin\includes\api_settings.php:618 admin\includes\api_settings.php:657
+#: admin\includes\gateway_list.php:1424 admin\includes\gateway_list.php:1467
+#: admin\includes\gateway_list.php:1505 admin\includes\gateway_list.php:1546
 #: digbuilder\includes\form.php:122
 #: digbuilder\includes\widget\v1\element_form_widget.php:317
 #: digbuilder\includes\widget\v1\element_form_widget.php:434
 #: digbuilder\includes\widget\v8\element_form_widget.php:375
-#: digbuilder\includes\widget\v8\element_form_widget.php:471
-#: digit.php:1422
-#: digit.php:2527
-#: digit.php:2586
-#: includes\forms.php:204
-#: includes\forms.php:496
-#: includes\forms.php:550
-#: includes\forms\render.php:296
-#: includes\forms\render.php:459
-#: includes\forms\signup.php:314
-#: includes\forms\signup.php:324
-#: includes\process_user.php:77
+#: digbuilder\includes\widget\v8\element_form_widget.php:471 digit.php:1422
+#: digit.php:2527 digit.php:2586 includes\forms.php:204 includes\forms.php:496
+#: includes\forms.php:550 includes\forms\render.php:296
+#: includes\forms\render.php:459 includes\forms\signup.php:314
+#: includes\forms\signup.php:324 includes\process_user.php:77
 msgid "Username"
 msgstr "使用者名"
 
@@ -750,20 +612,15 @@ msgstr "使用者名"
 msgid "AppSid"
 msgstr "應用希德"
 
-#: admin\includes\api_settings.php:628
-#: admin\includes\api_settings.php:638
-#: admin\includes\shortcodes.php:140
-#: admin\includes\shortcodes.php:152
-#: admin\settings.php:765
-#: digbuilder\digbuilder.php:210
+#: admin\includes\api_settings.php:628 admin\includes\api_settings.php:638
+#: admin\includes\shortcodes.php:140 admin\includes\shortcodes.php:152
+#: admin\settings.php:765 digbuilder\digbuilder.php:210
 #: digbuilder\includes\import_export.php:50
 #: digbuilder\includes\widget\v1\element_form_widget.php:845
 #: digbuilder\includes\widget\v1\element_form_widget.php:906
 #: digbuilder\includes\widget\v8\element_form_widget.php:869
-#: digbuilder\includes\widget\v8\element_form_widget.php:918
-#: digit.php:773
-#: includes\forms.php:64
-#: includes\forms\handler\process.php:99
+#: digbuilder\includes\widget\v8\element_form_widget.php:918 digit.php:773
+#: includes\forms.php:64 includes\forms\handler\process.php:99
 #: includes\forms\render.php:431
 msgid "Login"
 msgstr "登錄"
@@ -772,76 +629,60 @@ msgstr "登錄"
 msgid "Auth Key"
 msgstr "身份驗證金鑰"
 
-#: admin\includes\api_settings.php:698
-#: admin\includes\gateway_functions.php:59
+#: admin\includes\api_settings.php:698 admin\includes\gateway_functions.php:59
 msgid "Enter Parameters separated by \",\" and values by \":\""
 msgstr "輸入用“，”分隔的參數和用“：”分隔的值"
 
-#: admin\includes\api_settings.php:704
-#: admin\includes\gateway_functions.php:65
+#: admin\includes\api_settings.php:704 admin\includes\gateway_functions.php:65
 msgid "Custom Gateway"
 msgstr "自定義閘道"
 
-#: admin\includes\api_settings.php:705
-#: admin\includes\gateway_functions.php:66
+#: admin\includes\api_settings.php:705 admin\includes\gateway_functions.php:66
 #: digbuilder\includes\widget\v1\element_form_widget.php:443
 #: digbuilder\includes\widget\v8\element_form_widget.php:479
 msgid "Custom"
 msgstr "習慣"
 
-#: admin\includes\api_settings.php:707
-#: admin\includes\gateway_functions.php:68
+#: admin\includes\api_settings.php:707 admin\includes\gateway_functions.php:68
 msgid "SMS Gateway URL"
 msgstr "簡訊閘道網址"
 
-#: admin\includes\api_settings.php:708
-#: admin\includes\gateway_functions.php:69
+#: admin\includes\api_settings.php:708 admin\includes\gateway_functions.php:69
 msgid "HTTP Header"
 msgstr "HTTP 標頭"
 
-#: admin\includes\api_settings.php:708
-#: admin\includes\gateway_functions.php:69
+#: admin\includes\api_settings.php:708 admin\includes\gateway_functions.php:69
 msgid "Headers separated by \",\""
 msgstr "用“，”分隔的標題"
 
-#: admin\includes\api_settings.php:709
-#: admin\includes\gateway_functions.php:70
+#: admin\includes\api_settings.php:709 admin\includes\gateway_functions.php:70
 msgid "HTTP Method"
 msgstr "HTTP方法"
 
-#: admin\includes\api_settings.php:710
-#: admin\includes\gateway_functions.php:71
+#: admin\includes\api_settings.php:710 admin\includes\gateway_functions.php:71
 msgid "Gateway Parameters"
 msgstr "閘道參數"
 
-#: admin\includes\api_settings.php:711
-#: admin\includes\gateway_functions.php:72
+#: admin\includes\api_settings.php:711 admin\includes\gateway_functions.php:72
 msgid "Send as Body Data"
 msgstr "作為正文數據發送"
 
-#: admin\includes\api_settings.php:712
-#: admin\includes\gateway_functions.php:73
+#: admin\includes\api_settings.php:712 admin\includes\gateway_functions.php:73
 msgid "Encode Message"
 msgstr "編碼消息"
 
-#: admin\includes\api_settings.php:712
-#: admin\includes\gateway_functions.php:73
+#: admin\includes\api_settings.php:712 admin\includes\gateway_functions.php:73
 msgid "URL Encode"
 msgstr "網址編碼"
 
-#: admin\includes\api_settings.php:712
-#: admin\includes\gateway_functions.php:73
+#: admin\includes\api_settings.php:712 admin\includes\gateway_functions.php:73
 msgid "URL Raw Encode"
 msgstr "網址原始編碼"
 
-#: admin\includes\api_settings.php:712
-#: admin\includes\gateway_functions.php:73
-#: admin\includes\tabs\forms.php:51
-#: admin\includes\tabs\forms.php:274
-#: admin\includes\tabs\signup.php:191
-#: admin\includes\tabs\signup.php:352
-#: admin\settings.php:548
-#: digapprove\digapprove.php:132
+#: admin\includes\api_settings.php:712 admin\includes\gateway_functions.php:73
+#: admin\includes\tabs\forms.php:51 admin\includes\tabs\forms.php:274
+#: admin\includes\tabs\signup.php:191 admin\includes\tabs\signup.php:352
+#: admin\settings.php:548 digapprove\digapprove.php:132
 #: digbuilder\includes\builder\Digits_Group_Control_Box_Style.php:224
 #: digbuilder\includes\builder\document.php:98
 #: digbuilder\includes\builder\document.php:240
@@ -868,47 +709,36 @@ msgstr "網址原始編碼"
 #: digbuilder\includes\widget\v8\element_form_widget.php:1093
 #: digbuilder\includes\widget\v8\element_form_widget.php:1121
 #: digbuilder\includes\widget\v8\element_form_widget.php:1136
-#: digfilter\digfilter.php:162
-#: digmergphne\digmergphne.php:104
-#: digmergphne\digmergphne.php:121
-#: digoldaccntmr\digoldaccntmr.php:120
-#: digoldaccntmr\digoldaccntmr.php:137
-#: digoneclickls\digoneclickls.php:103
-#: digoneclickls\digoneclickls.php:120
-#: digpagelock\digpagelock.php:177
-#: digpagelock\digpagelock.php:220
-#: digrestapi\digrestapi.php:109
+#: digfilter\digfilter.php:162 digmergphne\digmergphne.php:104
+#: digmergphne\digmergphne.php:121 digoldaccntmr\digoldaccntmr.php:120
+#: digoldaccntmr\digoldaccntmr.php:137 digoneclickls\digoneclickls.php:103
+#: digoneclickls\digoneclickls.php:120 digpagelock\digpagelock.php:177
+#: digpagelock\digpagelock.php:220 digrestapi\digrestapi.php:109
 msgid "No"
 msgstr "不"
 
-#: admin\includes\api_settings.php:712
-#: admin\includes\gateway_functions.php:73
+#: admin\includes\api_settings.php:712 admin\includes\gateway_functions.php:73
 msgid "Convert To Unicode"
 msgstr "轉換為統一碼"
 
-#: admin\includes\api_settings.php:713
-#: admin\includes\gateway_functions.php:74
+#: admin\includes\api_settings.php:713 admin\includes\gateway_functions.php:74
 msgid "with + and country code"
 msgstr "帶 + 和國家/地區代碼"
 
-#: admin\includes\api_settings.php:713
-#: admin\includes\gateway_functions.php:74
+#: admin\includes\api_settings.php:713 admin\includes\gateway_functions.php:74
 msgid "with only country code"
 msgstr "僅使用國家/地區代碼"
 
-#: admin\includes\api_settings.php:713
-#: admin\includes\gateway_functions.php:74
+#: admin\includes\api_settings.php:713 admin\includes\gateway_functions.php:74
 msgid "without country code"
 msgstr "沒有國家代碼"
 
-#: admin\includes\api_settings.php:780
-#: admin\includes\api_settings.php:1008
+#: admin\includes\api_settings.php:780 admin\includes\api_settings.php:1008
 #: admin\settings.php:743
 msgid "SMS Gateway"
 msgstr "簡訊閘道"
 
-#: admin\includes\api_settings.php:791
-#: admin\includes\api_settings.php:795
+#: admin\includes\api_settings.php:791 admin\includes\api_settings.php:795
 msgid "App ID"
 msgstr "應用ID"
 
@@ -926,10 +756,8 @@ msgstr "應用機密"
 msgid "Type"
 msgstr "類型"
 
-#: admin\includes\api_settings.php:819
-#: admin\includes\functions.php:1317
-#: admin\includes\functions.php:1819
-#: digpagelock\digpagelock.php:237
+#: admin\includes\api_settings.php:819 admin\includes\functions.php:1317
+#: admin\includes\functions.php:1819 digpagelock\digpagelock.php:237
 #: digpagelock\digpagelock.php:552
 msgid "Modal"
 msgstr "模 態"
@@ -945,8 +773,7 @@ msgid ""
 "using modal."
 msgstr "僅當您的網站不 https:// 時才使用彈出視窗，否則我們強烈建議使用模態。"
 
-#: admin\includes\api_settings.php:835
-#: admin\includes\api_settings.php:839
+#: admin\includes\api_settings.php:835 admin\includes\api_settings.php:839
 msgid "Account SID"
 msgstr "帳戶 SID"
 
@@ -966,16 +793,17 @@ msgstr "發送一次性密碼"
 msgid "Transactional"
 msgstr "事務"
 
-#: admin\includes\api_settings.php:914
-#: admin\includes\api_settings.php:919
+#: admin\includes\api_settings.php:914 admin\includes\api_settings.php:919
 msgid "DLT Template ID"
 msgstr "DLT 範本編號"
 
 #: admin\includes\api_settings.php:931
 msgid ""
-"Please keep this message template similar to the one on Yunpian, just replace "
-"#code# with {OTP} otherwise messages will not be sent."
-msgstr "請保持此消息範本與雲拍上的範本相似，只需將 #code# 替換為 {OTP}，否則消息將無法發送。"
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with {OTP} otherwise messages will not be sent."
+msgstr ""
+"請保持此消息範本與雲拍上的範本相似，只需將 #code# 替換為 {OTP}，否則消息將無"
+"法發送。"
 
 #: admin\includes\api_settings.php:951
 #: digcountrygateways\digcountrygateways.php:135
@@ -1001,25 +829,15 @@ msgstr "域"
 #: digbuilder\includes\widget\v1\element_form_widget.php:953
 #: digbuilder\includes\widget\v1\element_form_widget.php:1040
 #: digbuilder\includes\widget\v1\element_form_widget.php:1042
-#: digcountrygateways\digcountrygateways.php:147
-#: digit.php:906
-#: digit.php:2530
-#: digoldaccntmr\digoldaccntmr.php:812
-#: digoneclickls\digoneclickls.php:236
-#: includes\core\enqueue\enqueue_scripts.php:171
-#: includes\edit_number.php:39
-#: includes\forms.php:68
-#: includes\forms.php:75
-#: includes\forms.php:412
+#: digcountrygateways\digcountrygateways.php:147 digit.php:906 digit.php:2530
+#: digoldaccntmr\digoldaccntmr.php:812 digoneclickls\digoneclickls.php:236
+#: includes\core\enqueue\enqueue_scripts.php:171 includes\edit_number.php:39
+#: includes\forms.php:68 includes\forms.php:75 includes\forms.php:412
 #: includes\forms\handler\UserRegistration.php:568
-#: includes\forms\handler\process.php:77
-#: includes\forms\handler\process.php:558
-#: includes\plugins\bp.php:90
-#: includes\plugins\bp.php:152
-#: includes\plugins\um.php:101
-#: includes\plugins\um.php:167
-#: includes\wc_checkout.php:150
-#: includes\woocommerce-registration.php:157
+#: includes\forms\handler\process.php:77 includes\forms\handler\process.php:558
+#: includes\plugins\bp.php:90 includes\plugins\bp.php:152
+#: includes\plugins\um.php:101 includes\plugins\um.php:167
+#: includes\wc_checkout.php:150 includes\woocommerce-registration.php:157
 #: includes\woocommerce-registration.php:1148
 #: includes\woocommerce-registration.php:1349
 #: includes\woocommerce-registration.php:1415
@@ -1031,17 +849,17 @@ msgstr "一次性密碼"
 msgid ""
 "For SMS gateways besides Firebase, we recommend testing your gateway "
 "beforehand to avoid confusion and ensure successful message delivery."
-msgstr "對於除 Firebase 之外的簡訊閘道，我們建議您事先測試您的閘道，以避免混淆並確保消息傳遞成功。"
+msgstr ""
+"對於除 Firebase 之外的簡訊閘道，我們建議您事先測試您的閘道，以避免混淆並確保"
+"消息傳遞成功。"
 
 #: admin\includes\api_settings.php:1000
-#: admin\includes\tabs\authentication.php:63
-#: admin\settings.php:744
+#: admin\includes\tabs\authentication.php:63 admin\settings.php:744
 msgid "Email Gateway"
 msgstr "郵件閘道"
 
 #: admin\includes\api_settings.php:1004
-#: admin\includes\tabs\authentication.php:92
-#: admin\settings.php:745
+#: admin\includes\tabs\authentication.php:92 admin\settings.php:745
 msgid "WhatsApp Gateway"
 msgstr "WhatsApp Gateway"
 
@@ -1062,14 +880,12 @@ msgstr "點擊這裡"
 #: digbuilder\includes\widget\v1\element_form_widget.php:447
 #: digbuilder\includes\widget\v1\element_form_widget.php:453
 #: digbuilder\includes\widget\v8\element_form_widget.php:483
-#: digbuilder\includes\widget\v8\element_form_widget.php:489
-#: digit.php:331
+#: digbuilder\includes\widget\v8\element_form_widget.php:489 digit.php:331
 #: includes\register.php:103
 msgid "Last Name"
 msgstr "姓"
 
-#: admin\includes\custom_fields.php:22
-#: admin\includes\custom_fields.php:190
+#: admin\includes\custom_fields.php:22 admin\includes\custom_fields.php:190
 #: admin\includes\tabs\2fa.php:268
 #: digbuilder\includes\widget\v1\element_form_widget.php:449
 #: digbuilder\includes\widget\v1\element_form_widget.php:499
@@ -1169,35 +985,28 @@ msgstr "收音機"
 msgid "Terms & Conditions"
 msgstr "條款和條件"
 
-#: admin\includes\custom_fields.php:160
-#: admin\includes\custom_fields.php:161
+#: admin\includes\custom_fields.php:160 admin\includes\custom_fields.php:161
 msgid "Form Break"
 msgstr "表單中斷"
 
-#: admin\includes\custom_fields.php:168
-#: admin\includes\custom_fields.php:169
+#: admin\includes\custom_fields.php:168 admin\includes\custom_fields.php:169
 msgid "Step Title"
 msgstr "步驟標題"
 
-#: admin\includes\custom_fields.php:176
-#: admin\includes\tabs\forms.php:241
+#: admin\includes\custom_fields.php:176 admin\includes\tabs\forms.php:241
 #: digbuilder\includes\widget\v1\element_form_widget.php:379
 #: digbuilder\includes\widget\v1\element_form_widget.php:471
 #: digbuilder\includes\widget\v8\element_form_widget.php:412
-#: digbuilder\includes\widget\v8\element_form_widget.php:507
-#: digit.php:1866
-#: digit.php:1874
-#: digit.php:2536
+#: digbuilder\includes\widget\v8\element_form_widget.php:507 digit.php:1866
+#: digit.php:1874 digit.php:2536
 msgid "Captcha"
 msgstr "驗證碼"
 
-#: admin\includes\custom_fields.php:183
-#: admin\includes\tabs\forms.php:250
+#: admin\includes\custom_fields.php:183 admin\includes\tabs\forms.php:250
 msgid "ReCaptcha"
 msgstr "驗證碼"
 
-#: admin\includes\custom_fields.php:199
-#: digbuilder\includes\main.php:158
+#: admin\includes\custom_fields.php:199 digbuilder\includes\main.php:158
 #: digbuilder\includes\widget\v1\element_form_widget.php:473
 #: digbuilder\includes\widget\v8\element_form_widget.php:509
 msgid "Date"
@@ -1207,8 +1016,7 @@ msgstr "日期"
 msgid "Unexpected error occured while getting addons"
 msgstr "獲取外掛程式時發生意外錯誤"
 
-#: admin\includes\functions.php:839
-#: admin\settings.php:736
+#: admin\includes\functions.php:839 admin\settings.php:736
 msgid "All Addons"
 msgstr "所有外掛程式"
 
@@ -1228,12 +1036,6 @@ msgstr "測試現場"
 msgid "License Key"
 msgstr "購買代碼"
 
-#: admin\includes\functions.php:1054
-#: admin\includes\tabs\dashboard.php:57
-#: admin\obw\obw.php:528
-msgid "License Key"
-msgstr "購買代碼"
-
 #: admin\includes\functions.php:1057
 msgid "DEREGISTER"
 msgstr "取消註冊"
@@ -1245,16 +1047,20 @@ msgstr "請啟動您的外掛程式以接收更新"
 #: admin\includes\functions.php:1093
 msgid ""
 "If you want to use same license key on your production site then please "
-"click the below button to request for it. Our team will take less than 12 hours "
-"to respond to your request, and will notify via email."
-msgstr "如果您想在生產網站上使用相同的購買代碼，請按下下面的按鈕進行請求。我們的團隊將在不到 12 小時內回復您的請求，並會通過電子郵件通知。"
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+"如果您想在生產網站上使用相同的購買代碼，請按下下面的按鈕進行請求。我們的團隊"
+"將在不到 12 小時內回復您的請求，並會通過電子郵件通知。"
 
 #: admin\includes\functions.php:1098
 msgid ""
 "If you want to use same license key on your testing site then please click "
 "the below button to request for it. Our team will take less than 12 hours to "
 "respond to your request, and will notify via email."
-msgstr "如果您想在測試網站上使用相同的購買代碼，請按下下面的按鈕進行請求。我們的團隊將在不到 12 小時內回復您的請求，並會通過電子郵件通知。"
+msgstr ""
+"如果您想在測試網站上使用相同的購買代碼，請按下下面的按鈕進行請求。我們的團隊"
+"將在不到 12 小時內回復您的請求，並會通過電子郵件通知。"
 
 #: admin\includes\functions.php:1108
 msgid "Request Production Site Addition"
@@ -1264,8 +1070,7 @@ msgstr "請求增加生產基地"
 msgid "Request Testing Site Addition"
 msgstr "請求添加測試網站"
 
-#: admin\includes\functions.php:1125
-#: admin\includes\functions.php:2166
+#: admin\includes\functions.php:1125 admin\includes\functions.php:2166
 #: admin\includes\functions.php:2176
 msgid "CUSTOM"
 msgstr "習慣"
@@ -1274,15 +1079,10 @@ msgstr "習慣"
 msgid "Preset"
 msgstr "預設"
 
-#: admin\includes\functions.php:1246
-#: admin\includes\functions.php:1371
-#: admin\includes\functions.php:1426
-#: admin\includes\functions.php:1540
-#: admin\includes\functions.php:1840
-#: admin\includes\functions.php:1893
-#: admin\settings.php:453
-#: admin\settings.php:594
-#: includes\forms\admin.php:133
+#: admin\includes\functions.php:1246 admin\includes\functions.php:1371
+#: admin\includes\functions.php:1426 admin\includes\functions.php:1540
+#: admin\includes\functions.php:1840 admin\includes\functions.php:1893
+#: admin\settings.php:453 admin\settings.php:594 includes\forms\admin.php:133
 msgid "Select"
 msgstr "選擇"
 
@@ -1290,16 +1090,13 @@ msgstr "選擇"
 msgid "Form Type"
 msgstr "表單類型"
 
-#: admin\includes\functions.php:1277
-#: admin\includes\functions.php:1359
+#: admin\includes\functions.php:1277 admin\includes\functions.php:1359
 #: digbuilder\includes\widget\element_button_widget.php:187
-#: digpagelock\digpagelock.php:234
-#: digpagelock\digpagelock.php:549
+#: digpagelock\digpagelock.php:234 digpagelock\digpagelock.php:549
 msgid "Page"
 msgstr "頁"
 
-#: admin\includes\functions.php:1364
-#: includes\forms\admin.php:93
+#: admin\includes\functions.php:1364 includes\forms\admin.php:93
 #: includes\forms\admin.php:100
 msgid "Logo"
 msgstr "商標"
@@ -1312,13 +1109,11 @@ msgstr "登錄頁面左側背景色"
 msgid "Login Page Left Image"
 msgstr "登錄頁面左圖圖片"
 
-#: admin\includes\functions.php:1463
-#: admin\includes\functions.php:1930
+#: admin\includes\functions.php:1463 admin\includes\functions.php:1930
 msgid "Login Page Left Background Size"
 msgstr "登錄頁面左側背景大小"
 
-#: admin\includes\functions.php:1481
-#: admin\includes\functions.php:1948
+#: admin\includes\functions.php:1481 admin\includes\functions.php:1948
 msgid "Login Page Left Background Position"
 msgstr "登錄頁面左側背景位置"
 
@@ -1346,23 +1141,19 @@ msgstr "登錄框背景顏色"
 msgid "Login Box Shadow"
 msgstr "登錄框陰影"
 
-#: admin\includes\functions.php:1588
-#: admin\includes\functions.php:1981
+#: admin\includes\functions.php:1588 admin\includes\functions.php:1981
 msgid "X"
 msgstr "X"
 
-#: admin\includes\functions.php:1596
-#: admin\includes\functions.php:1989
+#: admin\includes\functions.php:1596 admin\includes\functions.php:1989
 msgid "Y"
 msgstr "Y"
 
-#: admin\includes\functions.php:1604
-#: admin\includes\functions.php:1998
+#: admin\includes\functions.php:1604 admin\includes\functions.php:1998
 msgid "Blur"
 msgstr "模糊"
 
-#: admin\includes\functions.php:1612
-#: admin\includes\functions.php:2008
+#: admin\includes\functions.php:1612 admin\includes\functions.php:2008
 msgid "Spread"
 msgstr "傳播"
 
@@ -1374,13 +1165,11 @@ msgstr "登錄框陰影顏色"
 msgid "Login Box Radius"
 msgstr "登錄框半徑"
 
-#: admin\includes\functions.php:1646
-#: admin\includes\functions.php:2044
+#: admin\includes\functions.php:1646 admin\includes\functions.php:2044
 msgid "Text and Button Color"
 msgstr "文字和按鈕顏色"
 
-#: admin\includes\functions.php:1647
-#: admin\includes\functions.php:2045
+#: admin\includes\functions.php:1647 admin\includes\functions.php:2045
 #: digbuilder\includes\widget\element_button_widget.php:344
 #: digbuilder\includes\widget\element_button_widget.php:380
 #: digbuilder\includes\widget\v1\element_form_widget.php:1202
@@ -1414,8 +1203,7 @@ msgstr "文字和按鈕顏色"
 msgid "Text Color"
 msgstr "文字顏色"
 
-#: admin\includes\functions.php:1656
-#: admin\includes\functions.php:2054
+#: admin\includes\functions.php:1656 admin\includes\functions.php:2054
 msgid "Button Font Color"
 msgstr "按鈕字體顏色"
 
@@ -1423,45 +1211,37 @@ msgstr "按鈕字體顏色"
 msgid "Back/Cancel Button Color"
 msgstr "返回/取消按鈕顏色"
 
-#: admin\includes\functions.php:1672
-#: admin\includes\functions.php:2063
+#: admin\includes\functions.php:1672 admin\includes\functions.php:2063
 msgid "Input Background Color"
 msgstr "輸入背景顏色"
 
-#: admin\includes\functions.php:1679
-#: admin\includes\functions.php:2070
+#: admin\includes\functions.php:1679 admin\includes\functions.php:2070
 msgid "Input Border Color"
 msgstr "輸入邊框顏色"
 
-#: admin\includes\functions.php:1686
-#: admin\includes\functions.php:2078
+#: admin\includes\functions.php:1686 admin\includes\functions.php:2078
 msgid "Input Text Color"
 msgstr "輸入文字顏色"
 
-#: admin\includes\functions.php:1693
-#: admin\includes\functions.php:2086
+#: admin\includes\functions.php:1693 admin\includes\functions.php:2086
 msgid "Button Border Color"
 msgstr "按鈕邊框顏色"
 
-#: admin\includes\functions.php:1701
-#: admin\includes\functions.php:2094
+#: admin\includes\functions.php:1701 admin\includes\functions.php:2094
 #: digbuilder\includes\widget\v8\element_form_widget.php:1035
 #: includes\forms\admin.php:106
 msgid "Button Text Color"
 msgstr "按鈕文本顏色"
 
-#: admin\includes\functions.php:1709
-#: admin\includes\functions.php:2103
+#: admin\includes\functions.php:1709 admin\includes\functions.php:2103
 msgid "Signup Button Color"
 msgstr "註冊按鈕顏色"
 
-#: admin\includes\functions.php:1717
-#: admin\includes\functions.php:2111
+#: admin\includes\functions.php:1717 admin\includes\functions.php:2111
 msgid "Signup Button Border Color"
 msgstr "註冊按鈕邊框顏色"
 
-#: admin\includes\functions.php:1726
-#: admin\includes\functions.php:2120
+#: admin\includes\functions.php:1726 admin\includes\functions.php:2120
 msgid "Signup Button Text Color"
 msgstr "註冊按鈕文本顏色"
 
@@ -1501,8 +1281,7 @@ msgstr "登錄模態半徑"
 msgid "PRESET LIBRARY"
 msgstr "預設庫"
 
-#: admin\includes\functions.php:2161
-#: admin\includes\tabs\general.php:513
+#: admin\includes\functions.php:2161 admin\includes\tabs\general.php:513
 msgid "CLOSE"
 msgstr "關閉"
 
@@ -1522,8 +1301,7 @@ msgstr "區域（選擇）"
 msgid "API Version (Optional)"
 msgstr "API 版本（選擇）"
 
-#: admin\includes\gateway_list.php:1402
-#: admin\includes\gateway_list.php:1452
+#: admin\includes\gateway_list.php:1402 admin\includes\gateway_list.php:1452
 msgid "Sign Name"
 msgstr "標誌名稱"
 
@@ -1535,8 +1313,7 @@ msgstr "範本代碼"
 msgid "Secret ID"
 msgstr "機密標識"
 
-#: admin\includes\gateway_list.php:1440
-#: admin\includes\tabs\recaptcha.php:33
+#: admin\includes\gateway_list.php:1440 admin\includes\tabs\recaptcha.php:33
 msgid "Secret Key"
 msgstr "金鑰"
 
@@ -1548,8 +1325,7 @@ msgstr "簡訊開發工具包應用編號"
 msgid "Campaign ID"
 msgstr "廣告系列編號"
 
-#: admin\includes\gateway_list.php:1520
-#: admin\includes\gateway_list.php:1535
+#: admin\includes\gateway_list.php:1520 admin\includes\gateway_list.php:1535
 msgid "Account ID"
 msgstr "帳戶編號"
 
@@ -1610,18 +1386,15 @@ msgstr "三因素身份驗證設置"
 msgid "Menu Items"
 msgstr "功能表項"
 
-#: admin\includes\shortcodes.php:37
-#: includes\wcs.php:354
+#: admin\includes\shortcodes.php:37 includes\wcs.php:354
 msgid "Login/Signup Page"
 msgstr "登錄/註冊頁面"
 
-#: admin\includes\shortcodes.php:38
-#: includes\wcs.php:355
+#: admin\includes\shortcodes.php:38 includes\wcs.php:355
 msgid "Login/Signup Modal"
 msgstr "登錄/註冊模式"
 
-#: admin\includes\shortcodes.php:40
-#: includes\wcs.php:357
+#: admin\includes\shortcodes.php:40 includes\wcs.php:357
 msgid "Login Modal"
 msgstr "登錄模式"
 
@@ -1633,18 +1406,15 @@ msgstr "註冊頁面"
 msgid "Sign Up Modal"
 msgstr "註冊模式"
 
-#: admin\includes\shortcodes.php:45
-#: includes\wcs.php:360
+#: admin\includes\shortcodes.php:45 includes\wcs.php:360
 msgid "Forgot Password Page"
 msgstr "忘記密碼頁面"
 
-#: admin\includes\shortcodes.php:46
-#: includes\wcs.php:361
+#: admin\includes\shortcodes.php:46 includes\wcs.php:361
 msgid "Forgot Password Modal"
 msgstr "忘記密碼模式"
 
-#: admin\includes\shortcodes.php:48
-#: admin\includes\shortcodes.php:138
+#: admin\includes\shortcodes.php:48 admin\includes\shortcodes.php:138
 #: admin\includes\shortcodes.php:185
 #: digbuilder\includes\widget\element_button_widget.php:166
 #: includes\wcs.php:362
@@ -1655,8 +1425,7 @@ msgstr "註銷"
 msgid "Copy"
 msgstr "複製"
 
-#: admin\includes\shortcodes.php:109
-#: admin\settings.php:756
+#: admin\includes\shortcodes.php:109 admin\settings.php:756
 msgid "Translations"
 msgstr "翻譯"
 
@@ -1668,10 +1437,8 @@ msgstr "在任何地方替換“OTP”"
 msgid "Menu items"
 msgstr "功能表項"
 
-#: admin\includes\shortcodes.php:134
-#: admin\includes\shortcodes.php:144
-#: digbuilder\digbuilder.php:209
-#: digoneclickls\digoneclickls.php:209
+#: admin\includes\shortcodes.php:134 admin\includes\shortcodes.php:144
+#: digbuilder\digbuilder.php:209 digoneclickls\digoneclickls.php:209
 #: digoneclickls\forms.php:37
 msgid "Login / Register"
 msgstr "登錄 / 註冊"
@@ -1682,25 +1449,24 @@ msgstr "登錄 / 註冊"
 msgid "Forgot your Password?"
 msgstr "忘記密碼？"
 
-#: admin\includes\shortcodes.php:137
-#: admin\includes\shortcodes.php:177
+#: admin\includes\shortcodes.php:137 admin\includes\shortcodes.php:177
 msgid "My Account"
 msgstr "我的帳戶"
 
-#: admin\includes\shortcodes.php:169
-#: digbuilder\digbuilder.php:212
+#: admin\includes\shortcodes.php:169 digbuilder\digbuilder.php:212
 msgid "Forgot"
 msgstr "忘記"
 
 #: admin\includes\shortcodes.php:199
 msgid ""
 "Translation of whole plugin can be done through POT file present in the "
-"plugin languages folder. You'll need to upload .MO and .PO files to the languages "
-"folder of this plugin. The easiest way to translate is to use <i>Loco "
-"Translate</i> WordPress plugin."
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use "
+"<i>Loco Translate</i> WordPress plugin."
 msgstr ""
-"整個外掛程式的翻譯可以通過外掛程式語言資料夾中存在的POT檔來完成。您需要上傳 .MO 和 .PO "
-"檔到此外掛程式的語言資料夾中。最簡單的翻譯方法是使用<i>Loco Translate</i> WordPress外掛程式。"
+"整個外掛程式的翻譯可以通過外掛程式語言資料夾中存在的POT檔來完成。您需要上"
+"傳 .MO 和 .PO 檔到此外掛程式的語言資料夾中。最簡單的翻譯方法是使用<i>Loco "
+"Translate</i> WordPress外掛程式。"
 
 #: admin\includes\shortcodes.php:200
 msgid "Need More Help?"
@@ -1833,7 +1599,9 @@ msgid ""
 "Security key is the most secure method for authentication. This option lets "
 "users use their hardware security keys like Yubikey or their device's "
 "biometrics to authenticate."
-msgstr "安全金鑰是最安全的身份驗證方法。此選項允許使用者使用其硬體安全密鑰（如Yubikey）或其設備的生物識別技術進行身份驗證。"
+msgstr ""
+"安全金鑰是最安全的身份驗證方法。此選項允許使用者使用其硬體安全密鑰（如"
+"Yubikey）或其設備的生物識別技術進行身份驗證。"
 
 #: admin\includes\tabs\dashboard.php:23
 msgid "Total Logins"
@@ -1847,8 +1615,7 @@ msgstr "最近 6 個月"
 msgid "Changelog"
 msgstr "更新日誌"
 
-#: admin\includes\tabs\dashboard.php:50
-#: admin\obw\obw.php:136
+#: admin\includes\tabs\dashboard.php:50 admin\obw\obw.php:136
 #: admin\obw\obw.php:308
 msgid "Documentation"
 msgstr "文件"
@@ -1905,10 +1672,8 @@ msgstr "當地"
 msgid "International"
 msgstr "國際"
 
-#: admin\includes\tabs\forms.php:53
-#: admin\includes\tabs\forms.php:111
-#: admin\includes\tabs\forms.php:152
-#: admin\includes\tabs\forms.php:200
+#: admin\includes\tabs\forms.php:53 admin\includes\tabs\forms.php:111
+#: admin\includes\tabs\forms.php:152 admin\includes\tabs\forms.php:200
 msgid "This function only works on Digits Native Forms"
 msgstr "此功能僅適用於數位本機表單"
 
@@ -1960,17 +1725,14 @@ msgstr "啟用忘記密碼"
 msgid "Use Digits form as default Forgot Password form"
 msgstr "預設使用數位表單 忘記密碼表單"
 
-#: admin\includes\tabs\forms.php:215
-#: admin\includes\tabs\signup.php:148
+#: admin\includes\tabs\forms.php:215 admin\includes\tabs\signup.php:148
 #: digbuilder\includes\widget\v1\element_form_widget.php:511
 #: digbuilder\includes\widget\v8\element_form_widget.php:547
 msgid "Form Fields"
 msgstr "表單域"
 
-#: admin\includes\tabs\forms.php:247
-#: admin\includes\tabs\general.php:260
-#: admin\includes\tabs\general.php:280
-#: digapprove\functions.php:104
+#: admin\includes\tabs\forms.php:247 admin\includes\tabs\general.php:260
+#: admin\includes\tabs\general.php:280 digapprove\functions.php:104
 msgid "Disable"
 msgstr "禁用"
 
@@ -1984,8 +1746,7 @@ msgstr "簡單驗證碼"
 #: digbuilder\includes\widget\v1\element_form_widget.php:927
 #: digbuilder\includes\widget\v1\element_form_widget.php:929
 #: digbuilder\includes\widget\v8\element_form_widget.php:428
-#: includes\forms.php:66
-#: includes\wcs.php:561
+#: includes\forms.php:66 includes\wcs.php:561
 msgid "Remember Me"
 msgstr "記住我"
 
@@ -2003,13 +1764,17 @@ msgstr "是（顯示複選框）"
 msgid ""
 "With User / UserRole based login flow you can define unique login methods "
 "based on user roles or any particular users."
-msgstr "使用基於使用者/使用者角色的登錄流程，您可以根據使用者角色或任何特定使用者定義唯一的登錄方法。"
+msgstr ""
+"使用基於使用者/使用者角色的登錄流程，您可以根據使用者角色或任何特定使用者定義"
+"唯一的登錄方法。"
 
 #: admin\includes\tabs\forms.php:291
 msgid ""
 "For example, you can only let admin user role to login using OTP and all "
 "other user roles should login using password"
-msgstr "例如，您只能允許管理員使用者角色使用 OTP 登錄，而所有其他使用者角色都應使用密碼登錄"
+msgstr ""
+"例如，您只能允許管理員使用者角色使用 OTP 登錄，而所有其他使用者角色都應使用密"
+"碼登錄"
 
 #: admin\includes\tabs\forms.php:293
 msgid "Note:"
@@ -2018,27 +1783,23 @@ msgstr "注意："
 #: admin\includes\tabs\forms.php:294
 msgid ""
 "If Firebase is being used as the SMS gateway, users can only receive an SMS "
-"OTP if they log in with their phone number. This means that attempting to log "
-"in using an email or username will not trigger the SMS OTP for security "
+"OTP if they log in with their phone number. This means that attempting to "
+"log in using an email or username will not trigger the SMS OTP for security "
 "reasons."
 msgstr ""
 "如果 Firebase 被用作 SMS 閘道，則使用者只有在使用電話號碼登錄時才能收到 SMS "
 "OTP。這意味著出於安全原因，嘗試使用電子郵件或使用者名登錄不會觸發簡訊 OTP。"
 
-#: admin\includes\tabs\forms.php:309
-#: admin\includes\tabs\forms.php:326
-#: admin\settings.php:767
-#: admin\settings.php:768
+#: admin\includes\tabs\forms.php:309 admin\includes\tabs\forms.php:326
+#: admin\settings.php:767 admin\settings.php:768
 msgid "Native Form Style"
 msgstr "原生表單樣式"
 
-#: admin\includes\tabs\forms.php:309
-#: admin\settings.php:304
+#: admin\includes\tabs\forms.php:309 admin\settings.php:304
 msgid "New"
 msgstr "新增功能"
 
-#: admin\includes\tabs\forms.php:326
-#: admin\settings.php:309
+#: admin\includes\tabs\forms.php:326 admin\settings.php:309
 msgid "Deprecated"
 msgstr "荒廢的"
 
@@ -2068,45 +1829,31 @@ msgstr "基本設置"
 msgid "Immediately send OTP on"
 msgstr "立即發送一次性密碼"
 
-#: admin\includes\tabs\general.php:32
-#: admin\includes\tabs\logs.php:132
+#: admin\includes\tabs\general.php:32 admin\includes\tabs\logs.php:132
 #: includes\forms\handler\process.php:48
 msgid "SMS"
 msgstr "短信"
 
-#: admin\includes\tabs\general.php:33
-#: admin\includes\tabs\logs.php:133
+#: admin\includes\tabs\general.php:33 admin\includes\tabs\logs.php:133
 #: includes\forms\handler\process.php:52
 msgid "WhatsApp"
 msgstr "微信"
 
-#: admin\includes\tabs\general.php:34
-#: admin\includes\tabs\general.php:232
-#: admin\includes\tabs\logs.php:134
-#: digadvlogic\digadvlogic.php:107
-#: digbuilder\includes\form.php:157
-#: digbuilder\includes\form.php:213
+#: admin\includes\tabs\general.php:34 admin\includes\tabs\general.php:232
+#: admin\includes\tabs\logs.php:134 digadvlogic\digadvlogic.php:107
+#: digbuilder\includes\form.php:157 digbuilder\includes\form.php:213
 #: digbuilder\includes\functions.php:414
 #: digbuilder\includes\widget\v1\element_form_widget.php:330
 #: digbuilder\includes\widget\v1\element_form_widget.php:437
 #: digbuilder\includes\widget\v8\element_form_widget.php:388
-#: digbuilder\includes\widget\v8\element_form_widget.php:473
-#: digit.php:1420
-#: digit.php:2528
-#: digit.php:2587
-#: digmergphne\digmergphne.php:206
+#: digbuilder\includes\widget\v8\element_form_widget.php:473 digit.php:1420
+#: digit.php:2528 digit.php:2587 digmergphne\digmergphne.php:206
 #: includes\core\enqueue\enqueue_scripts.php:186
-#: includes\core\enqueue\enqueue_scripts.php:266
-#: includes\forms.php:202
-#: includes\forms.php:377
-#: includes\forms.php:493
-#: includes\forms.php:607
-#: includes\forms\admin.php:87
-#: includes\forms\handler\UserRegistration.php:577
-#: includes\forms\handler\process.php:56
-#: includes\merge_wc_billing.php:18
-#: includes\process_user.php:74
-#: includes\woocommerce-registration.php:191
+#: includes\core\enqueue\enqueue_scripts.php:266 includes\forms.php:202
+#: includes\forms.php:377 includes\forms.php:493 includes\forms.php:607
+#: includes\forms\admin.php:87 includes\forms\handler\UserRegistration.php:577
+#: includes\forms\handler\process.php:56 includes\merge_wc_billing.php:18
+#: includes\process_user.php:74 includes\woocommerce-registration.php:191
 #: includes\woocommerce-registration.php:1385
 msgid "Email"
 msgstr "電子郵件"
@@ -2115,7 +1862,8 @@ msgstr "電子郵件"
 msgid ""
 "At the time of Login, the OTP will be sent automatically after clicking on "
 "\"Continue\" button on login form on all the routes selected above."
-msgstr "在登錄時，OTP將在上面選擇的所有路線上點擊登錄表格上的“繼續”按鈕後自動發送。"
+msgstr ""
+"在登錄時，OTP將在上面選擇的所有路線上點擊登錄表格上的“繼續”按鈕後自動發送。"
 
 #: admin\includes\tabs\general.php:45
 msgid "OTP size"
@@ -2137,7 +1885,9 @@ msgstr "國家/地區代碼允許清單"
 msgid ""
 "Sign In/Sign Up will be allowed for phone numbers with these country codes. "
 "To allow Sign In/Sign Up for all country codes, leave this blank."
-msgstr "帶有這些國家/地區代碼的電話號碼將允許登錄/註冊。要允許登錄/註冊所有國家/地區代碼，請將此項留空。"
+msgstr ""
+"帶有這些國家/地區代碼的電話號碼將允許登錄/註冊。要允許登錄/註冊所有國家/地區"
+"代碼，請將此項留空。"
 
 #: admin\includes\tabs\general.php:111
 msgid "Country Codes Denylist"
@@ -2147,7 +1897,9 @@ msgstr "國家/地區代碼拒絕清單"
 msgid ""
 "Sign In/Sign Up will be not allowed for phone numbers with these country "
 "codes. To allow Sign In/Sign Up for all country codes, leave this blank."
-msgstr "帶有這些國家/地區代碼的電話號碼將不允許登錄/註冊。要允許登錄/註冊所有國家/地區代碼，請將此項留空。"
+msgstr ""
+"帶有這些國家/地區代碼的電話號碼將不允許登錄/註冊。要允許登錄/註冊所有國家/地"
+"區代碼，請將此項留空。"
 
 #: admin\includes\tabs\general.php:139
 msgid "Phone numbers Denylist"
@@ -2185,42 +1937,28 @@ msgstr "帳單資訊的必填欄位"
 msgid "Mobile Number and Email"
 msgstr "手機號碼和電子郵件"
 
-#: admin\includes\tabs\general.php:229
-#: digadvlogic\digadvlogic.php:108
-#: digbuilder\includes\form.php:154
-#: digbuilder\includes\form.php:190
+#: admin\includes\tabs\general.php:229 digadvlogic\digadvlogic.php:108
+#: digbuilder\includes\form.php:154 digbuilder\includes\form.php:190
 #: digbuilder\includes\functions.php:413
 #: digbuilder\includes\widget\v1\element_form_widget.php:342
 #: digbuilder\includes\widget\v1\element_form_widget.php:436
 #: digbuilder\includes\widget\v8\element_form_widget.php:400
-#: digbuilder\includes\widget\v8\element_form_widget.php:472
-#: digit.php:895
-#: digit.php:897
-#: digit.php:1418
-#: digit.php:2529
-#: digit.php:2588
-#: digmergphne\digmergphne.php:207
-#: digoldaccntmr\digoldaccntmr.php:759
+#: digbuilder\includes\widget\v8\element_form_widget.php:472 digit.php:895
+#: digit.php:897 digit.php:1418 digit.php:2529 digit.php:2588
+#: digmergphne\digmergphne.php:207 digoldaccntmr\digoldaccntmr.php:759
 #: digoneclickls\digoneclickls.php:226
 #: includes\core\enqueue\enqueue_scripts.php:166
-#: includes\core\enqueue\enqueue_scripts.php:267
-#: includes\edit_number.php:30
-#: includes\forms.php:200
-#: includes\forms.php:374
-#: includes\forms.php:491
-#: includes\forms.php:589
-#: includes\merge_wc_billing.php:19
-#: includes\plugins\bp.php:69
-#: includes\plugins\bp.php:137
-#: includes\process_user.php:72
-#: includes\woocommerce-registration.php:42
+#: includes\core\enqueue\enqueue_scripts.php:267 includes\edit_number.php:30
+#: includes\forms.php:200 includes\forms.php:374 includes\forms.php:491
+#: includes\forms.php:589 includes\merge_wc_billing.php:19
+#: includes\plugins\bp.php:69 includes\plugins\bp.php:137
+#: includes\process_user.php:72 includes\woocommerce-registration.php:42
 #: includes\woocommerce-registration.php:79
 #: includes\woocommerce-registration.php:353
 #: includes\woocommerce-registration.php:354
 #: includes\woocommerce-registration.php:1456
 #: includes\woocommerce-registration.php:1621
-#: includes\woocommerce-registration.php:1705
-#: includes\wp.php:22
+#: includes\woocommerce-registration.php:1705 includes\wp.php:22
 msgid "Mobile Number"
 msgstr "手機號碼"
 
@@ -2232,13 +1970,11 @@ msgstr "使用使用者信息自動填充WooCommerce計費欄位"
 msgid "Enable guest checkout billing phone verification"
 msgstr "啟用訪客結帳結算電話驗證"
 
-#: admin\includes\tabs\general.php:263
-#: admin\includes\tabs\general.php:283
+#: admin\includes\tabs\general.php:263 admin\includes\tabs\general.php:283
 msgid "For Cash on Delivery"
 msgstr "貨到付款"
 
-#: admin\includes\tabs\general.php:266
-#: admin\includes\tabs\general.php:286
+#: admin\includes\tabs\general.php:266 admin\includes\tabs\general.php:286
 msgid "For All Payment Methods"
 msgstr "適用於所有付款方式"
 
@@ -2254,10 +1990,8 @@ msgstr "重定向設置"
 msgid "My Account Link"
 msgstr "我的帳戶連結"
 
-#: admin\includes\tabs\general.php:312
-#: admin\includes\tabs\general.php:323
-#: admin\includes\tabs\general.php:332
-#: admin\includes\tabs\general.php:343
+#: admin\includes\tabs\general.php:312 admin\includes\tabs\general.php:323
+#: admin\includes\tabs\general.php:332 admin\includes\tabs\general.php:343
 #: admin\includes\tabs\general.php:352
 #: digbuilder\includes\widget\v1\element_form_widget.php:847
 #: digbuilder\includes\widget\v1\element_form_widget.php:859
@@ -2294,8 +2028,7 @@ msgstr "重定向設置僅適用於WordPress Native，WooCommerce和Digits Nativ
 msgid "You can also use user placeholders in redirection."
 msgstr "您還可以在重定向中使用用戶佔位元。"
 
-#: admin\includes\tabs\general.php:372
-#: admin\settings.php:757
+#: admin\includes\tabs\general.php:372 admin\settings.php:757
 msgid "Miscellaneous"
 msgstr "雜項"
 
@@ -2324,8 +2057,7 @@ msgstr "匯出/匯入設置"
 msgid "Export"
 msgstr "出口"
 
-#: admin\includes\tabs\general.php:450
-#: digbuilder\includes\import_export.php:55
+#: admin\includes\tabs\general.php:450 digbuilder\includes\import_export.php:55
 #: digbuilder\includes\main.php:117
 msgid "Import"
 msgstr "進口"
@@ -2378,8 +2110,7 @@ msgstr "行動"
 msgid "Content"
 msgstr "內容"
 
-#: admin\includes\tabs\recaptcha.php:15
-#: admin\settings.php:758
+#: admin\includes\tabs\recaptcha.php:15 admin\settings.php:758
 #: digbuilder\includes\widget\v1\element_form_widget.php:472
 #: digbuilder\includes\widget\v8\element_form_widget.php:419
 #: digbuilder\includes\widget\v8\element_form_widget.php:508
@@ -2470,23 +2201,17 @@ msgstr "驗證電子郵件"
 msgid "Block login for users with unverified email"
 msgstr "阻止使用未經驗證的電子郵件的用戶登錄"
 
-#: admin\includes\tabs\signup.php:185
-#: admin\settings.php:550
+#: admin\includes\tabs\signup.php:185 admin\settings.php:550
 #: digbuilder\includes\widget\v1\element_form_widget.php:745
-#: digbuilder\includes\widget\v8\element_form_widget.php:780
-#: digit.php:2616
+#: digbuilder\includes\widget\v8\element_form_widget.php:780 digit.php:2616
 #: includes\core\enqueue\enqueue_scripts.php:273
 msgid "Required"
 msgstr "必填"
 
-#: admin\includes\tabs\signup.php:188
-#: admin\settings.php:549
-#: digbuilder\includes\form.php:180
-#: digbuilder\includes\form.php:209
-#: digit.php:2614
-#: includes\core\enqueue\enqueue_scripts.php:187
-#: includes\forms.php:580
-#: includes\forms.php:604
+#: admin\includes\tabs\signup.php:188 admin\settings.php:549
+#: digbuilder\includes\form.php:180 digbuilder\includes\form.php:209
+#: digit.php:2614 includes\core\enqueue\enqueue_scripts.php:187
+#: includes\forms.php:580 includes\forms.php:604
 #: includes\woocommerce-registration.php:1369
 msgid "Optional"
 msgstr "自選"
@@ -2501,11 +2226,10 @@ msgid ""
 "or theme forms. <br /><br /> These settings <b>do not</b> apply for forms "
 "built with Digits Builder addon. "
 msgstr ""
-"這些設置僅適用於您使用我們的原生表單、第三方外掛程式或主題表單的情況。<br /><br /> "
-"這些設置<b>不適用於</b>使用數位生成器外掛程式構建的表單。"
+"這些設置僅適用於您使用我們的原生表單、第三方外掛程式或主題表單的情況。<br /"
+"><br /> 這些設置<b>不適用於</b>使用數位生成器外掛程式構建的表單。"
 
-#: admin\includes\tabs\signup.php:284
-#: admin\settings.php:537
+#: admin\includes\tabs\signup.php:284 admin\settings.php:537
 msgid "Field Type"
 msgstr "欄位類型"
 
@@ -2527,7 +2251,9 @@ msgstr "標籤"
 msgid ""
 "Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
 "[/t] for privacy policy."
-msgstr "將條款和條件的單詞括在 [t] 和 [/t] 之間，將 [p] 和 [/t] 之間的單詞括起來，表示隱私政策。"
+msgstr ""
+"將條款和條件的單詞括在 [t] 和 [/t] 之間，將 [p] 和 [/t] 之間的單詞括起來，表"
+"示隱私政策。"
 
 #: admin\includes\tabs\signup.php:339
 #: digbuilder\includes\widget\v1\element_form_widget.php:631
@@ -2540,8 +2266,7 @@ msgstr "例如“我同意 [t]條款和條件[/t] & [p]隱私政策[/t]”"
 msgid "Required Field"
 msgstr "必填項"
 
-#: admin\includes\tabs\signup.php:351
-#: digapprove\digapprove.php:129
+#: admin\includes\tabs\signup.php:351 digapprove\digapprove.php:129
 #: digbuilder\includes\builder\Digits_Group_Control_Box_Style.php:223
 #: digbuilder\includes\builder\document.php:97
 #: digbuilder\includes\builder\document.php:239
@@ -2568,16 +2293,11 @@ msgstr "必填項"
 #: digbuilder\includes\widget\v8\element_form_widget.php:1092
 #: digbuilder\includes\widget\v8\element_form_widget.php:1120
 #: digbuilder\includes\widget\v8\element_form_widget.php:1135
-#: digfilter\digfilter.php:159
-#: digmergphne\digmergphne.php:101
-#: digmergphne\digmergphne.php:118
-#: digoldaccntmr\digoldaccntmr.php:117
-#: digoldaccntmr\digoldaccntmr.php:134
-#: digoneclickls\digoneclickls.php:100
-#: digoneclickls\digoneclickls.php:117
-#: digpagelock\digpagelock.php:174
-#: digpagelock\digpagelock.php:217
-#: digrestapi\digrestapi.php:106
+#: digfilter\digfilter.php:159 digmergphne\digmergphne.php:101
+#: digmergphne\digmergphne.php:118 digoldaccntmr\digoldaccntmr.php:117
+#: digoldaccntmr\digoldaccntmr.php:134 digoneclickls\digoneclickls.php:100
+#: digoneclickls\digoneclickls.php:117 digpagelock\digpagelock.php:174
+#: digpagelock\digpagelock.php:217 digrestapi\digrestapi.php:106
 msgid "Yes"
 msgstr "是的"
 
@@ -2615,8 +2335,7 @@ msgstr "隱私連結"
 msgid "User Roles"
 msgstr "使用者角色"
 
-#: admin\includes\users.php:12
-#: admin\settings.php:741
+#: admin\includes\users.php:12 admin\settings.php:741
 msgid "Authentication"
 msgstr "認證"
 
@@ -2675,15 +2394,16 @@ msgstr "在此處設置您的SMS閘道。"
 msgid ""
 "The values asked here will be provided by your gateway. If you need help in "
 "finding those, please get in touch with your gateway support."
-msgstr "此處要求的值將由閘道提供。如果您在查找這些內容時需要説明，請與您的閘道支援人員聯繫。"
+msgstr ""
+"此處要求的值將由閘道提供。如果您在查找這些內容時需要説明，請與您的閘道支援人"
+"員聯繫。"
 
 #: admin\obw\obw.php:149
 msgid ""
 "<span>SMS Gateway</span> is a service which is required to send SMS messages"
 msgstr "簡訊閘道是發送<span>簡訊</span>所需的服務"
 
-#: admin\obw\obw.php:155
-#: admin\obw\obw.php:172
+#: admin\obw\obw.php:155 admin\obw\obw.php:172
 msgid "What type of forms do you want to use?"
 msgstr "您想使用哪種類型的表單？"
 
@@ -2711,8 +2431,8 @@ msgstr "<span>我</span>不想<span>使用生成器</span>"
 
 #: admin\obw\obw.php:184
 msgid ""
-"You can design your forms visually with our <span>Drag and Drop "
-"Builder</span>"
+"You can design your forms visually with our <span>Drag and Drop Builder</"
+"span>"
 msgstr "您可以使用我們的<span>拖放構建器</span>直觀地設計表單"
 
 #: admin\obw\obw.php:193
@@ -2723,7 +2443,9 @@ msgstr "在此處設置您的表單"
 msgid ""
 "After setting up your Signup form you can navigate from left hand pane to "
 "setup your Login Form and even style it accordingly."
-msgstr "設置註冊表單后，您可以從左側窗格導航以設置登錄表單，甚至可以相應地設置其樣式。"
+msgstr ""
+"設置註冊表單后，您可以從左側窗格導航以設置登錄表單，甚至可以相應地設置其樣"
+"式。"
 
 #: admin\obw\obw.php:206
 msgid "What do you want to create?"
@@ -2747,8 +2469,8 @@ msgstr "在此頁面上創建新頁面"
 
 #: admin\obw\obw.php:238
 msgid ""
-"Now that you have your form created, its time to link it to your site so that "
-"people can use it."
+"Now that you have your form created, its time to link it to your site so "
+"that people can use it."
 msgstr "現在您已經創建了表單，是時候將其連結到您的網站，以便人們可以使用它了。"
 
 #: admin\obw\obw.php:241
@@ -2763,7 +2485,8 @@ msgstr "無法更改/沒有現有按鈕"
 msgid ""
 "<span>Change existing button</span> If you already have a button which on "
 "your site for login and signup"
-msgstr "<span>更改現有按鈕</span>如果您已經有一個按鈕在您的網站上用於登錄和註冊"
+msgstr ""
+"<span>更改現有按鈕</span>如果您已經有一個按鈕在您的網站上用於登錄和註冊"
 
 #: admin\obw\obw.php:255
 msgid "How can it be changed?"
@@ -2785,20 +2508,22 @@ msgstr "有其他選項可以更改它"
 msgid ""
 "If you don’t have an existing button then the easiest option is to create a "
 "menu item on your site which triggers login or signup form for User"
-msgstr "如果您沒有現有的按鈕，那麼最簡單的選擇是在您的網站上創建一個功能表項，以觸發使用者的登錄或註冊表單"
+msgstr ""
+"如果您沒有現有的按鈕，那麼最簡單的選擇是在您的網站上創建一個功能表項，以觸發"
+"使用者的登錄或註冊表單"
 
 #: admin\obw\obw.php:275
 msgid ""
 "Or if you can edit your website header then you can create a button and use "
 "the below documentations to link the button."
-msgstr "或者，如果您可以編輯網站標題，則可以創建一個按鈕並使用以下文檔連結該按鈕。"
+msgstr ""
+"或者，如果您可以編輯網站標題，則可以創建一個按鈕並使用以下文檔連結該按鈕。"
 
 #: admin\obw\obw.php:278
 msgid "How to use Login and Registration Form"
 msgstr "如何使用登錄和註冊表格"
 
-#: admin\obw\obw.php:284
-#: admin\obw\obw.php:327
+#: admin\obw\obw.php:284 admin\obw\obw.php:327
 msgid "How To Link Login Page or Modal"
 msgstr "如何連結登錄頁面或模式"
 
@@ -2811,7 +2536,9 @@ msgid ""
 "Our button editor will help you to edit your existing button and make it "
 "trigger our page or popup form without the need of any development or coding "
 "knowledge."
-msgstr "我們的按鈕編輯器將説明您編輯現有按鈕並使其觸發我們的頁面或彈出表單，而無需任何開發或編碼知識。"
+msgstr ""
+"我們的按鈕編輯器將説明您編輯現有按鈕並使其觸發我們的頁面或彈出表單，而無需任"
+"何開發或編碼知識。"
 
 #: admin\obw\obw.php:305
 msgid "Edit existing button menu item"
@@ -2821,7 +2548,8 @@ msgstr "編輯現有按鈕功能表項"
 msgid ""
 "If your theme has other options to change it then please do the needful "
 "changes or else you can go through the below documentations."
-msgstr "如果您的主題有其他選項可以更改它，請進行必要的更改，否則您可以流覽以下文檔。"
+msgstr ""
+"如果您的主題有其他選項可以更改它，請進行必要的更改，否則您可以流覽以下文檔。"
 
 #: admin\obw\obw.php:321
 msgid "How to change the link of an existing button"
@@ -2880,7 +2608,8 @@ msgstr "建立在WooCommerce/WordPress標準之上，並使用它們的鉤子。
 msgid ""
 "We are compatible with that particular 3rd Party plugin. The  list of "
 "compatible plugins can be found on our website %s"
-msgstr "我們與該特定的第三方外掛程式相容。相容外掛程式清單可以在我們的網站 %s 上找到"
+msgstr ""
+"我們與該特定的第三方外掛程式相容。相容外掛程式清單可以在我們的網站 %s 上找到"
 
 #: admin\obw\obw.php:590
 msgid ""
@@ -2895,8 +2624,7 @@ msgstr "安裝所需的外掛程式"
 msgid "Elementor & Page Builder"
 msgstr "Elementor & Page Builder"
 
-#: admin\obw\obw.php:651
-#: digbuilder\digbuilder.php:132
+#: admin\obw\obw.php:651 digbuilder\digbuilder.php:132
 msgid "Install"
 msgstr "安裝"
 
@@ -2968,8 +2696,7 @@ msgstr "選擇徽標"
 msgid "Use this logo"
 msgstr "使用此徽標"
 
-#: admin\settings.php:452
-#: admin\settings.php:593
+#: admin\settings.php:452 admin\settings.php:593
 msgid "Change Image"
 msgstr "更改圖像"
 
@@ -3003,8 +2730,7 @@ msgstr "消息 91 發件者 ID 無效！"
 msgid "Invalid License Key"
 msgstr "無效的購買代碼"
 
-#: admin\settings.php:540
-#: digapprove\functions.php:166
+#: admin\settings.php:540 digapprove\functions.php:166
 #: includes\core\enqueue\enqueue_scripts.php:112
 #: includes\core\enqueue\enqueue_scripts.php:169
 #: includes\core\enqueue\enqueue_scripts.php:257
@@ -3020,14 +2746,15 @@ msgstr "請完成您的設置"
 msgid ""
 "Please complete your SMS Gateway settings by clicking here, without those "
 "plugin will not work. For documentation, click %s here %s"
-msgstr "請按下此處完成您的SMS閘道設置，沒有這些外掛程式將無法工作。有關文件，請按下此處的%s %s"
+msgstr ""
+"請按下此處完成您的SMS閘道設置，沒有這些外掛程式將無法工作。有關文件，請按下此"
+"處的%s %s"
 
 #: admin\settings.php:543
 msgid "Please complete your custom field settings"
 msgstr "請完成您的自定義欄位設置"
 
-#: admin\settings.php:544
-#: includes\account\secure.php:311
+#: admin\settings.php:544 includes\account\secure.php:311
 msgid "Copied to clipboard"
 msgstr "複製到剪貼板"
 
@@ -3039,8 +2766,7 @@ msgstr "欄位已存在"
 msgid "Duplicate Value"
 msgstr "重複值"
 
-#: admin\settings.php:551
-#: includes\login.php:475
+#: admin\settings.php:551 includes\login.php:475
 msgid "Please enter a valid mobile number"
 msgstr "請輸入有效的手機號碼"
 
@@ -3064,8 +2790,7 @@ msgstr "使用此圖像"
 msgid "Security Keys"
 msgstr "安全金鑰"
 
-#: admin\settings.php:751
-#: admin\settings.php:764
+#: admin\settings.php:751 admin\settings.php:764
 #: digbuilder\includes\widget\v1\element_form_widget.php:1077
 #: digbuilder\includes\widget\v8\element_form_widget.php:1049
 msgid "General"
@@ -3102,10 +2827,8 @@ msgstr "註冊"
 msgid "ADDONS"
 msgstr "外掛程式"
 
-#: dig_addons\addons.php:190
-#: dig_addons\addons.php:204
-#: dig_addons\addons.php:222
-#: dig_addons\addons.php:247
+#: dig_addons\addons.php:190 dig_addons\addons.php:204
+#: dig_addons\addons.php:222 dig_addons\addons.php:247
 msgid "Please enter a valid License Key."
 msgstr "請輸入有效的購買代碼。"
 
@@ -3210,8 +2933,7 @@ msgstr "拒絕"
 msgid "Pending"
 msgstr "待定"
 
-#: digapprove\digapprove.php:114
-#: digapprove\digapprove.php:209
+#: digapprove\digapprove.php:114 digapprove\digapprove.php:209
 msgid "User Account Approval"
 msgstr "用戶帳戶審批"
 
@@ -3231,29 +2953,18 @@ msgstr "重定向註冊網址"
 msgid "Account Actions"
 msgstr "帳戶操作"
 
-#: digapprove\functions.php:56
-#: digit.php:355
-#: digoldaccntmr\digoldaccntmr.php:349
-#: digoneclickls\process.php:70
+#: digapprove\functions.php:56 digit.php:355
+#: digoldaccntmr\digoldaccntmr.php:349 digoneclickls\process.php:70
 #: includes\account\setup_account_security.php:579
 #: includes\core\enqueue\enqueue_scripts.php:188
-#: includes\core\enqueue\enqueue_scripts.php:254
-#: includes\core\phandler.php:29
-#: includes\forms\handler\UserActionHandler.php:46
-#: includes\login.php:151
-#: includes\login.php:405
-#: includes\login.php:488
-#: includes\login.php:784
-#: includes\process_user.php:54
-#: includes\process_user.php:336
-#: includes\process_user.php:539
-#: includes\process_user.php:592
-#: includes\process_user.php:813
-#: includes\process_user.php:854
-#: includes\process_user.php:910
-#: includes\process_user.php:977
-#: includes\process_user.php:984
-#: includes\register.php:182
+#: includes\core\enqueue\enqueue_scripts.php:254 includes\core\phandler.php:29
+#: includes\forms\handler\UserActionHandler.php:46 includes\login.php:151
+#: includes\login.php:405 includes\login.php:488 includes\login.php:784
+#: includes\process_user.php:54 includes\process_user.php:336
+#: includes\process_user.php:539 includes\process_user.php:592
+#: includes\process_user.php:813 includes\process_user.php:854
+#: includes\process_user.php:910 includes\process_user.php:977
+#: includes\process_user.php:984 includes\register.php:182
 #: includes\woocommerce-registration.php:264
 #: includes\woocommerce-registration.php:267
 #: includes\woocommerce-registration.php:282
@@ -3288,7 +2999,9 @@ msgstr "拒絕"
 msgid ""
 "Digits Builder currently does not support Additional Fields & Logic Builder "
 "addon, compatibility with them will be available soon."
-msgstr "Digits Builder 目前不支援 Other Fields & Logic Builder 外掛程式，與它們的相容性將很快推出。"
+msgstr ""
+"Digits Builder 目前不支援 Other Fields & Logic Builder 外掛程式，與它們的相容"
+"性將很快推出。"
 
 #: digbuilder\digbuilder.php:126
 msgid ""
@@ -3894,42 +3607,30 @@ msgstr "慢"
 #: digbuilder\includes\widget\v1\element_form_widget.php:773
 #: digbuilder\includes\widget\v8\element_form_widget.php:482
 #: digbuilder\includes\widget\v8\element_form_widget.php:488
-#: digbuilder\includes\widget\v8\element_form_widget.php:809
-#: digit.php:328
-#: includes\forms.php:531
-#: includes\forms\signup.php:291
-#: includes\forms\signup.php:301
-#: includes\register.php:101
+#: digbuilder\includes\widget\v8\element_form_widget.php:809 digit.php:328
+#: includes\forms.php:531 includes\forms\signup.php:291
+#: includes\forms\signup.php:301 includes\register.php:101
 #: includes\woocommerce-registration.php:1303
 msgid "First Name"
 msgstr "名字"
 
-#: digbuilder\includes\form.php:151
-#: digbuilder\includes\form.php:204
+#: digbuilder\includes\form.php:151 digbuilder\includes\form.php:204
 #: digbuilder\includes\functions.php:410
-#: digbuilder\includes\widget\v1\element_form_widget.php:435
-#: digit.php:334
-#: digit.php:1416
-#: includes\core\enqueue\enqueue_scripts.php:89
-#: includes\forms.php:198
-#: includes\forms.php:371
-#: includes\forms.php:488
-#: includes\forms.php:600
-#: includes\process_user.php:70
+#: digbuilder\includes\widget\v1\element_form_widget.php:435 digit.php:334
+#: digit.php:1416 includes\core\enqueue\enqueue_scripts.php:89
+#: includes\forms.php:198 includes\forms.php:371 includes\forms.php:488
+#: includes\forms.php:600 includes\process_user.php:70
 #: includes\woocommerce-registration.php:356
 #: includes\woocommerce-registration.php:357
-#: includes\woocommerce-registration.php:1382
-#: includes\wp.php:499
+#: includes\woocommerce-registration.php:1382 includes\wp.php:499
 msgid "Email/Mobile Number"
 msgstr "電子郵件/手機號碼"
 
-#: digbuilder\includes\form.php:298
-#: includes\forms.php:715
+#: digbuilder\includes\form.php:298 includes\forms.php:715
 msgid "Signup With WhatsApp"
 msgstr "註冊WhatsApp"
 
-#: digbuilder\includes\form.php:334
-#: includes\forms.php:456
+#: digbuilder\includes\form.php:334 includes\forms.php:456
 #: includes\forms.php:740
 msgid "Back to login"
 msgstr "返回登錄"
@@ -3938,8 +3639,7 @@ msgstr "返回登錄"
 msgid "Close"
 msgstr "關閉"
 
-#: digbuilder\includes\import_export.php:24
-#: digbuilder\includes\main.php:119
+#: digbuilder\includes\import_export.php:24 digbuilder\includes\main.php:119
 msgid "Preset Library"
 msgstr "預設庫"
 
@@ -3951,9 +3651,7 @@ msgstr "請選擇一個檔或將其拖到此處"
 msgid "Select the form type you want to import"
 msgstr "選擇要導入的表單類型"
 
-#: digbuilder\includes\import_export.php:48
-#: digit.php:2141
-#: digit.php:2180
+#: digbuilder\includes\import_export.php:48 digit.php:2141 digit.php:2180
 #: includes\core\enqueue\enqueue_scripts.php:274
 msgid "(select)"
 msgstr "（選擇）"
@@ -4005,14 +3703,12 @@ msgstr "新頁面"
 msgid "New Popup"
 msgstr "新彈出視窗"
 
-#: digbuilder\includes\main.php:15
-#: digbuilder\includes\main.php:16
+#: digbuilder\includes\main.php:15 digbuilder\includes\main.php:16
 #: digbuilder\includes\post_cst.php:115
 msgid "Page Builder (Beta)"
 msgstr "頁面產生器（測試版）"
 
-#: digbuilder\includes\main.php:21
-#: digbuilder\includes\main.php:22
+#: digbuilder\includes\main.php:21 digbuilder\includes\main.php:22
 #: digbuilder\includes\post_cst.php:107
 msgid "Popup Builder (Beta)"
 msgstr "彈出視窗產生器（測試版）"
@@ -4021,8 +3717,7 @@ msgstr "彈出視窗產生器（測試版）"
 msgid "I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]"
 msgstr "我同意 [t]條款和條件[/t] & [p]隱私政策[/t]"
 
-#: digbuilder\includes\main.php:81
-#: includes\woocommerce-registration.php:1591
+#: digbuilder\includes\main.php:81 includes\woocommerce-registration.php:1591
 msgid "Digits"
 msgstr "數位"
 
@@ -4068,8 +3763,7 @@ msgstr "元素全寬"
 msgid "All Popups"
 msgstr "所有彈出視窗"
 
-#: digbuilder\includes\post_cst.php:110
-#: digbuilder\includes\post_cst.php:111
+#: digbuilder\includes\post_cst.php:110 digbuilder\includes\post_cst.php:111
 msgid "Add New Popup"
 msgstr "添加新彈出視窗"
 
@@ -4081,8 +3775,7 @@ msgstr "編輯彈出視窗"
 msgid "All Pages"
 msgstr "所有頁面"
 
-#: digbuilder\includes\post_cst.php:118
-#: digbuilder\includes\post_cst.php:119
+#: digbuilder\includes\post_cst.php:118 digbuilder\includes\post_cst.php:119
 msgid "Add New Page"
 msgstr "添加新頁面"
 
@@ -4184,7 +3877,8 @@ msgid ""
 "form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
 "without spaces."
 msgstr ""
-"請確保該 ID 是唯一的，並且未在此表單顯示頁面上的其他地方使用。此欄位允許 <code>A-z 0-9</code> 和下劃線字元不帶空格。"
+"請確保該 ID 是唯一的，並且未在此表單顯示頁面上的其他地方使用。此欄位允許 "
+"<code>A-z 0-9</code> 和下劃線字元不帶空格。"
 
 #: digbuilder\includes\widget\element_button_widget.php:356
 #: digbuilder\includes\widget\element_button_widget.php:392
@@ -4317,19 +4011,15 @@ msgstr "譯本"
 msgid "Login and Forgot Password"
 msgstr "登錄和忘記密碼"
 
-#: digbuilder\includes\widget\v1\element_form_widget.php:908
-#: digit.php:687
-#: digit.php:1272
-#: includes\core\enqueue\enqueue_scripts.php:263
+#: digbuilder\includes\widget\v1\element_form_widget.php:908 digit.php:687
+#: digit.php:1272 includes\core\enqueue\enqueue_scripts.php:263
 msgid "Log In"
 msgstr "登錄"
 
 #: digbuilder\includes\widget\v1\element_form_widget.php:916
 #: digbuilder\includes\widget\v1\element_form_widget.php:918
-#: includes\core\enqueue\enqueue_scripts.php:129
-#: includes\forms.php:65
-#: includes\plugins\um.php:151
-#: includes\woocommerce-registration.php:1246
+#: includes\core\enqueue\enqueue_scripts.php:129 includes\forms.php:65
+#: includes\plugins\um.php:151 includes\woocommerce-registration.php:1246
 msgid "Login With OTP"
 msgstr "使用一次性密碼登錄"
 
@@ -4338,8 +4028,7 @@ msgstr "使用一次性密碼登錄"
 #: digbuilder\includes\widget\v1\element_form_widget.php:1050
 #: digbuilder\includes\widget\v1\element_form_widget.php:1052
 #: includes\core\enqueue\enqueue_scripts.php:190
-#: includes\core\enqueue\enqueue_scripts.php:272
-#: includes\forms.php:69
+#: includes\core\enqueue\enqueue_scripts.php:272 includes\forms.php:69
 #: includes\forms.php:76
 msgid "Submit OTP"
 msgstr "提交一次性密碼"
@@ -4348,16 +4037,11 @@ msgstr "提交一次性密碼"
 #: digbuilder\includes\widget\v1\element_form_widget.php:975
 #: digbuilder\includes\widget\v1\element_form_widget.php:1060
 #: digbuilder\includes\widget\v1\element_form_widget.php:1062
-#: digoldaccntmr\digoldaccntmr.php:833
-#: digoneclickls\digoneclickls.php:270
-#: includes\core\enqueue\enqueue_scripts.php:172
-#: includes\forms.php:70
-#: includes\forms.php:77
-#: includes\forms\handler\process.php:345
-#: includes\plugins\bp.php:164
-#: includes\plugins\um.php:109
-#: includes\plugins\um.php:155
-#: includes\woocommerce-registration.php:1261
+#: digoldaccntmr\digoldaccntmr.php:833 digoneclickls\digoneclickls.php:270
+#: includes\core\enqueue\enqueue_scripts.php:172 includes\forms.php:70
+#: includes\forms.php:77 includes\forms\handler\process.php:345
+#: includes\plugins\bp.php:164 includes\plugins\um.php:109
+#: includes\plugins\um.php:155 includes\woocommerce-registration.php:1261
 #: includes\woocommerce-registration.php:1418
 #: includes\woocommerce-registration.php:1490
 #: includes\woocommerce-registration.php:1517
@@ -4507,8 +4191,7 @@ msgid "Form Title"
 msgstr "表單標題"
 
 #: digbuilder\includes\widget\v8\element_form_widget.php:929
-#: includes\forms.php:452
-#: includes\forms\render.php:266
+#: includes\forms.php:452 includes\forms\render.php:266
 msgid "Reset Password"
 msgstr "重置密碼"
 
@@ -4560,8 +4243,7 @@ msgstr "國家"
 msgid "Add SMS Gateway"
 msgstr "添加簡訊閘道"
 
-#: digfilter\digfilter.php:102
-#: digfilter\digfilter.php:229
+#: digfilter\digfilter.php:102 digfilter\digfilter.php:229
 msgid "Email Filter"
 msgstr "電子郵件過濾器"
 
@@ -4597,16 +4279,12 @@ msgstr "添加新使用者"
 msgid "Create New Customer"
 msgstr "創建新客戶"
 
-#: digit.php:323
-#: digit.php:337
+#: digit.php:323 digit.php:337
 msgid "Create Customer"
 msgstr "創建客戶"
 
-#: digit.php:336
-#: digit.php:1457
-#: digoldaccntmr\digoldaccntmr.php:312
-#: digoldaccntmr\digoldaccntmr.php:846
-#: includes\forms\render.php:28
+#: digit.php:336 digit.php:1457 digoldaccntmr\digoldaccntmr.php:312
+#: digoldaccntmr\digoldaccntmr.php:846 includes\forms\render.php:28
 msgid "Cancel"
 msgstr "取消"
 
@@ -4632,16 +4310,15 @@ msgstr "設置"
 
 #: digit.php:993
 msgid ""
-"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. "
-"</p></div>"
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></"
+"div>"
 msgstr "<div><p><b>致命錯誤</b>：數位需要捲曲才能正常工作。 </p></div>"
 
 #: digit.php:1372
 msgid "BACK"
 msgstr "返回"
 
-#: digit.php:1694
-#: includes\forms\handler\DigitsFormHandler.php:219
+#: digit.php:1694 includes\forms\handler\DigitsFormHandler.php:219
 #: includes\forms\handler\DigitsFormHandler.php:1426
 msgid "Please verify captcha!"
 msgstr "請驗證驗證碼！"
@@ -4654,20 +4331,15 @@ msgstr "請填寫所有必需的詳細資訊！"
 msgid "Please enter a valid Captcha!"
 msgstr "請輸入有效的驗證碼！"
 
-#: digit.php:1744
-#: digoneclickls\digoneclickls.php:319
+#: digit.php:1744 digoneclickls\digoneclickls.php:319
 msgid "Please accept terms and condition!"
 msgstr "請接受條款和條件！"
 
-#: digit.php:1758
-#: digit.php:1761
-#: digit.php:1771
-#: digit.php:1776
+#: digit.php:1758 digit.php:1761 digit.php:1771 digit.php:1776
 msgid "Please select a valid option!"
 msgstr "請選擇一個有效的選項！"
 
-#: digit.php:2143
-#: digit.php:2183
+#: digit.php:2143 digit.php:2183
 msgid "Nothing"
 msgstr "無"
 
@@ -4675,8 +4347,7 @@ msgstr "無"
 msgid "Name"
 msgstr "名字"
 
-#: digmergphne\digmergphne.php:86
-#: digmergphne\digmergphne.php:169
+#: digmergphne\digmergphne.php:86 digmergphne\digmergphne.php:169
 msgid "Merge Phone Number"
 msgstr "合併電話號碼"
 
@@ -4687,9 +4358,11 @@ msgstr "合併帳單和帳戶移動欄位"
 #: digmergphne\digmergphne.php:106
 msgid ""
 "This will merge WooCommerce's Billing and Account Phone Number (Digits), "
-"Account phone number field will be removed from checkout and Billing Phone Number "
-"will be used as account phone number."
-msgstr "這將合併WooCommerce的帳單和帳戶電話號碼（數位），帳戶電話號碼欄位將從結帳中刪除，帳單電話號碼將用作帳戶電話號碼。"
+"Account phone number field will be removed from checkout and Billing Phone "
+"Number will be used as account phone number."
+msgstr ""
+"這將合併WooCommerce的帳單和帳戶電話號碼（數位），帳戶電話號碼欄位將從結帳中刪"
+"除，帳單電話號碼將用作帳戶電話號碼。"
 
 #: digmergphne\digmergphne.php:112
 msgid "Always Sync Billing Phone with Account Number"
@@ -4701,8 +4374,7 @@ msgid ""
 "enable this option."
 msgstr "啟用此選項後，使用者將無法從結帳時更改帳單電話號碼。"
 
-#: digoldaccntmr\digoldaccntmr.php:103
-#: digoldaccntmr\digoldaccntmr.php:558
+#: digoldaccntmr\digoldaccntmr.php:103 digoldaccntmr\digoldaccntmr.php:558
 msgid "Old Account Migrator"
 msgstr "舊帳戶遷移器"
 
@@ -4720,8 +4392,7 @@ msgstr "此功能將向老用戶顯示彈出視窗/模式，要求他們輸入�
 msgid "Make it compulsory"
 msgstr "強制要求"
 
-#: digoldaccntmr\digoldaccntmr.php:139
-#: digoldaccntmr\digoldaccntmr.php:156
+#: digoldaccntmr\digoldaccntmr.php:139 digoldaccntmr\digoldaccntmr.php:156
 msgid ""
 "If set to yes, users will not be able to close the popup if they don't enter "
 "the mobile number"
@@ -4775,8 +4446,7 @@ msgstr "國家/地區欄位"
 msgid "WooCommerce Billing Country"
 msgstr "呜呜商務帳單國家"
 
-#: digoldaccntmr\digoldaccntmr.php:238
-#: digoldaccntmr\digoldaccntmr.php:268
+#: digoldaccntmr\digoldaccntmr.php:238 digoldaccntmr\digoldaccntmr.php:268
 msgid "Another Field"
 msgstr "另一個領域"
 
@@ -4824,8 +4494,7 @@ msgstr "無效的國家/地區代碼"
 msgid "Mobile Number not found"
 msgstr "未找到手機號碼"
 
-#: digoldaccntmr\digoldaccntmr.php:486
-#: includes\login.php:776
+#: digoldaccntmr\digoldaccntmr.php:486 includes\login.php:776
 #: includes\process_user.php:390
 msgid "Invalid Mobile Number"
 msgstr "無效的手機號碼"
@@ -4840,8 +4509,8 @@ msgstr "添加電話號碼"
 
 #: digoldaccntmr\digoldaccntmr.php:768
 msgid ""
-"You will be able to login using this mobile number and OTP passcode from next "
-"time."
+"You will be able to login using this mobile number and OTP passcode from "
+"next time."
 msgstr "從下次開始，您將能夠使用此手機號碼和OTP密碼登錄。"
 
 #: digoldaccntmr\digoldaccntmr.php:770
@@ -4852,8 +4521,7 @@ msgstr "無需記住您的密碼。"
 msgid "ADD"
 msgstr "加"
 
-#: digoneclickls\digoneclickls.php:86
-#: digoneclickls\digoneclickls.php:94
+#: digoneclickls\digoneclickls.php:86 digoneclickls\digoneclickls.php:94
 #: digoneclickls\digoneclickls.php:392
 msgid "One Click Login-Signup"
 msgstr "一鍵登錄註冊"
@@ -4874,13 +4542,11 @@ msgstr "進行"
 msgid "Proceed With WhatsApp"
 msgstr "繼續使用WhatsApp"
 
-#: digoneclickls\digoneclickls.php:342
-#: includes\login.php:334
+#: digoneclickls\digoneclickls.php:342 includes\login.php:334
 msgid "Please enter a valid captcha!"
 msgstr "請輸入有效的驗證碼！"
 
-#: digoneclickls\process.php:33
-#: digrestapi\digrestapi.php:544
+#: digoneclickls\process.php:33 digrestapi\digrestapi.php:544
 msgid "User is already logged in!"
 msgstr "用戶已登錄！"
 
@@ -4892,12 +4558,9 @@ msgstr "請輸入有效的電話號碼"
 msgid "Invalid OTP"
 msgstr "無效的一次性密碼"
 
-#: digoneclickls\process.php:89
-#: includes\core\enqueue\enqueue_scripts.php:275
-#: includes\forms\handler\DigitsFormHandler.php:1370
-#: includes\login.php:184
-#: includes\login.php:710
-#: includes\process_user.php:753
+#: digoneclickls\process.php:89 includes\core\enqueue\enqueue_scripts.php:275
+#: includes\forms\handler\DigitsFormHandler.php:1370 includes\login.php:184
+#: includes\login.php:710 includes\process_user.php:753
 msgid "Login Successful, Redirecting.."
 msgstr "登錄成功，正在重定向。"
 
@@ -4921,8 +4584,8 @@ msgstr "鎖定完整網站"
 
 #: digpagelock\digpagelock.php:179
 msgid ""
-"This will lock the whole website so that it can only be accessed by logged in "
-"users."
+"This will lock the whole website so that it can only be accessed by logged "
+"in users."
 msgstr "這將鎖定整個網站，以便只有登錄使用者才能訪問它。"
 
 #: digpagelock\digpagelock.php:189
@@ -4939,8 +4602,8 @@ msgstr "鎖定伍商務結帳頁面"
 
 #: digpagelock\digpagelock.php:222
 msgid ""
-"This will lock the checkout page so that it can only be accessed by logged in "
-"users."
+"This will lock the checkout page so that it can only be accessed by logged "
+"in users."
 msgstr "這將鎖定結帳頁面，以便只有登錄使用者才能訪問它。"
 
 #: digpagelock\digpagelock.php:228
@@ -4983,8 +4646,7 @@ msgstr "查看文件"
 msgid "Rest API"
 msgstr "休息介面"
 
-#: digrestapi\digrestapi.php:432
-#: includes\core\enqueue\enqueue_scripts.php:120
+#: digrestapi\digrestapi.php:432 includes\core\enqueue\enqueue_scripts.php:120
 #: includes\core\enqueue\enqueue_scripts.php:167
 #: includes\core\enqueue\enqueue_scripts.php:256
 #: includes\woocommerce-registration.php:536
@@ -4995,11 +4657,8 @@ msgstr "無效的一次性密碼！"
 msgid "Error! You need to be logged in to change number"
 msgstr "錯誤！您需要登錄才能更改號碼"
 
-#: digrestapi\digrestapi.php:455
-#: includes\plugins\ihu.php:24
-#: includes\wcs.php:447
-#: includes\wp.php:294
-#: includes\wp.php:308
+#: digrestapi\digrestapi.php:455 includes\plugins\ihu.php:24
+#: includes\wcs.php:447 includes\wp.php:294 includes\wp.php:308
 msgid "Please enter a valid Mobile Number"
 msgstr "請輸入有效的手機號碼"
 
@@ -5011,12 +4670,10 @@ msgstr "請輸入有效的一次性密碼"
 msgid "Please enter valid credentials"
 msgstr "請輸入有效的憑據"
 
-#: digrestapi\digrestapi.php:533
-#: includes\core\enqueue\enqueue_scripts.php:154
+#: digrestapi\digrestapi.php:533 includes\core\enqueue\enqueue_scripts.php:154
 #: includes\core\enqueue\enqueue_scripts.php:249
 #: includes\forms\handler\DigitsFormHandler.php:310
-#: includes\forms\handler\UserActionHandler.php:232
-#: includes\login.php:517
+#: includes\forms\handler\UserActionHandler.php:232 includes\login.php:517
 #: includes\process_user.php:688
 msgid "Please signup before logging in."
 msgstr "請在登錄前註冊。"
@@ -5033,8 +4690,7 @@ msgstr "創建訪問令牌時出錯"
 msgid "Your session has expired. Please login again"
 msgstr "您的工作階段已過期。請重新登錄"
 
-#: digsociallogin\digsociallogin.php:97
-#: digsociallogin\handler.php:21
+#: digsociallogin\digsociallogin.php:97 digsociallogin\handler.php:21
 msgid "Social Logins"
 msgstr "社交登錄"
 
@@ -5047,8 +4703,7 @@ msgid "Error while generating user login!"
 msgstr "生成用戶登錄時出錯！"
 
 #: digsociallogin\includes\providers\SocialLoginAuth.php:37
-#: includes\forms\render.php:298
-#: includes\forms\render.php:461
+#: includes\forms\render.php:298 includes\forms\render.php:461
 #, php-format
 msgid "Use %s"
 msgstr "使用 %s"
@@ -5202,10 +4857,8 @@ msgstr "添加電子郵件位址"
 #: includes\forms\handler\UserRegistration.php:143
 #: includes\forms\handler\UserRegistration.php:146
 #: includes\forms\handler\UserRegistration.php:498
-#: includes\process_user.php:165
-#: includes\process_user.php:169
-#: includes\register.php:414
-#: includes\register.php:418
+#: includes\process_user.php:165 includes\process_user.php:169
+#: includes\register.php:414 includes\register.php:418
 #: includes\woocommerce-registration.php:501
 msgid "Please enter a valid Email!"
 msgstr "請輸入有效的電子郵件！"
@@ -5362,8 +5015,7 @@ msgstr "您已成功啟用 2FA 應用程式！"
 #: includes\forms\handler\DigitsFormHandler.php:1538
 #: includes\forms\handler\UserRegistration.php:350
 #: includes\forms\handler\UserRegistration.php:360
-#: includes\process_user.php:149
-#: includes\process_user.php:158
+#: includes\process_user.php:149 includes\process_user.php:158
 msgid "Please enter a valid OTP!"
 msgstr "請輸入有效的一次性密碼！"
 
@@ -5375,10 +5027,8 @@ msgstr "擔保"
 msgid "Please login to continue"
 msgstr "請登錄以繼續"
 
-#: includes\account\wauth\init.php:279
-#: includes\account\wauth\init.php:289
-#: includes\account\wauth\init.php:302
-#: includes\account\wauth\init.php:345
+#: includes\account\wauth\init.php:279 includes\account\wauth\init.php:289
+#: includes\account\wauth\init.php:302 includes\account\wauth\init.php:345
 #: includes\core\enqueue\enqueue_scripts.php:250
 msgid "Please try again!"
 msgstr "請重試！"
@@ -5421,15 +5071,13 @@ msgid "Invalid details!"
 msgstr "無效的詳細資訊！"
 
 #: includes\core\enqueue\enqueue_scripts.php:132
-#: includes\core\enqueue\enqueue_scripts.php:228
-#: includes\process_user.php:936
+#: includes\core\enqueue\enqueue_scripts.php:228 includes\process_user.php:936
 #: includes\process_user.php:965
 msgid "Passwords do not match!"
 msgstr "密碼不匹配！"
 
 #: includes\core\enqueue\enqueue_scripts.php:155
-#: includes\core\enqueue\enqueue_scripts.php:248
-#: includes\process_user.php:347
+#: includes\core\enqueue\enqueue_scripts.php:248 includes\process_user.php:347
 #: includes\register.php:587
 msgid "Invalid API credentials!"
 msgstr "API 認證無效！"
@@ -5450,8 +5098,7 @@ msgstr "密碼無效"
 #: includes\core\enqueue\enqueue_scripts.php:162
 #: includes\core\enqueue\enqueue_scripts.php:260
 #: includes\forms\handler\UserRegistration.php:174
-#: includes\process_user.php:184
-#: includes\process_user.php:831
+#: includes\process_user.php:184 includes\process_user.php:831
 #: includes\register.php:432
 msgid "Invalid Email!"
 msgstr "無效的電子郵件！"
@@ -5461,8 +5108,7 @@ msgstr "無效的電子郵件！"
 #: includes\forms\handler\DigitsFormHandler.php:265
 #: includes\forms\handler\DigitsFormHandler.php:799
 #: includes\forms\handler\DigitsFormHandler.php:1447
-#: includes\forms\handler\UserRegistration.php:191
-#: includes\login.php:412
+#: includes\forms\handler\UserRegistration.php:191 includes\login.php:412
 msgid "At the moment, we do not allow users from your country"
 msgstr "目前，我們不允許來自您所在國家/地區的使用者"
 
@@ -5472,10 +5118,8 @@ msgid "Mobile number not found!"
 msgstr "找不到手機號碼！"
 
 #: includes\core\enqueue\enqueue_scripts.php:165
-#: includes\core\enqueue\enqueue_scripts.php:253
-#: includes\login.php:429
-#: includes\process_user.php:386
-#: includes\process_user.php:388
+#: includes\core\enqueue\enqueue_scripts.php:253 includes\login.php:429
+#: includes\process_user.php:386 includes\process_user.php:388
 #: includes\woocommerce-registration.php:304
 #: includes\woocommerce-registration.php:306
 #: includes\woocommerce-registration.php:544
@@ -5487,8 +5131,7 @@ msgstr "手機號碼已在使用中！"
 msgid "Username/Mobile Number"
 msgstr "使用者名/手機號碼"
 
-#: includes\core\enqueue\enqueue_scripts.php:176
-#: includes\forms.php:441
+#: includes\core\enqueue\enqueue_scripts.php:176 includes\forms.php:441
 #: includes\woocommerce-registration.php:1542
 msgid "Confirm Password"
 msgstr "確認密碼"
@@ -5523,8 +5166,7 @@ msgstr "驗證手機號碼"
 msgid "SIGN UP"
 msgstr "登記"
 
-#: includes\core\enqueue\enqueue_scripts.php:185
-#: includes\plugins\um.php:149
+#: includes\core\enqueue\enqueue_scripts.php:185 includes\plugins\um.php:149
 #: includes\woocommerce-registration.php:1238
 msgid "OR"
 msgstr "或"
@@ -5568,8 +5210,7 @@ msgstr "耶！"
 msgid "Notice!"
 msgstr "通知！"
 
-#: includes\core\functions.php:608
-#: includes\core\functions.php:660
+#: includes\core\functions.php:608 includes\core\functions.php:660
 msgid "Search"
 msgstr "搜索"
 
@@ -5582,9 +5223,8 @@ msgid "Sorry, you are not allowed to install plugins on this site."
 msgstr "抱歉，您不得在此網站上安裝外掛程式。"
 
 #: includes\core\phandler.php:81
-msgid ""
-"Please purchase addon license from https://digits.unitedover.com/addons/"
-msgstr "請從 https://digits.unitedover.com/addons/ 購買外掛程式許可證"
+msgid "Please purchase addon license from https://dash.brqsms.com"
+msgstr "請從 https://dash.brqsms.com 購買外掛程式許可證"
 
 #: includes\core\phandler.php:103
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
@@ -5738,8 +5378,7 @@ msgstr "查哥"
 msgid "Chubut"
 msgstr "丘布特"
 
-#: includes\fields\address\states.php:49
-#: includes\fields\address\states.php:342
+#: includes\fields\address\states.php:49 includes\fields\address\states.php:342
 #: includes\fields\address\states.php:561
 msgid "Córdoba"
 msgstr "科爾多瓦"
@@ -5764,8 +5403,7 @@ msgstr "胡胡伊"
 msgid "La Pampa"
 msgstr "拉潘帕草原"
 
-#: includes\fields\address\states.php:55
-#: includes\fields\address\states.php:570
+#: includes\fields\address\states.php:55 includes\fields\address\states.php:570
 msgid "La Rioja"
 msgstr "拉裡奧哈"
 
@@ -5791,8 +5429,7 @@ msgstr "里奧內格羅"
 msgid "Salta"
 msgstr "薩爾塔"
 
-#: includes\fields\address\states.php:61
-#: includes\fields\address\states.php:427
+#: includes\fields\address\states.php:61 includes\fields\address\states.php:427
 msgid "San Juan"
 msgstr "聖胡安"
 
@@ -5800,8 +5437,7 @@ msgstr "聖胡安"
 msgid "San Luis"
 msgstr "聖路易士"
 
-#: includes\fields\address\states.php:63
-#: includes\fields\address\states.php:202
+#: includes\fields\address\states.php:63 includes\fields\address\states.php:202
 msgid "Santa Cruz"
 msgstr "聖克魯斯"
 
@@ -13204,8 +12840,7 @@ msgstr "穆欽加"
 msgid "Don't have an account?"
 msgstr "沒有帳戶？"
 
-#: includes\forms.php:335
-#: includes\woocommerce-registration.php:1250
+#: includes\forms.php:335 includes\woocommerce-registration.php:1250
 msgid "Login With WhatsApp"
 msgstr "使用WhatsApp登錄"
 
@@ -13395,8 +13030,7 @@ msgid "There is no account with that phone or email address."
 msgstr "沒有使用該電話或電子郵件地址的帳戶。"
 
 #: includes\forms\handler\DigitsFormHandler.php:1547
-#: includes\process_user.php:889
-#: includes\process_user.php:938
+#: includes\process_user.php:889 includes\process_user.php:938
 msgid "Please use a stronger password!"
 msgstr "請使用更強的密碼！"
 
@@ -13478,8 +13112,7 @@ msgid "Registrations are not enabled!"
 msgstr "未啟用註冊！"
 
 #: includes\forms\handler\UserRegistration.php:128
-#: includes\process_user.php:126
-#: includes\process_user.php:129
+#: includes\process_user.php:126 includes\process_user.php:129
 msgid "Invalid Password!"
 msgstr "密碼無效！"
 
@@ -13489,10 +13122,8 @@ msgstr "請使用強密碼！"
 
 #: includes\forms\handler\UserRegistration.php:150
 #: includes\forms\handler\UserRegistration.php:177
-#: includes\forms\handler\UserRegistration.php:503
-#: includes\login.php:380
-#: includes\login.php:385
-#: includes\process_user.php:426
+#: includes\forms\handler\UserRegistration.php:503 includes\login.php:380
+#: includes\login.php:385 includes\process_user.php:426
 #: includes\register.php:678
 msgid "Email is already in use!"
 msgstr "電子郵件已在使用中！"
@@ -13500,12 +13131,9 @@ msgstr "電子郵件已在使用中！"
 #: includes\forms\handler\UserRegistration.php:159
 #: includes\forms\handler\UserRegistration.php:163
 #: includes\forms\handler\UserRegistration.php:484
-#: includes\process_user.php:146
-#: includes\process_user.php:155
-#: includes\register.php:404
-#: includes\register.php:408
-#: includes\register.php:424
-#: includes\woocommerce-registration.php:498
+#: includes\process_user.php:146 includes\process_user.php:155
+#: includes\register.php:404 includes\register.php:408
+#: includes\register.php:424 includes\woocommerce-registration.php:498
 msgid "Please enter a valid Mobile Number!"
 msgstr "請輸入有效的手機號碼！"
 
@@ -13518,26 +13146,21 @@ msgstr "請輸入有效的電子郵件\\手機號碼！"
 #: includes\forms\handler\UserRegistration.php:187
 #: includes\forms\handler\UserRegistration.php:280
 #: includes\forms\handler\UserRegistration.php:488
-#: includes\forms\handler\UserRegistration.php:490
-#: includes\wp.php:366
+#: includes\forms\handler\UserRegistration.php:490 includes\wp.php:366
 msgid "Mobile Number is already in use!"
 msgstr "手機號碼已在使用中！"
 
 #: includes\forms\handler\UserRegistration.php:275
 #: includes\forms\handler\UserRegistration.php:325
-#: includes\process_user.php:264
-#: includes\process_user.php:394
+#: includes\process_user.php:264 includes\process_user.php:394
 #: includes\register.php:632
 msgid "Error while generating username!"
 msgstr "生成使用者名時出錯！"
 
 #: includes\forms\handler\UserRegistration.php:315
-#: includes\forms\handler\UserRegistration.php:508
-#: includes\login.php:359
-#: includes\process_user.php:309
-#: includes\register.php:461
-#: includes\woocommerce-registration.php:650
-#: includes\wp.php:284
+#: includes\forms\handler\UserRegistration.php:508 includes\login.php:359
+#: includes\process_user.php:309 includes\register.php:461
+#: includes\woocommerce-registration.php:650 includes\wp.php:284
 msgid "Username is already in use!"
 msgstr "使用者名已被使用！"
 
@@ -13563,16 +13186,16 @@ msgid "Verify Phone"
 msgstr "驗證電話"
 
 #: includes\forms\handler\handler.php:36
-msgid "Error, Your session expired for security reasons. Please refresh the page and try again!"
+msgid ""
+"Error, Your session expired for security reasons. Please refresh the page "
+"and try again!"
 msgstr "錯誤，請重新載入頁面並重試！"
 
-#: includes\forms\handler\handler.php:55
-#: includes\login.php:344
+#: includes\forms\handler\handler.php:55 includes\login.php:344
 msgid "Registration is disabled!"
 msgstr "註冊已禁用！"
 
-#: includes\forms\handler\handler.php:60
-#: includes\login.php:350
+#: includes\forms\handler\handler.php:60 includes\login.php:350
 msgid "Forgot Password is disabled!"
 msgstr "忘記密碼被禁用！"
 
@@ -13580,8 +13203,7 @@ msgstr "忘記密碼被禁用！"
 msgid "2FA App"
 msgstr "2FA 應用程式"
 
-#: includes\forms\handler\process.php:45
-#: includes\forms\handler\process.php:397
+#: includes\forms\handler\process.php:45 includes\forms\handler\process.php:397
 msgid "2FA Code"
 msgstr "2FA 代碼"
 
@@ -13673,8 +13295,7 @@ msgstr "請輸入發送到的驗證碼"
 msgid "Go Back"
 msgstr "回去"
 
-#: includes\forms\render.php:286
-#: includes\forms\render.php:449
+#: includes\forms\render.php:286 includes\forms\render.php:449
 #: includes\forms\signup.php:158
 msgid "Use Phone Number"
 msgstr "使用電話號碼"
@@ -13748,8 +13369,7 @@ msgstr "手機號碼不準！"
 msgid "Invalid Email Address"
 msgstr "無效的電子郵件位址"
 
-#: includes\logs.php:108
-#: includes\logs.php:181
+#: includes\logs.php:108 includes\logs.php:181
 msgid ""
 "OTP limit has exceeded since you made too many attempts, Please try again "
 "after some time!"
@@ -13759,31 +13379,22 @@ msgstr "由於您進行了太多次嘗試，因此已超出OTP限制，請稍後
 msgid "(required)"
 msgstr "（必填）"
 
-#: includes\plugins\ihu.php:30
-#: includes\wp.php:314
+#: includes\plugins\ihu.php:30 includes\wp.php:314
 msgid "Mobile Number verification failed"
 msgstr "手機號碼驗證失敗"
 
-#: includes\plugins\ihu.php:62
-#: includes\wcs.php:464
-#: includes\wp.php:346
+#: includes\plugins\ihu.php:62 includes\wcs.php:464 includes\wp.php:346
 msgid "Please enter a valid OTP"
 msgstr "請輸入有效的一次性密碼"
 
-#: includes\plugins\um.php:37
-#: includes\plugins\um.php:39
-#: includes\process_user.php:270
-#: includes\process_user.php:377
-#: includes\register.php:515
-#: includes\register.php:624
-#: includes\register.php:637
-#: includes\register.php:639
+#: includes\plugins\um.php:37 includes\plugins\um.php:39
+#: includes\process_user.php:270 includes\process_user.php:377
+#: includes\register.php:515 includes\register.php:624
+#: includes\register.php:637 includes\register.php:639
 msgid "Mobile number already in use!"
 msgstr "手機號碼已在使用中！"
 
-#: includes\plugins\um.php:44
-#: includes\plugins\um.php:53
-#: includes\wcs.php:470
+#: includes\plugins\um.php:44 includes\plugins\um.php:53 includes\wcs.php:470
 msgid "Unable to verify Mobile number"
 msgstr "無法驗證手機號碼"
 
@@ -13791,25 +13402,20 @@ msgstr "無法驗證手機號碼"
 msgid "Invalid Email/Mobile Number"
 msgstr "無效的電子郵件/手機號碼"
 
-#: includes\process_user.php:115
-#: includes\register.php:355
+#: includes\process_user.php:115 includes\register.php:355
 msgid "Invalid Name!"
 msgstr "名稱無效！"
 
-#: includes\process_user.php:119
-#: includes\process_user.php:444
+#: includes\process_user.php:119 includes\process_user.php:444
 msgid "Invalid Username!"
 msgstr "使用者名無效！"
 
-#: includes\process_user.php:180
-#: includes\register.php:428
+#: includes\process_user.php:180 includes\register.php:428
 msgid "Invalid Email or Mobile Number"
 msgstr "無效的電子郵件或手機號碼"
 
-#: includes\process_user.php:187
-#: includes\process_user.php:193
-#: includes\register.php:435
-#: includes\register.php:442
+#: includes\process_user.php:187 includes\process_user.php:193
+#: includes\register.php:435 includes\register.php:442
 #: includes\woocommerce-registration.php:875
 msgid "Email already in use!"
 msgstr "電子郵件已在使用中！"
@@ -13818,22 +13424,22 @@ msgstr "電子郵件已在使用中！"
 msgid "Please enter a valid password"
 msgstr "請輸入有效的密碼"
 
-#: includes\process_user.php:654
-#: includes\process_user.php:696
+#: includes\process_user.php:654 includes\process_user.php:696
 msgid "Invalid Credentials!"
 msgstr "憑據無效！"
 
-#: includes\process_user.php:662
-#: includes\register.php:234
+#: includes\process_user.php:662 includes\register.php:234
 msgid "Please enter a valid captcha"
 msgstr "請輸入有效的驗證碼"
 
 #: includes\process_user.php:825
 msgid ""
 "A password reset email has been sent to the email address, but may take "
-"several minutes to show up in your inbox. Please wait at least 10 minutes before "
-"attempting another reset."
-msgstr "密碼重置電子郵件已發送到該電子郵件位址，但可能需要幾分鐘才能顯示在您的收件匣中。請至少等待 10 分鐘，然後再嘗試再次重置。"
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+"密碼重置電子郵件已發送到該電子郵件位址，但可能需要幾分鐘才能顯示在您的收件匣"
+"中。請至少等待 10 分鐘，然後再嘗試再次重置。"
 
 #: includes\process_user.php:847
 msgid "Please enter a valid Password"
@@ -13868,8 +13474,7 @@ msgstr "此手機號碼已註冊。"
 msgid "Please provide a valid email address/Mobile number."
 msgstr "請提供有效的電子郵件地址/手機號碼。"
 
-#: includes\register.php:148
-#: includes\woocommerce-registration.php:547
+#: includes\register.php:148 includes\woocommerce-registration.php:547
 #: includes\woocommerce-registration.php:552
 #: includes\woocommerce-registration.php:1786
 msgid "Please provide a valid email address."
@@ -14005,8 +13610,7 @@ msgstr "註冊模式"
 msgid "Select all"
 msgstr "全選"
 
-#: includes\wcs.php:402
-#: includes\wcs.php:403
+#: includes\wcs.php:402 includes\wcs.php:403
 msgid "Add to menu"
 msgstr "添加到功能表"
 
@@ -14086,8 +13690,8 @@ msgstr "錯誤"
 
 #: includes\woocommerce-registration.php:736
 msgid ""
-"Couldn&#8217;t register you&hellip; please contact us if you continue to have "
-"problems."
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
 msgstr "無法註冊您...如果您仍然遇到問題，請與我們聯繫。"
 
 #: includes\woocommerce-registration.php:853
@@ -14130,7 +13734,9 @@ msgstr "手機號碼為必填項！"
 msgid ""
 "Lost your password? Please enter your mobile number to receive OTP or email "
 "address to get a link to create a new password."
-msgstr "丟失了密碼？請輸入您的手機號碼以接收OTP，或輸入電子郵件地址以獲取創建新密碼的連結。"
+msgstr ""
+"丟失了密碼？請輸入您的手機號碼以接收OTP，或輸入電子郵件地址以獲取創建新密碼的"
+"連結。"
 
 #: includes\woocommerce-registration.php:1651
 msgid "User"
@@ -14170,8 +13776,7 @@ msgstr "無效的詳細資訊！"
 msgid "test"
 msgstr "測試"
 
-#: templates\email_forgot.php:362
-#: templates\email_login.php:357
+#: templates\email_forgot.php:362 templates\email_login.php:357
 msgid "Your secure one time code for {{sitename}} is"
 msgstr "您的 {{sitename}} 的安全一次性代碼是"
 
@@ -14192,24 +13797,21 @@ msgid "Click here to Verify Email"
 msgstr "按兩下此處驗證電子郵件"
 
 #. Plugin Name of the plugin/theme
-msgid "DIGITS: WordPress Mobile Number Signup and Login"
+msgid "BrqSMS: WordPress Mobile Number Signup and Login"
 msgstr "數位：WordPress手機號碼註冊和登錄"
 
 #. Plugin URI of the plugin/theme
-msgid "https://digits.unitedover.com"
-msgstr "https://digits.unitedover.com"
+msgid "https://dash.brqsms.com"
+msgstr "https://dash.brqsms.com"
 
 #. Description of the plugin/theme
 msgid ""
 "Expand your website dimensions by providing signup and login using mobile "
 "number. User can register themselves with just a mobile number."
-msgstr "通過使用手機號碼提供註冊和登錄來擴展您的網站維度。使用者只需使用手機號碼即可註冊。"
+msgstr ""
+"通過使用手機號碼提供註冊和登錄來擴展您的網站維度。使用者只需使用手機號碼即可"
+"註冊。"
 
 #. Author of the plugin/theme
-msgid "UnitedOver"
-msgstr "美聯航"
-
-#. Author URI of the plugin/theme
-msgid "https://www.unitedover.com/"
-msgstr "https://www.unitedover.com/"
-
+msgid "ABDALRAHMAN MOLOOD"
+msgstr "ABDALRAHMAN MOLOOD"

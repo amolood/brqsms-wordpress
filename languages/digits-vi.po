@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login\n"
+"Project-Id-Version: BrqSMS: WordPress Mobile Number Signup and Login\n"
 "POT-Creation-Date: 2023-04-19 16:36+0530\n"
 "PO-Revision-Date: 2023-07-02 23:31+0700\n"
 "Language-Team: \n"
@@ -13,9 +13,8 @@ msgstr ""
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: digit.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
-"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
-"__ngettext_noop:1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Last-Translator: \n"
 "Language: vi\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -27,80 +26,94 @@ msgstr "Xin chào"
 msgid "serendipity"
 msgstr "serendipity"
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:54 digadvlogic/Puc/v4p6/Plugin/Ui.php:54
-#: digapprove/Puc/v4p6/Plugin/Ui.php:54 digbuilder/Puc/v4p6/Plugin/Ui.php:54
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:54 digfilter/Puc/v4p6/Plugin/Ui.php:54
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:54 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:54
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:54 digpagelock/Puc/v4p6/Plugin/Ui.php:54
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:54 digsociallogin/Puc/v4p6/Plugin/Ui.php:54
-#: update/Puc/v4p6/Plugin/Ui.php:54
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:54
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:54 digapprove/Puc/v4p6/Plugin/Ui.php:54
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:54
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:54
+#: digfilter/Puc/v4p6/Plugin/Ui.php:54 digmergphne/Puc/v4p6/Plugin/Ui.php:54
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:54
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:54
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:54 digrestapi/Puc/v4p6/Plugin/Ui.php:54
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:54 update/Puc/v4p6/Plugin/Ui.php:54
 msgid "View details"
 msgstr "Xem chi tiết"
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:77 digadvlogic/Puc/v4p6/Plugin/Ui.php:77
-#: digapprove/Puc/v4p6/Plugin/Ui.php:77 digbuilder/Puc/v4p6/Plugin/Ui.php:77
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:77 digfilter/Puc/v4p6/Plugin/Ui.php:77
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:77 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:77
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:77 digpagelock/Puc/v4p6/Plugin/Ui.php:77
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:77 digsociallogin/Puc/v4p6/Plugin/Ui.php:77
-#: update/Puc/v4p6/Plugin/Ui.php:77
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:77
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:77 digapprove/Puc/v4p6/Plugin/Ui.php:77
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:77
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:77
+#: digfilter/Puc/v4p6/Plugin/Ui.php:77 digmergphne/Puc/v4p6/Plugin/Ui.php:77
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:77
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:77
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:77 digrestapi/Puc/v4p6/Plugin/Ui.php:77
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:77 update/Puc/v4p6/Plugin/Ui.php:77
 #, php-format
 msgid "More information about %s"
 msgstr "Thông tin thêm về %s"
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:128 digadvlogic/Puc/v4p6/Plugin/Ui.php:128
-#: digapprove/Puc/v4p6/Plugin/Ui.php:128 digbuilder/Puc/v4p6/Plugin/Ui.php:128
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:128 digfilter/Puc/v4p6/Plugin/Ui.php:128
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:128 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:128
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:128 digpagelock/Puc/v4p6/Plugin/Ui.php:128
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:128 digsociallogin/Puc/v4p6/Plugin/Ui.php:128
-#: update/Puc/v4p6/Plugin/Ui.php:128
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:128
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:128 digapprove/Puc/v4p6/Plugin/Ui.php:128
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:128
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:128
+#: digfilter/Puc/v4p6/Plugin/Ui.php:128 digmergphne/Puc/v4p6/Plugin/Ui.php:128
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:128
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:128
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:128 digrestapi/Puc/v4p6/Plugin/Ui.php:128
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:128 update/Puc/v4p6/Plugin/Ui.php:128
 msgid "Check for updates"
 msgstr "Kiểm tra cập nhật"
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:213 digadvlogic/Puc/v4p6/Plugin/Ui.php:213
-#: digapprove/Puc/v4p6/Plugin/Ui.php:213 digbuilder/Puc/v4p6/Plugin/Ui.php:213
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:213 digfilter/Puc/v4p6/Plugin/Ui.php:213
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:213 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:213
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:213 digpagelock/Puc/v4p6/Plugin/Ui.php:213
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:213 digsociallogin/Puc/v4p6/Plugin/Ui.php:213
-#: update/Puc/v4p6/Plugin/Ui.php:213
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:213
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:213 digapprove/Puc/v4p6/Plugin/Ui.php:213
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:213
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:213
+#: digfilter/Puc/v4p6/Plugin/Ui.php:213 digmergphne/Puc/v4p6/Plugin/Ui.php:213
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:213
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:213
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:213 digrestapi/Puc/v4p6/Plugin/Ui.php:213
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:213 update/Puc/v4p6/Plugin/Ui.php:213
 #, php-format
 msgctxt "the plugin title"
 msgid "The %s plugin is up to date."
 msgstr "Plugin %s được cập nhật."
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:215 digadvlogic/Puc/v4p6/Plugin/Ui.php:215
-#: digapprove/Puc/v4p6/Plugin/Ui.php:215 digbuilder/Puc/v4p6/Plugin/Ui.php:215
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:215 digfilter/Puc/v4p6/Plugin/Ui.php:215
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:215 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:215
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:215 digpagelock/Puc/v4p6/Plugin/Ui.php:215
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:215 digsociallogin/Puc/v4p6/Plugin/Ui.php:215
-#: update/Puc/v4p6/Plugin/Ui.php:215
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:215
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:215 digapprove/Puc/v4p6/Plugin/Ui.php:215
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:215
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:215
+#: digfilter/Puc/v4p6/Plugin/Ui.php:215 digmergphne/Puc/v4p6/Plugin/Ui.php:215
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:215
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:215
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:215 digrestapi/Puc/v4p6/Plugin/Ui.php:215
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:215 update/Puc/v4p6/Plugin/Ui.php:215
 #, php-format
 msgctxt "the plugin title"
 msgid "A new version of the %s plugin is available."
 msgstr "Đã có phiên bản mới của plugin %s."
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:217 digadvlogic/Puc/v4p6/Plugin/Ui.php:217
-#: digapprove/Puc/v4p6/Plugin/Ui.php:217 digbuilder/Puc/v4p6/Plugin/Ui.php:217
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:217 digfilter/Puc/v4p6/Plugin/Ui.php:217
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:217 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:217
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:217 digpagelock/Puc/v4p6/Plugin/Ui.php:217
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:217 digsociallogin/Puc/v4p6/Plugin/Ui.php:217
-#: update/Puc/v4p6/Plugin/Ui.php:217
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:217
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:217 digapprove/Puc/v4p6/Plugin/Ui.php:217
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:217
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:217
+#: digfilter/Puc/v4p6/Plugin/Ui.php:217 digmergphne/Puc/v4p6/Plugin/Ui.php:217
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:217
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:217
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:217 digrestapi/Puc/v4p6/Plugin/Ui.php:217
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:217 update/Puc/v4p6/Plugin/Ui.php:217
 #, php-format
 msgctxt "the plugin title"
 msgid "Could not determine if updates are available for %s."
 msgstr "Không thể xác định xem có bản cập nhật nào cho %s hay không."
 
-#: additional-gateways/Puc/v4p6/Plugin/Ui.php:223 digadvlogic/Puc/v4p6/Plugin/Ui.php:223
-#: digapprove/Puc/v4p6/Plugin/Ui.php:223 digbuilder/Puc/v4p6/Plugin/Ui.php:223
-#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:223 digfilter/Puc/v4p6/Plugin/Ui.php:223
-#: digmergphne/Puc/v4p6/Plugin/Ui.php:223 digoldaccntmr/Puc/v4p6/Plugin/Ui.php:223
-#: digoneclickls/Puc/v4p6/Plugin/Ui.php:223 digpagelock/Puc/v4p6/Plugin/Ui.php:223
-#: digrestapi/Puc/v4p6/Plugin/Ui.php:223 digsociallogin/Puc/v4p6/Plugin/Ui.php:223
-#: update/Puc/v4p6/Plugin/Ui.php:223
+#: additional-gateways/Puc/v4p6/Plugin/Ui.php:223
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:223 digapprove/Puc/v4p6/Plugin/Ui.php:223
+#: digbuilder/Puc/v4p6/Plugin/Ui.php:223
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:223
+#: digfilter/Puc/v4p6/Plugin/Ui.php:223 digmergphne/Puc/v4p6/Plugin/Ui.php:223
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:223
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:223
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:223 digrestapi/Puc/v4p6/Plugin/Ui.php:223
+#: digsociallogin/Puc/v4p6/Plugin/Ui.php:223 update/Puc/v4p6/Plugin/Ui.php:223
 #, php-format
 msgid "Unknown update checker status \"%s\""
 msgstr "Trạng thái trình kiểm tra cập nhật không xác định \"%s\""
@@ -121,7 +134,8 @@ msgstr "Trạng thái trình kiểm tra cập nhật không xác định \"%s\""
 msgid "There is no changelog available."
 msgstr "Không có nhật ký thay đổi."
 
-#: admin/editor/editor.php:34 includes/core/enqueue/enqueue_scripts.php:168 includes/register.php:764
+#: admin/editor/editor.php:34 includes/core/enqueue/enqueue_scripts.php:168
+#: includes/register.php:764
 msgid "Please try again"
 msgstr "Vui lòng thử lại"
 
@@ -173,7 +187,8 @@ msgstr "Cửa sổ bật lên đăng ký"
 msgid "Login / Signup Page"
 msgstr "Trang Đăng nhập / Đăng ký"
 
-#: admin/editor/editor.php:169 admin/includes/shortcodes.php:39 includes/wcs.php:356
+#: admin/editor/editor.php:169 admin/includes/shortcodes.php:39
+#: includes/wcs.php:356
 msgid "Login Page"
 msgstr "Trang đăng nhập"
 
@@ -193,9 +208,10 @@ msgstr "Trình tạo cửa sổ bật lên"
 msgid "Page Builder"
 msgstr "Trình tạo trang"
 
-#: admin/editor/editor.php:211 admin/includes/functions.php:1364 admin/includes/functions.php:1419
-#: admin/includes/functions.php:1533 admin/includes/functions.php:1833
-#: admin/includes/functions.php:1886 admin/settings.php:454 admin/settings.php:595
+#: admin/editor/editor.php:211 admin/includes/functions.php:1364
+#: admin/includes/functions.php:1419 admin/includes/functions.php:1533
+#: admin/includes/functions.php:1833 admin/includes/functions.php:1886
+#: admin/settings.php:454 admin/settings.php:595
 #: includes/account/secure.php:110 includes/forms/admin.php:118
 msgid "Remove"
 msgstr "Xóa"
@@ -216,8 +232,8 @@ msgstr "Bộ chọn"
 msgid "Cursor"
 msgstr "Con trỏ"
 
-#: admin/editor/editor.php:268 admin/includes/functions.php:1060 admin/includes/tabs/signup.php:426
-#: admin/settings.php:406
+#: admin/editor/editor.php:268 admin/includes/functions.php:1060
+#: admin/includes/tabs/signup.php:426 admin/settings.php:406
 msgid "Save"
 msgstr "Lưu"
 
@@ -227,10 +243,11 @@ msgstr "Đóng Trình chỉnh sửa"
 
 #: admin/includes/api_settings.php:38 admin/includes/shortcodes.php:135
 #: admin/includes/shortcodes.php:160 digbuilder/digbuilder.php:211
-#: digbuilder/includes/import_export.php:51 digbuilder/includes/widget/v1/element_form_widget.php:869
+#: digbuilder/includes/import_export.php:51
+#: digbuilder/includes/widget/v1/element_form_widget.php:869
 #: digbuilder/includes/widget/v8/element_form_widget.php:893
-#: digbuilder/includes/widget/v8/element_form_widget.php:940 includes/forms/render.php:676
-#: includes/forms/signup.php:147
+#: digbuilder/includes/widget/v8/element_form_widget.php:940
+#: includes/forms/render.php:676 includes/forms/signup.php:147
 msgid "Register"
 msgstr "Đăng ký"
 
@@ -240,8 +257,9 @@ msgstr "Mua ngay"
 
 #: admin/includes/api_settings.php:41
 msgid ""
-"You are using trial version of Digits, please register the plugin using license key or else "
-"purchase a license to use the plugin with all of its features."
+"You are using trial version of Digits, please register the plugin using "
+"license key or else purchase a license to use the plugin with all of its "
+"features."
 msgstr ""
 
 #: admin/includes/api_settings.php:50
@@ -250,8 +268,9 @@ msgstr "Sửa Chữa Nó"
 
 #: admin/includes/api_settings.php:52
 msgid ""
-"We've noticed that your site is using insecure protocol (http) instead of secure protocol (https), "
-"so we request you change it from your WordPress General settings."
+"We've noticed that your site is using insecure protocol (http) instead of "
+"secure protocol (https), so we request you change it from your WordPress "
+"General settings."
 msgstr ""
 
 #: admin/includes/api_settings.php:68
@@ -259,7 +278,9 @@ msgid "Resume"
 msgstr "Tiếp tục"
 
 #: admin/includes/api_settings.php:70
-msgid "You left your Digits plugin configuration in the middle, resume it to setup the plugin."
+msgid ""
+"You left your Digits plugin configuration in the middle, resume it to setup "
+"the plugin."
 msgstr ""
 
 #: admin/includes/api_settings.php:86
@@ -267,11 +288,15 @@ msgid "API Settings"
 msgstr "Cài đặt API"
 
 #: admin/includes/api_settings.php:97 admin/includes/functions.php:2126
-#: admin/includes/shortcodes.php:95 includes/account/secure_account_disable.php:184
-#: includes/account/secure_account_setup.php:98 includes/account/setup_account_security.php:82
-#: includes/account/setup_account_security.php:241 includes/account/setup_account_security.php:414
-#: includes/forms/render.php:364 includes/forms/render.php:556 includes/forms/render.php:711
-#: includes/woocommerce-registration.php:1121 includes/wp.php:55 includes/wp.php:84
+#: admin/includes/shortcodes.php:95
+#: includes/account/secure_account_disable.php:184
+#: includes/account/secure_account_setup.php:98
+#: includes/account/setup_account_security.php:82
+#: includes/account/setup_account_security.php:241
+#: includes/account/setup_account_security.php:414
+#: includes/forms/render.php:364 includes/forms/render.php:556
+#: includes/forms/render.php:711 includes/woocommerce-registration.php:1121
+#: includes/wp.php:55 includes/wp.php:84
 msgid "Continue"
 msgstr "Tiếp tục"
 
@@ -285,8 +310,9 @@ msgstr "Quay lại"
 msgid "Test Gateway Settings"
 msgstr "Kiểm tra cài đặt cổng"
 
-#: admin/includes/api_settings.php:128 includes/account/setup_account_security.php:75
-#: includes/forms/render.php:294 includes/forms/render.php:457 includes/forms/render.php:768
+#: admin/includes/api_settings.php:128
+#: includes/account/setup_account_security.php:75 includes/forms/render.php:294
+#: includes/forms/render.php:457 includes/forms/render.php:768
 #: includes/forms/render.php:776
 msgid "Email Address"
 msgstr "Địa chỉ email"
@@ -300,9 +326,11 @@ msgid "Send Test"
 msgstr "Gửi bài kiểm tra"
 
 #: admin/includes/api_settings.php:149 admin/includes/api_settings.php:665
-#: admin/includes/gateway_functions.php:74 admin/includes/users.php:11 includes/forms/render.php:331
-#: includes/forms/render.php:332 includes/forms/render.php:494 includes/forms/render.php:495
-#: includes/forms/render.php:801 includes/forms/render.php:825 includes/forms/render.php:826
+#: admin/includes/gateway_functions.php:74 admin/includes/users.php:11
+#: includes/forms/render.php:331 includes/forms/render.php:332
+#: includes/forms/render.php:494 includes/forms/render.php:495
+#: includes/forms/render.php:801 includes/forms/render.php:825
+#: includes/forms/render.php:826
 msgid "Phone Number"
 msgstr "Số điện thoại"
 
@@ -316,8 +344,8 @@ msgstr "Phản hồi cổng"
 
 #: admin/includes/api_settings.php:185
 msgid ""
-"This response is from your gateway company. If the response looks good and you didn't receive a "
-"message then please contact your gateway support."
+"This response is from your gateway company. If the response looks good and "
+"you didn't receive a message then please contact your gateway support."
 msgstr ""
 
 #: admin/includes/api_settings.php:201 digapprove/digapprove.php:74
@@ -516,12 +544,14 @@ msgstr "Di động"
 #: admin/includes/tabs/2fa.php:198 digbuilder/includes/form.php:140
 #: digbuilder/includes/widget/v1/element_form_widget.php:354
 #: digbuilder/includes/widget/v1/element_form_widget.php:438
-#: digbuilder/includes/widget/v8/element_form_widget.php:474 digit.php:2525 digit.php:2582
-#: includes/account/secure_account_disable.php:177 includes/core/enqueue/enqueue_scripts.php:175
-#: includes/forms.php:264 includes/forms.php:430 includes/forms.php:659
+#: digbuilder/includes/widget/v8/element_form_widget.php:474 digit.php:2525
+#: digit.php:2582 includes/account/secure_account_disable.php:177
+#: includes/core/enqueue/enqueue_scripts.php:175 includes/forms.php:264
+#: includes/forms.php:430 includes/forms.php:659
 #: includes/forms/handler/process.php:66 includes/forms/handler/process.php:166
-#: includes/forms/handler/process.php:527 includes/forms/signup.php:337 includes/forms/signup.php:347
-#: includes/woocommerce-registration.php:309 includes/woocommerce-registration.php:322
+#: includes/forms/handler/process.php:527 includes/forms/signup.php:337
+#: includes/forms/signup.php:347 includes/woocommerce-registration.php:309
+#: includes/woocommerce-registration.php:322
 msgid "Password"
 msgstr "Mật khẩu"
 
@@ -531,12 +561,14 @@ msgstr "Bí mật API"
 
 #: admin/includes/api_settings.php:522 admin/includes/api_settings.php:548
 #: admin/includes/api_settings.php:570 admin/includes/api_settings.php:609
-#: digbuilder/includes/form.php:122 digbuilder/includes/widget/v1/element_form_widget.php:317
+#: digbuilder/includes/form.php:122
+#: digbuilder/includes/widget/v1/element_form_widget.php:317
 #: digbuilder/includes/widget/v1/element_form_widget.php:434
 #: digbuilder/includes/widget/v8/element_form_widget.php:375
-#: digbuilder/includes/widget/v8/element_form_widget.php:471 digit.php:1420 digit.php:2520
-#: digit.php:2579 includes/forms.php:204 includes/forms.php:496 includes/forms.php:550
-#: includes/forms/render.php:296 includes/forms/render.php:459 includes/forms/signup.php:314
+#: digbuilder/includes/widget/v8/element_form_widget.php:471 digit.php:1420
+#: digit.php:2520 digit.php:2579 includes/forms.php:204 includes/forms.php:496
+#: includes/forms.php:550 includes/forms/render.php:296
+#: includes/forms/render.php:459 includes/forms/signup.php:314
 #: includes/forms/signup.php:324 includes/process_user.php:77
 msgid "Username"
 msgstr "Tên đăng nhập"
@@ -546,13 +578,15 @@ msgid "AppSid"
 msgstr "Ứng dụng"
 
 #: admin/includes/api_settings.php:580 admin/includes/api_settings.php:590
-#: admin/includes/shortcodes.php:140 admin/includes/shortcodes.php:152 admin/settings.php:765
-#: digbuilder/digbuilder.php:210 digbuilder/includes/import_export.php:50
+#: admin/includes/shortcodes.php:140 admin/includes/shortcodes.php:152
+#: admin/settings.php:765 digbuilder/digbuilder.php:210
+#: digbuilder/includes/import_export.php:50
 #: digbuilder/includes/widget/v1/element_form_widget.php:845
 #: digbuilder/includes/widget/v1/element_form_widget.php:906
 #: digbuilder/includes/widget/v8/element_form_widget.php:869
-#: digbuilder/includes/widget/v8/element_form_widget.php:918 digit.php:771 includes/forms.php:64
-#: includes/forms/handler/process.php:89 includes/forms/render.php:431
+#: digbuilder/includes/widget/v8/element_form_widget.php:918 digit.php:771
+#: includes/forms.php:64 includes/forms/handler/process.php:89
+#: includes/forms/render.php:431
 msgid "Login"
 msgstr "Đăng nhập"
 
@@ -612,9 +646,11 @@ msgstr "URL mã hóa thô"
 
 #: admin/includes/api_settings.php:664 admin/includes/gateway_functions.php:73
 #: admin/includes/tabs/forms.php:51 admin/includes/tabs/forms.php:274
-#: admin/includes/tabs/signup.php:181 admin/includes/tabs/signup.php:342 admin/settings.php:548
-#: digapprove/digapprove.php:132 digbuilder/includes/builder/Digits_Group_Control_Box_Style.php:224
-#: digbuilder/includes/builder/document.php:98 digbuilder/includes/builder/document.php:240
+#: admin/includes/tabs/signup.php:181 admin/includes/tabs/signup.php:342
+#: admin/settings.php:548 digapprove/digapprove.php:132
+#: digbuilder/includes/builder/Digits_Group_Control_Box_Style.php:224
+#: digbuilder/includes/builder/document.php:98
+#: digbuilder/includes/builder/document.php:240
 #: digbuilder/includes/widget/v1/element_form_widget.php:320
 #: digbuilder/includes/widget/v1/element_form_widget.php:333
 #: digbuilder/includes/widget/v1/element_form_widget.php:345
@@ -637,11 +673,12 @@ msgstr "URL mã hóa thô"
 #: digbuilder/includes/widget/v8/element_form_widget.php:842
 #: digbuilder/includes/widget/v8/element_form_widget.php:1093
 #: digbuilder/includes/widget/v8/element_form_widget.php:1121
-#: digbuilder/includes/widget/v8/element_form_widget.php:1136 digfilter/digfilter.php:162
-#: digmergphne/digmergphne.php:104 digmergphne/digmergphne.php:121 digoldaccntmr/digoldaccntmr.php:120
+#: digbuilder/includes/widget/v8/element_form_widget.php:1136
+#: digfilter/digfilter.php:162 digmergphne/digmergphne.php:104
+#: digmergphne/digmergphne.php:121 digoldaccntmr/digoldaccntmr.php:120
 #: digoldaccntmr/digoldaccntmr.php:137 digoneclickls/digoneclickls.php:103
-#: digoneclickls/digoneclickls.php:120 digpagelock/digpagelock.php:177 digpagelock/digpagelock.php:220
-#: digrestapi/digrestapi.php:109
+#: digoneclickls/digoneclickls.php:120 digpagelock/digpagelock.php:177
+#: digpagelock/digpagelock.php:220 digrestapi/digrestapi.php:109
 msgid "No"
 msgstr "Không"
 
@@ -661,7 +698,8 @@ msgstr "chỉ với mã quốc gia"
 msgid "without country code"
 msgstr "không có mã quốc gia"
 
-#: admin/includes/api_settings.php:732 admin/includes/api_settings.php:956 admin/settings.php:743
+#: admin/includes/api_settings.php:732 admin/includes/api_settings.php:956
+#: admin/settings.php:743
 msgid "SMS Gateway"
 msgstr "Cổng SMS"
 
@@ -677,22 +715,27 @@ msgstr ""
 msgid "App Secret"
 msgstr ""
 
-#: admin/includes/api_settings.php:766 digbuilder/includes/widget/v1/element_form_widget.php:523
+#: admin/includes/api_settings.php:766
+#: digbuilder/includes/widget/v1/element_form_widget.php:523
 #: digbuilder/includes/widget/v8/element_form_widget.php:559
 msgid "Type"
 msgstr "Loại"
 
 #: admin/includes/api_settings.php:771 admin/includes/functions.php:1307
-#: admin/includes/functions.php:1809 digpagelock/digpagelock.php:237 digpagelock/digpagelock.php:552
+#: admin/includes/functions.php:1809 digpagelock/digpagelock.php:237
+#: digpagelock/digpagelock.php:552
 msgid "Modal"
 msgstr "Phương thức"
 
-#: admin/includes/api_settings.php:774 digbuilder/includes/widget/element_button_widget.php:175
+#: admin/includes/api_settings.php:774
+#: digbuilder/includes/widget/element_button_widget.php:175
 msgid "Popup"
 msgstr "Cửa sổ bật lên"
 
 #: admin/includes/api_settings.php:778
-msgid "Only use Popup if your website is non https:// otherwise we highly recommend using modal."
+msgid ""
+"Only use Popup if your website is non https:// otherwise we highly recommend "
+"using modal."
 msgstr ""
 
 #: admin/includes/api_settings.php:787 admin/includes/api_settings.php:791
@@ -721,25 +764,29 @@ msgstr "ID mẫu DLT"
 
 #: admin/includes/api_settings.php:883
 msgid ""
-"Please keep this message template similar to the one on Yunpian, just replace #code# with {OTP} "
-"otherwise messages will not be sent."
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with {OTP} otherwise messages will not be sent."
 msgstr ""
 
-#: admin/includes/api_settings.php:903 digcountrygateways/digcountrygateways.php:135
+#: admin/includes/api_settings.php:903
+#: digcountrygateways/digcountrygateways.php:135
 msgid "Message Template"
 msgstr "Mẫu tin nhắn"
 
-#: admin/includes/api_settings.php:908 admin/includes/tabs/authentication.php:116
+#: admin/includes/api_settings.php:908
+#: admin/includes/tabs/authentication.php:116
 #: digcountrygateways/digcountrygateways.php:145
 msgid "Site Name"
 msgstr "Tên trang web"
 
-#: admin/includes/api_settings.php:909 admin/includes/tabs/authentication.php:117
+#: admin/includes/api_settings.php:909
+#: admin/includes/tabs/authentication.php:117
 #: digcountrygateways/digcountrygateways.php:146
 msgid "Domain"
 msgstr "Tên miền"
 
-#: admin/includes/api_settings.php:910 admin/includes/tabs/authentication.php:118
+#: admin/includes/api_settings.php:910
+#: admin/includes/tabs/authentication.php:118
 #: digbuilder/includes/widget/v1/element_form_widget.php:367
 #: digbuilder/includes/widget/v1/element_form_widget.php:951
 #: digbuilder/includes/widget/v1/element_form_widget.php:953
@@ -747,30 +794,36 @@ msgstr "Tên miền"
 #: digbuilder/includes/widget/v1/element_form_widget.php:1042
 #: digcountrygateways/digcountrygateways.php:147 digit.php:904 digit.php:2523
 #: digoldaccntmr/digoldaccntmr.php:812 digoneclickls/digoneclickls.php:236
-#: includes/core/enqueue/enqueue_scripts.php:171 includes/edit_number.php:39 includes/forms.php:68
-#: includes/forms.php:75 includes/forms.php:412 includes/forms/handler/UserRegistration.php:540
+#: includes/core/enqueue/enqueue_scripts.php:171 includes/edit_number.php:39
+#: includes/forms.php:68 includes/forms.php:75 includes/forms.php:412
+#: includes/forms/handler/UserRegistration.php:540
 #: includes/forms/handler/process.php:67 includes/forms/handler/process.php:533
-#: includes/plugins/bp.php:74 includes/plugins/bp.php:133 includes/plugins/um.php:101
-#: includes/plugins/um.php:167 includes/woocommerce-registration.php:151
-#: includes/woocommerce-registration.php:331 includes/woocommerce-registration.php:335
-#: includes/woocommerce-registration.php:1057 includes/woocommerce-registration.php:1258
-#: includes/woocommerce-registration.php:1324 includes/woocommerce-registration.php:1388
+#: includes/plugins/bp.php:74 includes/plugins/bp.php:133
+#: includes/plugins/um.php:101 includes/plugins/um.php:167
+#: includes/woocommerce-registration.php:151
+#: includes/woocommerce-registration.php:331
+#: includes/woocommerce-registration.php:335
+#: includes/woocommerce-registration.php:1057
+#: includes/woocommerce-registration.php:1258
+#: includes/woocommerce-registration.php:1324
+#: includes/woocommerce-registration.php:1388
 msgid "OTP"
 msgstr ""
 
 #: admin/includes/api_settings.php:927
 msgid ""
-"For SMS gateways other than Firebase, please test your gateway before scratching your head and "
-"wondering why the messages are not getting delivered."
+"For SMS gateways other than Firebase, please test your gateway before "
+"scratching your head and wondering why the messages are not getting "
+"delivered."
 msgstr ""
 
-#: admin/includes/api_settings.php:950 admin/includes/tabs/authentication.php:63
-#: admin/settings.php:744
+#: admin/includes/api_settings.php:950
+#: admin/includes/tabs/authentication.php:63 admin/settings.php:744
 msgid "Email Gateway"
 msgstr "Cổng thư điện tử"
 
-#: admin/includes/api_settings.php:953 admin/includes/tabs/authentication.php:92
-#: admin/settings.php:745
+#: admin/includes/api_settings.php:953
+#: admin/includes/tabs/authentication.php:92 admin/settings.php:745
 msgid "WhatsApp Gateway"
 msgstr "Cổng WhatsApp"
 
@@ -787,15 +840,18 @@ msgstr "Vui lòng cài đặt addon Additional Gateways để sử dụng cổng
 msgid "Click Here"
 msgstr "Bấm vào đây"
 
-#: admin/includes/custom_fields.php:13 digbuilder/includes/widget/v1/element_form_widget.php:447
+#: admin/includes/custom_fields.php:13
+#: digbuilder/includes/widget/v1/element_form_widget.php:447
 #: digbuilder/includes/widget/v1/element_form_widget.php:453
 #: digbuilder/includes/widget/v8/element_form_widget.php:483
-#: digbuilder/includes/widget/v8/element_form_widget.php:489 digit.php:329 includes/register.php:103
+#: digbuilder/includes/widget/v8/element_form_widget.php:489 digit.php:329
+#: includes/register.php:103
 msgid "Last Name"
 msgstr "Họ"
 
 #: admin/includes/custom_fields.php:22 admin/includes/custom_fields.php:190
-#: admin/includes/tabs/2fa.php:268 digbuilder/includes/widget/v1/element_form_widget.php:449
+#: admin/includes/tabs/2fa.php:268
+#: digbuilder/includes/widget/v1/element_form_widget.php:449
 #: digbuilder/includes/widget/v1/element_form_widget.php:499
 #: digbuilder/includes/widget/v1/element_form_widget.php:720
 #: digbuilder/includes/widget/v8/element_form_widget.php:485
@@ -804,17 +860,20 @@ msgstr "Họ"
 msgid "User Role"
 msgstr "Vai trò người dùng"
 
-#: admin/includes/custom_fields.php:31 digbuilder/includes/widget/v1/element_form_widget.php:448
+#: admin/includes/custom_fields.php:31
+#: digbuilder/includes/widget/v1/element_form_widget.php:448
 #: digbuilder/includes/widget/v8/element_form_widget.php:484
 msgid "Display Name"
 msgstr "Tên hiển thị"
 
-#: admin/includes/custom_fields.php:40 digbuilder/includes/widget/v1/element_form_widget.php:454
+#: admin/includes/custom_fields.php:40
+#: digbuilder/includes/widget/v1/element_form_widget.php:454
 #: digbuilder/includes/widget/v8/element_form_widget.php:490
 msgid "Company"
 msgstr "Công ty"
 
-#: admin/includes/custom_fields.php:49 digbuilder/includes/widget/v1/element_form_widget.php:455
+#: admin/includes/custom_fields.php:49
+#: digbuilder/includes/widget/v1/element_form_widget.php:455
 #: digbuilder/includes/widget/v8/element_form_widget.php:491
 msgid "Address Line 1"
 msgstr "Dòng địa chỉ 1"
@@ -823,27 +882,32 @@ msgstr "Dòng địa chỉ 1"
 msgid "Address Line 2"
 msgstr "Dòng địa chỉ 2"
 
-#: admin/includes/custom_fields.php:67 digbuilder/includes/widget/v1/element_form_widget.php:457
+#: admin/includes/custom_fields.php:67
+#: digbuilder/includes/widget/v1/element_form_widget.php:457
 #: digbuilder/includes/widget/v8/element_form_widget.php:493
 msgid "City"
 msgstr "Thành phố"
 
-#: admin/includes/custom_fields.php:76 digbuilder/includes/widget/v1/element_form_widget.php:458
+#: admin/includes/custom_fields.php:76
+#: digbuilder/includes/widget/v1/element_form_widget.php:458
 #: digbuilder/includes/widget/v8/element_form_widget.php:494
 msgid "State"
 msgstr "Tỉnh"
 
-#: admin/includes/custom_fields.php:85 digbuilder/includes/widget/v1/element_form_widget.php:459
+#: admin/includes/custom_fields.php:85
+#: digbuilder/includes/widget/v1/element_form_widget.php:459
 #: digbuilder/includes/widget/v8/element_form_widget.php:495
 msgid "Country"
 msgstr "Quốc gia"
 
-#: admin/includes/custom_fields.php:94 digbuilder/includes/widget/v1/element_form_widget.php:460
+#: admin/includes/custom_fields.php:94
+#: digbuilder/includes/widget/v1/element_form_widget.php:460
 #: digbuilder/includes/widget/v8/element_form_widget.php:496
 msgid "Postcode / ZIP"
 msgstr "Mã bưu điện / ZIP"
 
-#: admin/includes/custom_fields.php:110 digbuilder/includes/widget/element_button_widget.php:146
+#: admin/includes/custom_fields.php:110
+#: digbuilder/includes/widget/element_button_widget.php:146
 #: digbuilder/includes/widget/v1/element_form_widget.php:464
 #: digbuilder/includes/widget/v8/element_form_widget.php:500
 msgid "Text"
@@ -853,12 +917,14 @@ msgstr "Văn bản"
 msgid "TextArea"
 msgstr ""
 
-#: admin/includes/custom_fields.php:124 digbuilder/includes/widget/v1/element_form_widget.php:466
+#: admin/includes/custom_fields.php:124
+#: digbuilder/includes/widget/v1/element_form_widget.php:466
 #: digbuilder/includes/widget/v8/element_form_widget.php:502
 msgid "Number"
 msgstr "Số"
 
-#: admin/includes/custom_fields.php:131 digbuilder/includes/widget/v1/element_form_widget.php:467
+#: admin/includes/custom_fields.php:131
+#: digbuilder/includes/widget/v1/element_form_widget.php:467
 #: digbuilder/includes/widget/v1/element_form_widget.php:1524
 #: digbuilder/includes/widget/v8/element_form_widget.php:503
 #: digbuilder/includes/widget/v8/element_form_widget.php:1505
@@ -869,14 +935,16 @@ msgstr "Thả xuống"
 msgid "CheckBox"
 msgstr "Hộp kiểm"
 
-#: admin/includes/custom_fields.php:145 digbuilder/includes/widget/v1/element_form_widget.php:469
+#: admin/includes/custom_fields.php:145
+#: digbuilder/includes/widget/v1/element_form_widget.php:469
 #: digbuilder/includes/widget/v1/element_form_widget.php:1853
 #: digbuilder/includes/widget/v8/element_form_widget.php:505
 #: digbuilder/includes/widget/v8/element_form_widget.php:1806
 msgid "Radio"
 msgstr ""
 
-#: admin/includes/custom_fields.php:152 digbuilder/includes/widget/v1/element_form_widget.php:470
+#: admin/includes/custom_fields.php:152
+#: digbuilder/includes/widget/v1/element_form_widget.php:470
 #: digbuilder/includes/widget/v8/element_form_widget.php:506
 msgid "Terms & Conditions"
 msgstr "Điều khoản"
@@ -893,8 +961,8 @@ msgstr "Tiêu đề bước"
 #: digbuilder/includes/widget/v1/element_form_widget.php:379
 #: digbuilder/includes/widget/v1/element_form_widget.php:471
 #: digbuilder/includes/widget/v8/element_form_widget.php:412
-#: digbuilder/includes/widget/v8/element_form_widget.php:507 digit.php:1859 digit.php:1867
-#: digit.php:2529
+#: digbuilder/includes/widget/v8/element_form_widget.php:507 digit.php:1859
+#: digit.php:1867 digit.php:2529
 msgid "Captcha"
 msgstr "Hình ảnh xác thực"
 
@@ -932,10 +1000,6 @@ msgstr ""
 msgid "License Key"
 msgstr "Mã mua hàng"
 
-#: admin/includes/functions.php:1044 admin/includes/tabs/dashboard.php:57 admin/obw/obw.php:528
-msgid "License Key"
-msgstr "Mã mua hàng"
-
 #: admin/includes/functions.php:1047
 msgid "DEREGISTER"
 msgstr "HỦY ĐĂNG KÝ"
@@ -946,16 +1010,16 @@ msgstr "Vui lòng kích hoạt plugin của bạn để nhận cập nhật"
 
 #: admin/includes/functions.php:1083
 msgid ""
-"If you want to use same license key on your production site then please click the below button to "
-"request for it. Our team will take less than 12 hours to respond to your request, and will notify "
-"via email."
+"If you want to use same license key on your production site then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
 msgstr ""
 
 #: admin/includes/functions.php:1088
 msgid ""
-"If you want to use same license key on your testing site then please click the below button to "
-"request for it. Our team will take less than 12 hours to respond to your request, and will notify "
-"via email."
+"If you want to use same license key on your testing site then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
 msgstr ""
 
 #: admin/includes/functions.php:1098
@@ -977,8 +1041,8 @@ msgstr "Cài đặt trước"
 
 #: admin/includes/functions.php:1236 admin/includes/functions.php:1361
 #: admin/includes/functions.php:1416 admin/includes/functions.php:1530
-#: admin/includes/functions.php:1830 admin/includes/functions.php:1883 admin/settings.php:453
-#: admin/settings.php:594 includes/forms/admin.php:115
+#: admin/includes/functions.php:1830 admin/includes/functions.php:1883
+#: admin/settings.php:453 admin/settings.php:594 includes/forms/admin.php:115
 msgid "Select"
 msgstr "Chọn"
 
@@ -987,8 +1051,8 @@ msgid "Form Type"
 msgstr "Kiểu biểu mẫu"
 
 #: admin/includes/functions.php:1267 admin/includes/functions.php:1349
-#: digbuilder/includes/widget/element_button_widget.php:187 digpagelock/digpagelock.php:234
-#: digpagelock/digpagelock.php:549
+#: digbuilder/includes/widget/element_button_widget.php:187
+#: digpagelock/digpagelock.php:234 digpagelock/digpagelock.php:549
 msgid "Page"
 msgstr "Trang"
 
@@ -1132,7 +1196,8 @@ msgid "Button Border Color"
 msgstr "Màu viền nút"
 
 #: admin/includes/functions.php:1691 admin/includes/functions.php:2084
-#: digbuilder/includes/widget/v8/element_form_widget.php:1035 includes/forms/admin.php:87
+#: digbuilder/includes/widget/v8/element_form_widget.php:1035
+#: includes/forms/admin.php:87
 msgid "Button Text Color"
 msgstr "Màu văn bản nút"
 
@@ -1244,7 +1309,8 @@ msgstr ""
 msgid "Account Security"
 msgstr "Bảo mật tài khoản"
 
-#: admin/includes/shortcodes.php:28 includes/account/shortcode_secure_account.php:56
+#: admin/includes/shortcodes.php:28
+#: includes/account/shortcode_secure_account.php:56
 msgid "Account Security Dashboard"
 msgstr "Bảng điều khiển bảo mật tài khoản"
 
@@ -1297,7 +1363,8 @@ msgid "Forgot Password Modal"
 msgstr ""
 
 #: admin/includes/shortcodes.php:48 admin/includes/shortcodes.php:138
-#: admin/includes/shortcodes.php:185 digbuilder/includes/widget/element_button_widget.php:166
+#: admin/includes/shortcodes.php:185
+#: digbuilder/includes/widget/element_button_widget.php:166
 #: includes/wcs.php:362
 msgid "Logout"
 msgstr "Đăng xuất"
@@ -1318,12 +1385,14 @@ msgstr "Thay thế \"OTP\" ở mọi nơi"
 msgid "Menu items"
 msgstr "Mục menu"
 
-#: admin/includes/shortcodes.php:134 admin/includes/shortcodes.php:144 digbuilder/digbuilder.php:209
-#: digoneclickls/digoneclickls.php:209 digoneclickls/forms.php:37
+#: admin/includes/shortcodes.php:134 admin/includes/shortcodes.php:144
+#: digbuilder/digbuilder.php:209 digoneclickls/digoneclickls.php:209
+#: digoneclickls/forms.php:37
 msgid "Login / Register"
 msgstr "Đăng nhập/Đăng ký"
 
-#: admin/includes/shortcodes.php:136 digbuilder/includes/widget/v1/element_form_widget.php:941
+#: admin/includes/shortcodes.php:136
+#: digbuilder/includes/widget/v1/element_form_widget.php:941
 #: includes/forms.php:67
 msgid "Forgot your Password?"
 msgstr "Quên mật khẩu?"
@@ -1338,9 +1407,10 @@ msgstr "Quên"
 
 #: admin/includes/shortcodes.php:199
 msgid ""
-"Translation of whole plugin can be done through POT file present in the plugin languages folder. "
-"You'll need to upload .MO and .PO files to the languages folder of this plugin. The easiest way to "
-"translate is to use <i>Loco Translate</i> WordPress plugin."
+"Translation of whole plugin can be done through POT file present in the "
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use "
+"<i>Loco Translate</i> WordPress plugin."
 msgstr ""
 
 #: admin/includes/shortcodes.php:200
@@ -1423,26 +1493,33 @@ msgstr "Người dùng"
 msgid "OTP Settings"
 msgstr "Cài đặt OTP"
 
-#: admin/includes/tabs/authentication.php:23 admin/includes/tabs/authentication.php:147
+#: admin/includes/tabs/authentication.php:23
+#: admin/includes/tabs/authentication.php:147
 msgid "OTP Resend Time"
 msgstr "Thời gian gửi lại OTP"
 
-#: admin/includes/tabs/authentication.php:30 admin/includes/tabs/authentication.php:38
-#: admin/includes/tabs/authentication.php:45 admin/includes/tabs/authentication.php:154
-#: admin/includes/tabs/authentication.php:162 admin/includes/tabs/authentication.php:169
+#: admin/includes/tabs/authentication.php:30
+#: admin/includes/tabs/authentication.php:38
+#: admin/includes/tabs/authentication.php:45
+#: admin/includes/tabs/authentication.php:154
+#: admin/includes/tabs/authentication.php:162
+#: admin/includes/tabs/authentication.php:169
 #: admin/includes/tabs/general.php:52
 msgid "0"
 msgstr ""
 
-#: admin/includes/tabs/authentication.php:31 admin/includes/tabs/authentication.php:155
+#: admin/includes/tabs/authentication.php:31
+#: admin/includes/tabs/authentication.php:155
 msgid "seconds wait time after 1<sup>st</sup> attempt"
 msgstr "giây thời gian chờ sau 1<sup>st</sup> lần thử"
 
-#: admin/includes/tabs/authentication.php:39 admin/includes/tabs/authentication.php:163
+#: admin/includes/tabs/authentication.php:39
+#: admin/includes/tabs/authentication.php:163
 msgid "seconds wait time after 2<sup>nd</sup> attempt"
 msgstr "giây thời gian chờ sau lần thử thứ 2<sup>nd</sup>"
 
-#: admin/includes/tabs/authentication.php:46 admin/includes/tabs/authentication.php:170
+#: admin/includes/tabs/authentication.php:46
+#: admin/includes/tabs/authentication.php:170
 msgid "seconds wait time after 3<sup>rd</sup> attempt"
 msgstr "giây thời gian chờ sau lần thử thứ 3<sup>rd</sup>"
 
@@ -1464,8 +1541,9 @@ msgstr "Cho phép người dùng có nhiều thiết bị"
 
 #: admin/includes/tabs/authentication.php:216
 msgid ""
-"Security key is the most secure method for authentication. This option lets users use their "
-"hardware security keys like Yubikey or their device's biometrics to authenticate."
+"Security key is the most secure method for authentication. This option lets "
+"users use their hardware security keys like Yubikey or their device's "
+"biometrics to authenticate."
 msgstr ""
 
 #: admin/includes/tabs/dashboard.php:23
@@ -1480,7 +1558,8 @@ msgstr "6 tháng qua"
 msgid "Changelog"
 msgstr "Nhật ký thay đổi"
 
-#: admin/includes/tabs/dashboard.php:50 admin/obw/obw.php:136 admin/obw/obw.php:308
+#: admin/includes/tabs/dashboard.php:50 admin/obw/obw.php:136
+#: admin/obw/obw.php:308
 msgid "Documentation"
 msgstr "Tài liệu"
 
@@ -1599,19 +1678,22 @@ msgstr "Trường biểu mẫu"
 msgid "Disable"
 msgstr "Vô hiệu hóa"
 
-#: admin/includes/tabs/forms.php:253 digbuilder/includes/widget/v8/element_form_widget.php:418
+#: admin/includes/tabs/forms.php:253
+#: digbuilder/includes/widget/v8/element_form_widget.php:418
 msgid "Simple Captcha"
 msgstr ""
 
-#: admin/includes/tabs/forms.php:262 digbuilder/includes/widget/v1/element_form_widget.php:391
+#: admin/includes/tabs/forms.php:262
+#: digbuilder/includes/widget/v1/element_form_widget.php:391
 #: digbuilder/includes/widget/v1/element_form_widget.php:927
 #: digbuilder/includes/widget/v1/element_form_widget.php:929
-#: digbuilder/includes/widget/v8/element_form_widget.php:428 includes/forms.php:66
-#: includes/wcs.php:561
+#: digbuilder/includes/widget/v8/element_form_widget.php:428
+#: includes/forms.php:66 includes/wcs.php:561
 msgid "Remember Me"
 msgstr "Nhớ Em"
 
-#: admin/includes/tabs/forms.php:268 digbuilder/includes/widget/v1/element_form_widget.php:396
+#: admin/includes/tabs/forms.php:268
+#: digbuilder/includes/widget/v1/element_form_widget.php:396
 #: digbuilder/includes/widget/v8/element_form_widget.php:433
 msgid "Always"
 msgstr "Luôn luôn"
@@ -1622,14 +1704,14 @@ msgstr "Có (Hiển thị hộp kiểm)"
 
 #: admin/includes/tabs/forms.php:289
 msgid ""
-"With User / UserRole based login flow you can define unique login methods based on user roles or "
-"any particular users."
+"With User / UserRole based login flow you can define unique login methods "
+"based on user roles or any particular users."
 msgstr ""
 
 #: admin/includes/tabs/forms.php:291
 msgid ""
-"For example, you can only let admin user role to login using OTP and all other user roles should "
-"login using password"
+"For example, you can only let admin user role to login using OTP and all "
+"other user roles should login using password"
 msgstr ""
 
 #: admin/includes/tabs/forms.php:293
@@ -1637,13 +1719,15 @@ msgid "Note:"
 msgstr "Lưu ý:"
 
 #: admin/includes/tabs/forms.php:294
-msgid "SMS OTP will be disabled, if Firebase is being used and user is logging in via Email/Username."
+msgid ""
+"SMS OTP will be disabled, if Firebase is being used and user is logging in "
+"via Email/Username."
 msgstr ""
-"SMS OTP sẽ bị tắt, nếu Firebase đang được sử dụng và người dùng đang đăng nhập qua Email/Tên người "
-"dùng."
+"SMS OTP sẽ bị tắt, nếu Firebase đang được sử dụng và người dùng đang đăng "
+"nhập qua Email/Tên người dùng."
 
-#: admin/includes/tabs/forms.php:309 admin/includes/tabs/forms.php:326 admin/settings.php:767
-#: admin/settings.php:768
+#: admin/includes/tabs/forms.php:309 admin/includes/tabs/forms.php:326
+#: admin/settings.php:767 admin/settings.php:768
 msgid "Native Form Style"
 msgstr ""
 
@@ -1657,11 +1741,11 @@ msgstr "Ngừng hỗ trợ"
 
 #: admin/includes/tabs/forms.php:337
 msgid ""
-"Old style pages will soon be deprecated, so its recommended to change to new styling as soon as "
-"possible."
+"Old style pages will soon be deprecated, so its recommended to change to new "
+"styling as soon as possible."
 msgstr ""
-"Các trang kiểu cũ sẽ sớm không còn được hỗ trợ nữa, vì vậy bạn nên thay đổi kiểu trang mới càng sớm "
-"càng tốt."
+"Các trang kiểu cũ sẽ sớm không còn được hỗ trợ nữa, vì vậy bạn nên thay đổi "
+"kiểu trang mới càng sớm càng tốt."
 
 #: admin/includes/tabs/forms.php:339
 msgid "With old styling you will also be missing on some cool new features."
@@ -1694,15 +1778,18 @@ msgid "WhatsApp"
 msgstr ""
 
 #: admin/includes/tabs/general.php:34 admin/includes/tabs/general.php:232
-#: admin/includes/tabs/logs.php:134 digadvlogic/digadvlogic.php:107 digbuilder/includes/form.php:157
-#: digbuilder/includes/form.php:213 digbuilder/includes/functions.php:414
+#: admin/includes/tabs/logs.php:134 digadvlogic/digadvlogic.php:107
+#: digbuilder/includes/form.php:157 digbuilder/includes/form.php:213
+#: digbuilder/includes/functions.php:414
 #: digbuilder/includes/widget/v1/element_form_widget.php:330
 #: digbuilder/includes/widget/v1/element_form_widget.php:437
 #: digbuilder/includes/widget/v8/element_form_widget.php:388
-#: digbuilder/includes/widget/v8/element_form_widget.php:473 digit.php:1418 digit.php:2521
-#: digit.php:2580 digmergphne/digmergphne.php:206 includes/core/enqueue/enqueue_scripts.php:186
-#: includes/core/enqueue/enqueue_scripts.php:266 includes/forms.php:202 includes/forms.php:377
-#: includes/forms.php:493 includes/forms.php:607 includes/forms/handler/UserRegistration.php:549
+#: digbuilder/includes/widget/v8/element_form_widget.php:473 digit.php:1418
+#: digit.php:2521 digit.php:2580 digmergphne/digmergphne.php:206
+#: includes/core/enqueue/enqueue_scripts.php:186
+#: includes/core/enqueue/enqueue_scripts.php:266 includes/forms.php:202
+#: includes/forms.php:377 includes/forms.php:493 includes/forms.php:607
+#: includes/forms/handler/UserRegistration.php:549
 #: includes/forms/handler/process.php:197 includes/merge_wc_billing.php:17
 #: includes/process_user.php:74 includes/woocommerce-registration.php:1294
 msgid "Email"
@@ -1710,8 +1797,8 @@ msgstr "Thư điện tử"
 
 #: admin/includes/tabs/general.php:37
 msgid ""
-"At the time of Login, the OTP will be sent automatically after clicking on \"Continue\" button on "
-"login form on all the routes selected above."
+"At the time of Login, the OTP will be sent automatically after clicking on "
+"\"Continue\" button on login form on all the routes selected above."
 msgstr ""
 
 #: admin/includes/tabs/general.php:45
@@ -1732,8 +1819,8 @@ msgstr "Danh sách cho phép mã quốc gia"
 
 #: admin/includes/tabs/general.php:105
 msgid ""
-"Sign In/Sign Up will be allowed for phone numbers with these country codes. To allow Sign In/Sign "
-"Up for all country codes, leave this blank."
+"Sign In/Sign Up will be allowed for phone numbers with these country codes. "
+"To allow Sign In/Sign Up for all country codes, leave this blank."
 msgstr ""
 
 #: admin/includes/tabs/general.php:111
@@ -1742,8 +1829,8 @@ msgstr "Danh sách từ chối mã quốc gia"
 
 #: admin/includes/tabs/general.php:133
 msgid ""
-"Sign In/Sign Up will be not allowed for phone numbers with these country codes. To allow Sign In/"
-"Sign Up for all country codes, leave this blank."
+"Sign In/Sign Up will be not allowed for phone numbers with these country "
+"codes. To allow Sign In/Sign Up for all country codes, leave this blank."
 msgstr ""
 
 #: admin/includes/tabs/general.php:139
@@ -1772,7 +1859,8 @@ msgstr "Tạo nút khách hàng"
 
 #: admin/includes/tabs/general.php:214
 msgid "Add customer on Add Order Page on dashboard using Modal"
-msgstr "Thêm khách hàng trên Thêm trang đặt hàng trên bảng điều khiển bằng Modal"
+msgstr ""
+"Thêm khách hàng trên Thêm trang đặt hàng trên bảng điều khiển bằng Modal"
 
 #: admin/includes/tabs/general.php:220
 msgid "Required field for billing info"
@@ -1784,26 +1872,33 @@ msgstr "Số điện thoại di động và Email"
 
 #: admin/includes/tabs/general.php:229 digadvlogic/digadvlogic.php:108
 #: digbuilder/includes/form.php:154 digbuilder/includes/form.php:190
-#: digbuilder/includes/functions.php:413 digbuilder/includes/widget/v1/element_form_widget.php:342
+#: digbuilder/includes/functions.php:413
+#: digbuilder/includes/widget/v1/element_form_widget.php:342
 #: digbuilder/includes/widget/v1/element_form_widget.php:436
 #: digbuilder/includes/widget/v8/element_form_widget.php:400
-#: digbuilder/includes/widget/v8/element_form_widget.php:472 digit.php:893 digit.php:895
-#: digit.php:1416 digit.php:2522 digit.php:2581 digmergphne/digmergphne.php:207
-#: digoldaccntmr/digoldaccntmr.php:759 digoneclickls/digoneclickls.php:226
-#: includes/core/enqueue/enqueue_scripts.php:166 includes/core/enqueue/enqueue_scripts.php:267
-#: includes/edit_number.php:30 includes/forms.php:200 includes/forms.php:374 includes/forms.php:491
-#: includes/forms.php:589 includes/merge_wc_billing.php:18 includes/plugins/bp.php:57
-#: includes/plugins/bp.php:118 includes/process_user.php:72 includes/woocommerce-registration.php:42
-#: includes/woocommerce-registration.php:77 includes/woocommerce-registration.php:290
-#: includes/woocommerce-registration.php:291 includes/woocommerce-registration.php:1365
-#: includes/woocommerce-registration.php:1530 includes/woocommerce-registration.php:1614
-#: includes/wp.php:22
+#: digbuilder/includes/widget/v8/element_form_widget.php:472 digit.php:893
+#: digit.php:895 digit.php:1416 digit.php:2522 digit.php:2581
+#: digmergphne/digmergphne.php:207 digoldaccntmr/digoldaccntmr.php:759
+#: digoneclickls/digoneclickls.php:226
+#: includes/core/enqueue/enqueue_scripts.php:166
+#: includes/core/enqueue/enqueue_scripts.php:267 includes/edit_number.php:30
+#: includes/forms.php:200 includes/forms.php:374 includes/forms.php:491
+#: includes/forms.php:589 includes/merge_wc_billing.php:18
+#: includes/plugins/bp.php:57 includes/plugins/bp.php:118
+#: includes/process_user.php:72 includes/woocommerce-registration.php:42
+#: includes/woocommerce-registration.php:77
+#: includes/woocommerce-registration.php:290
+#: includes/woocommerce-registration.php:291
+#: includes/woocommerce-registration.php:1365
+#: includes/woocommerce-registration.php:1530
+#: includes/woocommerce-registration.php:1614 includes/wp.php:22
 msgid "Mobile Number"
 msgstr "Số di động"
 
 #: admin/includes/tabs/general.php:239
 msgid "Autofill WooCommerce billing fields with user info"
-msgstr "Tự động điền các trường thanh toán WooCommerce với thông tin người dùng"
+msgstr ""
+"Tự động điền các trường thanh toán WooCommerce với thông tin người dùng"
 
 #: admin/includes/tabs/general.php:252
 msgid "Enable guest checkout verification"
@@ -1831,7 +1926,8 @@ msgstr "Liên kết tài khoản của tôi"
 
 #: admin/includes/tabs/general.php:293 admin/includes/tabs/general.php:304
 #: admin/includes/tabs/general.php:313 admin/includes/tabs/general.php:324
-#: admin/includes/tabs/general.php:333 digbuilder/includes/widget/v1/element_form_widget.php:847
+#: admin/includes/tabs/general.php:333
+#: digbuilder/includes/widget/v1/element_form_widget.php:847
 #: digbuilder/includes/widget/v1/element_form_widget.php:859
 #: digbuilder/includes/widget/v1/element_form_widget.php:871
 #: digbuilder/includes/widget/v8/element_form_widget.php:871
@@ -1857,7 +1953,9 @@ msgid "Logout Redirect"
 msgstr "Chuyển hướng đăng xuất"
 
 #: admin/includes/tabs/general.php:340
-msgid "Redirection settings only work for WordPress Native, WooCommerce and Digits Native Forms."
+msgid ""
+"Redirection settings only work for WordPress Native, WooCommerce and Digits "
+"Native Forms."
 msgstr ""
 
 #: admin/includes/tabs/general.php:342
@@ -1878,7 +1976,8 @@ msgstr "Các IP được liệt kê cho phép Brute Force"
 
 #: admin/includes/tabs/general.php:400
 msgid "Add the IP(s) to not get blocked by our brute force detection system"
-msgstr "Thêm (các) IP để không bị chặn bởi hệ thống phát hiện bạo lực của chúng tôi"
+msgstr ""
+"Thêm (các) IP để không bị chặn bởi hệ thống phát hiện bạo lực của chúng tôi"
 
 #: admin/includes/tabs/general.php:410
 msgid "Allow Digits forms in iframe"
@@ -1888,7 +1987,8 @@ msgstr "Cho phép biểu mẫu Chữ số trong iframe"
 msgid "Export/Import"
 msgstr "Xuất nhập khẩu"
 
-#: admin/includes/tabs/general.php:429 digbuilder/includes/import_export.php:313
+#: admin/includes/tabs/general.php:429
+#: digbuilder/includes/import_export.php:313
 msgid "Export"
 msgstr "Xuất khẩu"
 
@@ -1903,7 +2003,9 @@ msgstr "Chia sẻ dữ liệu sử dụng"
 
 #: admin/includes/tabs/general.php:451
 msgid "Help us improve Digits by opting in to share non-sensitive plugin data"
-msgstr "Giúp chúng tôi cải thiện Chữ số bằng cách chọn tham gia chia sẻ dữ liệu plugin không nhạy cảm"
+msgstr ""
+"Giúp chúng tôi cải thiện Chữ số bằng cách chọn tham gia chia sẻ dữ liệu "
+"plugin không nhạy cảm"
 
 #: admin/includes/tabs/general.php:458
 msgid "Advanced Options"
@@ -2047,9 +2149,11 @@ msgstr "Cho phép người dùng đăng nhập mà không cần xác minh email"
 msgid "Required"
 msgstr "Bắt buộc"
 
-#: admin/includes/tabs/signup.php:178 admin/settings.php:549 digbuilder/includes/form.php:180
-#: digbuilder/includes/form.php:209 digit.php:2607 includes/core/enqueue/enqueue_scripts.php:187
-#: includes/forms.php:580 includes/forms.php:604 includes/woocommerce-registration.php:1278
+#: admin/includes/tabs/signup.php:178 admin/settings.php:549
+#: digbuilder/includes/form.php:180 digbuilder/includes/form.php:209
+#: digit.php:2607 includes/core/enqueue/enqueue_scripts.php:187
+#: includes/forms.php:580 includes/forms.php:604
+#: includes/woocommerce-registration.php:1278
 msgid "Optional"
 msgstr "Tùy chọn"
 
@@ -2059,8 +2163,9 @@ msgstr "THÊM TRƯỜNG"
 
 #: admin/includes/tabs/signup.php:255
 msgid ""
-"These settings only apply if you are using our Native Form, 3rd party plugin or theme forms. <br /"
-"><br /> These settings <b>do not</b> apply for forms built with Digits Builder addon. "
+"These settings only apply if you are using our Native Form, 3rd party plugin "
+"or theme forms. <br /><br /> These settings <b>do not</b> apply for forms "
+"built with Digits Builder addon. "
 msgstr ""
 
 #: admin/includes/tabs/signup.php:274 admin/settings.php:537
@@ -2071,23 +2176,27 @@ msgstr "Loại trường"
 msgid "WordPress / WooCommerce Fields"
 msgstr "Các trường WordPress / WooCommerce"
 
-#: admin/includes/tabs/signup.php:319 digbuilder/includes/widget/v1/element_form_widget.php:607
+#: admin/includes/tabs/signup.php:319
+#: digbuilder/includes/widget/v1/element_form_widget.php:607
 #: digbuilder/includes/widget/v1/element_form_widget.php:1102
 #: digbuilder/includes/widget/v8/element_form_widget.php:643
 #: digbuilder/includes/widget/v8/element_form_widget.php:1083
 msgid "Label"
 msgstr "Nhãn"
 
-#: admin/includes/tabs/signup.php:327 digbuilder/includes/widget/v1/element_form_widget.php:629
+#: admin/includes/tabs/signup.php:327
+#: digbuilder/includes/widget/v1/element_form_widget.php:629
 #: digbuilder/includes/widget/v8/element_form_widget.php:664
 msgid ""
-"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and [/t] for privacy "
-"policy."
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
 msgstr ""
 
-#: admin/includes/tabs/signup.php:329 digbuilder/includes/widget/v1/element_form_widget.php:631
+#: admin/includes/tabs/signup.php:329
+#: digbuilder/includes/widget/v1/element_form_widget.php:631
 #: digbuilder/includes/widget/v8/element_form_widget.php:666
-msgid "For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgid ""
+"For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
 msgstr ""
 
 #: admin/includes/tabs/signup.php:336
@@ -2096,7 +2205,8 @@ msgstr "Trường bắt buộc"
 
 #: admin/includes/tabs/signup.php:341 digapprove/digapprove.php:129
 #: digbuilder/includes/builder/Digits_Group_Control_Box_Style.php:223
-#: digbuilder/includes/builder/document.php:97 digbuilder/includes/builder/document.php:239
+#: digbuilder/includes/builder/document.php:97
+#: digbuilder/includes/builder/document.php:239
 #: digbuilder/includes/widget/v1/element_form_widget.php:319
 #: digbuilder/includes/widget/v1/element_form_widget.php:332
 #: digbuilder/includes/widget/v1/element_form_widget.php:344
@@ -2119,15 +2229,17 @@ msgstr "Trường bắt buộc"
 #: digbuilder/includes/widget/v8/element_form_widget.php:841
 #: digbuilder/includes/widget/v8/element_form_widget.php:1092
 #: digbuilder/includes/widget/v8/element_form_widget.php:1120
-#: digbuilder/includes/widget/v8/element_form_widget.php:1135 digfilter/digfilter.php:159
-#: digmergphne/digmergphne.php:101 digmergphne/digmergphne.php:118 digoldaccntmr/digoldaccntmr.php:117
+#: digbuilder/includes/widget/v8/element_form_widget.php:1135
+#: digfilter/digfilter.php:159 digmergphne/digmergphne.php:101
+#: digmergphne/digmergphne.php:118 digoldaccntmr/digoldaccntmr.php:117
 #: digoldaccntmr/digoldaccntmr.php:134 digoneclickls/digoneclickls.php:100
-#: digoneclickls/digoneclickls.php:117 digpagelock/digpagelock.php:174 digpagelock/digpagelock.php:217
-#: digrestapi/digrestapi.php:106
+#: digoneclickls/digoneclickls.php:117 digpagelock/digpagelock.php:174
+#: digpagelock/digpagelock.php:217 digrestapi/digrestapi.php:106
 msgid "Yes"
 msgstr "Có"
 
-#: admin/includes/tabs/signup.php:349 digbuilder/includes/widget/v1/element_form_widget.php:589
+#: admin/includes/tabs/signup.php:349
+#: digbuilder/includes/widget/v1/element_form_widget.php:589
 #: digbuilder/includes/widget/v8/element_form_widget.php:625
 msgid "Meta Key"
 msgstr "Khóa meta"
@@ -2136,7 +2248,8 @@ msgstr "Khóa meta"
 msgid "Custom Class"
 msgstr "Lớp tùy chỉnh"
 
-#: admin/includes/tabs/signup.php:367 digbuilder/includes/widget/v1/element_form_widget.php:692
+#: admin/includes/tabs/signup.php:367
+#: digbuilder/includes/widget/v1/element_form_widget.php:692
 #: digbuilder/includes/widget/v8/element_form_widget.php:727
 msgid "Options"
 msgstr "Tùy chọn"
@@ -2149,7 +2262,8 @@ msgstr "Thêm tùy chọn"
 msgid "Terms & Conditions Link"
 msgstr "Điều khoản"
 
-#: admin/includes/tabs/signup.php:391 digbuilder/includes/widget/v1/element_form_widget.php:671
+#: admin/includes/tabs/signup.php:391
+#: digbuilder/includes/widget/v1/element_form_widget.php:671
 #: digbuilder/includes/widget/v8/element_form_widget.php:706
 msgid "Privacy Link"
 msgstr "Liên kết bảo mật"
@@ -2201,7 +2315,8 @@ msgstr "Tôi muốn sử dụng SMS OTP <span>Trả phí</span>"
 
 #: admin/obw/obw.php:129
 #, php-format
-msgid "95% of our users use <span>Free SMS Gateway</span> as it meets their needs"
+msgid ""
+"95% of our users use <span>Free SMS Gateway</span> as it meets their needs"
 msgstr ""
 
 #: admin/obw/obw.php:133
@@ -2214,12 +2329,13 @@ msgstr "Thiết lập cổng SMS của bạn tại đây."
 
 #: admin/obw/obw.php:147
 msgid ""
-"The values asked here will be provided by your gateway. If you need help in finding those, please "
-"get in touch with your gateway support."
+"The values asked here will be provided by your gateway. If you need help in "
+"finding those, please get in touch with your gateway support."
 msgstr ""
 
 #: admin/obw/obw.php:149
-msgid "<span>SMS Gateway</span> is a service which is required to send SMS messages"
+msgid ""
+"<span>SMS Gateway</span> is a service which is required to send SMS messages"
 msgstr ""
 
 #: admin/obw/obw.php:155 admin/obw/obw.php:172
@@ -2235,7 +2351,9 @@ msgid "I want to use my <span>Existing Forms</span>"
 msgstr "Tôi muốn sử dụng <span>Biểu mẫu hiện có</span> của mình"
 
 #: admin/obw/obw.php:167
-msgid "Please use <span>Digits Forms</span> to experience enhanced security and seamless experience"
+msgid ""
+"Please use <span>Digits Forms</span> to experience enhanced security and "
+"seamless experience"
 msgstr ""
 
 #: admin/obw/obw.php:175
@@ -2247,7 +2365,9 @@ msgid "<span>I don't</span> want to <span>use Builder</span>"
 msgstr "<span>Tôi không</span> muốn <span>sử dụng Builder</span>"
 
 #: admin/obw/obw.php:184
-msgid "You can design your forms visually with our <span>Drag and Drop Builder</span>"
+msgid ""
+"You can design your forms visually with our <span>Drag and Drop Builder</"
+"span>"
 msgstr ""
 
 #: admin/obw/obw.php:193
@@ -2256,8 +2376,8 @@ msgstr "Thiết lập biểu mẫu của bạn tại đây"
 
 #: admin/obw/obw.php:194
 msgid ""
-"After setting up your Signup form you can navigate from left hand pane to setup your Login Form and "
-"even style it accordingly."
+"After setting up your Signup form you can navigate from left hand pane to "
+"setup your Login Form and even style it accordingly."
 msgstr ""
 
 #: admin/obw/obw.php:206
@@ -2282,7 +2402,8 @@ msgstr "Tạo một trang mới trên trang này"
 
 #: admin/obw/obw.php:238
 msgid ""
-"Now that you have your form created, its time to link it to your site so that people can use it."
+"Now that you have your form created, its time to link it to your site so "
+"that people can use it."
 msgstr ""
 
 #: admin/obw/obw.php:241
@@ -2295,8 +2416,8 @@ msgstr "Không thể thay đổi/Không có nút hiện có"
 
 #: admin/obw/obw.php:251
 msgid ""
-"<span>Change existing button</span> If you already have a button which on your site for login and "
-"signup"
+"<span>Change existing button</span> If you already have a button which on "
+"your site for login and signup"
 msgstr ""
 
 #: admin/obw/obw.php:255
@@ -2317,14 +2438,14 @@ msgstr "Có các tùy chọn khác để thay đổi nó"
 
 #: admin/obw/obw.php:275
 msgid ""
-"If you don’t have an existing button then the easiest option is to create a menu item on your site "
-"which triggers login or signup form for User"
+"If you don’t have an existing button then the easiest option is to create a "
+"menu item on your site which triggers login or signup form for User"
 msgstr ""
 
 #: admin/obw/obw.php:275
 msgid ""
-"Or if you can edit your website header then you can create a button and use the below "
-"documentations to link the button."
+"Or if you can edit your website header then you can create a button and use "
+"the below documentations to link the button."
 msgstr ""
 
 #: admin/obw/obw.php:278
@@ -2341,8 +2462,9 @@ msgstr "Chỉnh sửa nút hiện có bằng Trình chỉnh sửa nút của ch�
 
 #: admin/obw/obw.php:297
 msgid ""
-"Our button editor will help you to edit your existing button and make it trigger our page or popup "
-"form without the need of any development or coding knowledge."
+"Our button editor will help you to edit your existing button and make it "
+"trigger our page or popup form without the need of any development or coding "
+"knowledge."
 msgstr ""
 
 #: admin/obw/obw.php:305
@@ -2351,8 +2473,8 @@ msgstr "Chỉnh sửa mục menu nút hiện có"
 
 #: admin/obw/obw.php:318
 msgid ""
-"If your theme has other options to change it then please do the needful changes or else you can go "
-"through the below documentations."
+"If your theme has other options to change it then please do the needful "
+"changes or else you can go through the below documentations."
 msgstr ""
 
 #: admin/obw/obw.php:321
@@ -2405,17 +2527,20 @@ msgstr "Bạn chỉ có thể sử dụng các biểu mẫu hiện có của mì
 
 #: admin/obw/obw.php:578
 msgid "Built on WooCommerce/WordPress standards and using their hooks."
-msgstr "Được xây dựng trên các tiêu chuẩn WooCommerce/WordPress và sử dụng các hook của chúng."
+msgstr ""
+"Được xây dựng trên các tiêu chuẩn WooCommerce/WordPress và sử dụng các hook "
+"của chúng."
 
 #: admin/obw/obw.php:583
 #, php-format
 msgid ""
-"We are compatible with that particular 3rd Party plugin. The  list of compatible plugins can be "
-"found on our website %s"
+"We are compatible with that particular 3rd Party plugin. The  list of "
+"compatible plugins can be found on our website %s"
 msgstr ""
 
 #: admin/obw/obw.php:590
-msgid "We highly recommend using our forms for better security and more features"
+msgid ""
+"We highly recommend using our forms for better security and more features"
 msgstr ""
 
 #: admin/obw/obw.php:627
@@ -2432,11 +2557,14 @@ msgstr "Cài đặt"
 
 #: admin/obw/obw.php:661
 msgid ""
-"With our drag and drop builder you can create popup forms or page forms as per your requirement."
+"With our drag and drop builder you can create popup forms or page forms as "
+"per your requirement."
 msgstr ""
 
 #: admin/obw/obw.php:663
-msgid "You can even use our Elementor widgets in any of your existing WordPress pages too :)"
+msgid ""
+"You can even use our Elementor widgets in any of your existing WordPress "
+"pages too :)"
 msgstr ""
 
 #: admin/obw/obw.php:750
@@ -2445,8 +2573,8 @@ msgstr "Thì đấy, xong rồi :D"
 
 #: admin/obw/obw.php:753
 msgid ""
-"The basic setup of Digits plugin has been done, now you can play with its settings to explore more "
-"features"
+"The basic setup of Digits plugin has been done, now you can play with its "
+"settings to explore more features"
 msgstr ""
 
 #: admin/obw/obw.php:758
@@ -2479,8 +2607,8 @@ msgstr "Yêu cầu"
 
 #: admin/settings.php:199
 msgid ""
-"In case you are using same license key on your testing/production server, then make sure to "
-"request addon domain."
+"In case you are using same license key on your testing/production server, "
+"then make sure to request addon domain."
 msgstr ""
 
 #: admin/settings.php:278
@@ -2508,7 +2636,9 @@ msgid "Saving"
 msgstr "Đang lưu"
 
 #: admin/settings.php:534
-msgid "Please activate your plugin to change the look and feel of your Login page and Popup"
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page "
+"and Popup"
 msgstr ""
 
 #: admin/settings.php:535
@@ -2527,8 +2657,10 @@ msgstr "Id người gửi msg91 không hợp lệ!"
 msgid "Invalid License Key"
 msgstr "Mã mua hàng không hợp lệ"
 
-#: admin/settings.php:540 digapprove/functions.php:166 includes/core/enqueue/enqueue_scripts.php:112
-#: includes/core/enqueue/enqueue_scripts.php:169 includes/core/enqueue/enqueue_scripts.php:257
+#: admin/settings.php:540 digapprove/functions.php:166
+#: includes/core/enqueue/enqueue_scripts.php:112
+#: includes/core/enqueue/enqueue_scripts.php:169
+#: includes/core/enqueue/enqueue_scripts.php:257
 msgid "Error! Please try again later"
 msgstr "Lỗi! "
 
@@ -2539,8 +2671,8 @@ msgstr "Vui lòng hoàn tất cài đặt của bạn"
 #: admin/settings.php:542
 #, php-format
 msgid ""
-"Please complete your SMS Gateway settings by clicking here, without those plugin will not work. For "
-"documentation, click %s here %s"
+"Please complete your SMS Gateway settings by clicking here, without those "
+"plugin will not work. For documentation, click %s here %s"
 msgstr ""
 
 #: admin/settings.php:543
@@ -2593,7 +2725,8 @@ msgstr "Chung"
 msgid "Basic"
 msgstr "Cơ bản"
 
-#: admin/settings.php:754 digbuilder/includes/widget/v1/element_form_widget.php:836
+#: admin/settings.php:754
+#: digbuilder/includes/widget/v1/element_form_widget.php:836
 #: digbuilder/includes/widget/v8/element_form_widget.php:860
 msgid "Redirection"
 msgstr "Chuyển hướng"
@@ -2606,10 +2739,12 @@ msgstr "WooCommerce"
 msgid "Forms"
 msgstr "Biểu mẫu"
 
-#: admin/settings.php:766 digbuilder/includes/widget/v1/element_form_widget.php:1008
+#: admin/settings.php:766
+#: digbuilder/includes/widget/v1/element_form_widget.php:1008
 #: digbuilder/includes/widget/v1/element_form_widget.php:1010
 #: digbuilder/includes/widget/v1/element_form_widget.php:2010
-#: digbuilder/includes/widget/v8/element_form_widget.php:1930 includes/forms.php:72
+#: digbuilder/includes/widget/v8/element_form_widget.php:1930
+#: includes/forms.php:72
 msgid "Signup"
 msgstr "Đăng ký"
 
@@ -2617,8 +2752,8 @@ msgstr "Đăng ký"
 msgid "ADDONS"
 msgstr "THÊM"
 
-#: dig_addons/addons.php:190 dig_addons/addons.php:204 dig_addons/addons.php:222
-#: dig_addons/addons.php:247
+#: dig_addons/addons.php:190 dig_addons/addons.php:204
+#: dig_addons/addons.php:222 dig_addons/addons.php:247
 msgid "Please enter a valid License Key."
 msgstr "Vui lòng nhập Mã mua hàng hợp lệ."
 
@@ -2626,7 +2761,8 @@ msgstr "Vui lòng nhập Mã mua hàng hợp lệ."
 msgid "You already have a license for <b>"
 msgstr "Bạn đã có giấy phép cho <b>"
 
-#: digadvlogic/digadvlogic.php:101 includes/core/enqueue/enqueue_scripts.php:268
+#: digadvlogic/digadvlogic.php:101
+#: includes/core/enqueue/enqueue_scripts.php:268
 msgid "Oh Snap!"
 msgstr "Úi!"
 
@@ -2742,18 +2878,25 @@ msgstr "Chuyển hướng URL đăng ký"
 msgid "Account Actions"
 msgstr "Hành động tài khoản"
 
-#: digapprove/functions.php:56 digit.php:353 digoldaccntmr/digoldaccntmr.php:349
-#: digoneclickls/process.php:70 includes/account/setup_account_security.php:579
-#: includes/core/enqueue/enqueue_scripts.php:188 includes/core/enqueue/enqueue_scripts.php:254
-#: includes/core/phandler.php:29 includes/forms/handler/UserActionHandler.php:46
-#: includes/login.php:151 includes/login.php:403 includes/login.php:486 includes/login.php:782
-#: includes/process_user.php:54 includes/process_user.php:336 includes/process_user.php:539
-#: includes/process_user.php:592 includes/process_user.php:813 includes/process_user.php:854
-#: includes/process_user.php:910 includes/process_user.php:977 includes/process_user.php:984
-#: includes/register.php:182 includes/woocommerce-registration.php:201
-#: includes/woocommerce-registration.php:204 includes/woocommerce-registration.php:219
-#: includes/woocommerce-registration.php:225 includes/woocommerce-registration.php:241
-#: includes/woocommerce-registration.php:243 includes/woocommerce-registration.php:1473
+#: digapprove/functions.php:56 digit.php:353
+#: digoldaccntmr/digoldaccntmr.php:349 digoneclickls/process.php:70
+#: includes/account/setup_account_security.php:579
+#: includes/core/enqueue/enqueue_scripts.php:188
+#: includes/core/enqueue/enqueue_scripts.php:254 includes/core/phandler.php:29
+#: includes/forms/handler/UserActionHandler.php:46 includes/login.php:151
+#: includes/login.php:403 includes/login.php:486 includes/login.php:782
+#: includes/process_user.php:54 includes/process_user.php:336
+#: includes/process_user.php:539 includes/process_user.php:592
+#: includes/process_user.php:813 includes/process_user.php:854
+#: includes/process_user.php:910 includes/process_user.php:977
+#: includes/process_user.php:984 includes/register.php:182
+#: includes/woocommerce-registration.php:201
+#: includes/woocommerce-registration.php:204
+#: includes/woocommerce-registration.php:219
+#: includes/woocommerce-registration.php:225
+#: includes/woocommerce-registration.php:241
+#: includes/woocommerce-registration.php:243
+#: includes/woocommerce-registration.php:1473
 msgid "Error"
 msgstr "Lỗi"
 
@@ -2779,12 +2922,13 @@ msgstr "Từ chối"
 
 #: digbuilder/digbuilder.php:70
 msgid ""
-"Digits Builder currently does not support Additional Fields & Logic Builder addon, compatibility "
-"with them will be available soon."
+"Digits Builder currently does not support Additional Fields & Logic Builder "
+"addon, compatibility with them will be available soon."
 msgstr ""
 
 #: digbuilder/digbuilder.php:126
-msgid "Please install & activate Elementor plugin to enable Digits page builder."
+msgid ""
+"Please install & activate Elementor plugin to enable Digits page builder."
 msgstr ""
 
 #: digbuilder/digbuilder.php:180
@@ -3049,7 +3193,8 @@ msgstr "Nền vùng chứa cửa sổ bật lên"
 msgid "Popup Overlay Background"
 msgstr "Nền lớp phủ cửa sổ bật lên"
 
-#: digbuilder/includes/builder/document.php:229 digbuilder/includes/builder/document.php:237
+#: digbuilder/includes/builder/document.php:229
+#: digbuilder/includes/builder/document.php:237
 msgid "Close Button"
 msgstr "Nút Đóng"
 
@@ -3058,7 +3203,8 @@ msgstr "Nút Đóng"
 msgid "Icon"
 msgstr "Biểu tượng"
 
-#: digbuilder/includes/builder/document.php:262 digbuilder/includes/builder/document.php:524
+#: digbuilder/includes/builder/document.php:262
+#: digbuilder/includes/builder/document.php:524
 #: digbuilder/includes/widget/element_button_widget.php:337
 #: digbuilder/includes/widget/v1/element_form_widget.php:1194
 #: digbuilder/includes/widget/v1/element_form_widget.php:1395
@@ -3079,7 +3225,8 @@ msgstr "Biểu tượng"
 msgid "Normal"
 msgstr "Bình thường"
 
-#: digbuilder/includes/builder/document.php:270 digbuilder/includes/builder/document.php:288
+#: digbuilder/includes/builder/document.php:270
+#: digbuilder/includes/builder/document.php:288
 msgid "Icon Styles"
 msgstr "Kiểu biểu tượng"
 
@@ -3119,15 +3266,18 @@ msgstr "Định vị"
 msgid "Content Position"
 msgstr "Vị trí nội dung"
 
-#: digbuilder/includes/builder/document.php:366 digbuilder/includes/builder/document.php:418
+#: digbuilder/includes/builder/document.php:366
+#: digbuilder/includes/builder/document.php:418
 msgid "Top"
 msgstr "Hàng đầu"
 
-#: digbuilder/includes/builder/document.php:370 digbuilder/includes/builder/document.php:422
+#: digbuilder/includes/builder/document.php:370
+#: digbuilder/includes/builder/document.php:422
 msgid "Middle"
 msgstr "Trung bình"
 
-#: digbuilder/includes/builder/document.php:374 digbuilder/includes/builder/document.php:426
+#: digbuilder/includes/builder/document.php:374
+#: digbuilder/includes/builder/document.php:426
 msgid "Bottom"
 msgstr "Đáy"
 
@@ -3374,22 +3524,27 @@ msgstr "Chậm"
 msgid "Slower"
 msgstr "Chậm hơn"
 
-#: digbuilder/includes/form.php:17 digbuilder/includes/widget/v1/element_form_widget.php:446
+#: digbuilder/includes/form.php:17
+#: digbuilder/includes/widget/v1/element_form_widget.php:446
 #: digbuilder/includes/widget/v1/element_form_widget.php:452
 #: digbuilder/includes/widget/v1/element_form_widget.php:773
 #: digbuilder/includes/widget/v8/element_form_widget.php:482
 #: digbuilder/includes/widget/v8/element_form_widget.php:488
-#: digbuilder/includes/widget/v8/element_form_widget.php:809 digit.php:326 includes/forms.php:531
-#: includes/forms/signup.php:291 includes/forms/signup.php:301 includes/register.php:101
+#: digbuilder/includes/widget/v8/element_form_widget.php:809 digit.php:326
+#: includes/forms.php:531 includes/forms/signup.php:291
+#: includes/forms/signup.php:301 includes/register.php:101
 #: includes/woocommerce-registration.php:1212
 msgid "First Name"
 msgstr "Tên"
 
 #: digbuilder/includes/form.php:151 digbuilder/includes/form.php:204
-#: digbuilder/includes/functions.php:410 digbuilder/includes/widget/v1/element_form_widget.php:435
-#: digit.php:332 digit.php:1414 includes/core/enqueue/enqueue_scripts.php:89 includes/forms.php:198
-#: includes/forms.php:371 includes/forms.php:488 includes/forms.php:600 includes/process_user.php:70
-#: includes/woocommerce-registration.php:293 includes/woocommerce-registration.php:294
+#: digbuilder/includes/functions.php:410
+#: digbuilder/includes/widget/v1/element_form_widget.php:435 digit.php:332
+#: digit.php:1414 includes/core/enqueue/enqueue_scripts.php:89
+#: includes/forms.php:198 includes/forms.php:371 includes/forms.php:488
+#: includes/forms.php:600 includes/process_user.php:70
+#: includes/woocommerce-registration.php:293
+#: includes/woocommerce-registration.php:294
 #: includes/woocommerce-registration.php:1291 includes/wp.php:492
 msgid "Email/Mobile Number"
 msgstr "Email/Số di động"
@@ -3398,7 +3553,8 @@ msgstr "Email/Số di động"
 msgid "Signup With WhatsApp"
 msgstr "Đăng ký với WhatsApp"
 
-#: digbuilder/includes/form.php:334 includes/forms.php:456 includes/forms.php:740
+#: digbuilder/includes/form.php:334 includes/forms.php:456
+#: includes/forms.php:740
 msgid "Back to login"
 msgstr "Quay lại đăng nhập"
 
@@ -3427,12 +3583,14 @@ msgstr "(chọn)"
 msgid "Login & Register"
 msgstr "Đăng nhập"
 
-#: digbuilder/includes/import_export.php:52 digbuilder/includes/widget/v1/element_form_widget.php:803
+#: digbuilder/includes/import_export.php:52
+#: digbuilder/includes/widget/v1/element_form_widget.php:803
 #: digbuilder/includes/widget/v1/element_form_widget.php:857
 #: digbuilder/includes/widget/v1/element_form_widget.php:939
 #: digbuilder/includes/widget/v8/element_form_widget.php:839
 #: digbuilder/includes/widget/v8/element_form_widget.php:881
-#: includes/core/enqueue/enqueue_scripts.php:265 includes/forms/handler/process.php:174
+#: includes/core/enqueue/enqueue_scripts.php:265
+#: includes/forms/handler/process.php:174
 msgid "Forgot Password"
 msgstr "Quên mật khẩu"
 
@@ -3638,8 +3796,9 @@ msgstr "Thêm id tùy chỉnh của bạn KHÔNG CÓ phím Pound. "
 
 #: digbuilder/includes/widget/element_button_widget.php:299
 msgid ""
-"Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This "
-"field allows <code>A-z 0-9</code> & underscore chars without spaces."
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
 msgstr ""
 
 #: digbuilder/includes/widget/element_button_widget.php:356
@@ -3660,7 +3819,8 @@ msgstr ""
 #: digbuilder/includes/widget/v8/element_form_widget.php:2065
 #: digbuilder/includes/widget/v8/element_form_widget.php:2105
 #: digbuilder/includes/widget/v8/element_form_widget.php:2239
-#: digbuilder/includes/widget/v8/element_form_widget.php:2280 includes/forms/admin.php:86
+#: digbuilder/includes/widget/v8/element_form_widget.php:2280
+#: includes/forms/admin.php:86
 msgid "Background Color"
 msgstr "Màu nền"
 
@@ -3772,15 +3932,15 @@ msgstr "Dịch thuật"
 msgid "Login and Forgot Password"
 msgstr "Đăng nhập và Quên mật khẩu"
 
-#: digbuilder/includes/widget/v1/element_form_widget.php:908 digit.php:685 digit.php:1270
-#: includes/core/enqueue/enqueue_scripts.php:263
+#: digbuilder/includes/widget/v1/element_form_widget.php:908 digit.php:685
+#: digit.php:1270 includes/core/enqueue/enqueue_scripts.php:263
 msgid "Log In"
 msgstr "Đăng nhập"
 
 #: digbuilder/includes/widget/v1/element_form_widget.php:916
 #: digbuilder/includes/widget/v1/element_form_widget.php:918
-#: includes/core/enqueue/enqueue_scripts.php:129 includes/forms.php:65 includes/plugins/um.php:151
-#: includes/woocommerce-registration.php:1155
+#: includes/core/enqueue/enqueue_scripts.php:129 includes/forms.php:65
+#: includes/plugins/um.php:151 includes/woocommerce-registration.php:1155
 msgid "Login With OTP"
 msgstr "Đăng nhập bằng OTP"
 
@@ -3788,20 +3948,24 @@ msgstr "Đăng nhập bằng OTP"
 #: digbuilder/includes/widget/v1/element_form_widget.php:964
 #: digbuilder/includes/widget/v1/element_form_widget.php:1050
 #: digbuilder/includes/widget/v1/element_form_widget.php:1052
-#: includes/core/enqueue/enqueue_scripts.php:190 includes/core/enqueue/enqueue_scripts.php:272
-#: includes/forms.php:69 includes/forms.php:76
+#: includes/core/enqueue/enqueue_scripts.php:190
+#: includes/core/enqueue/enqueue_scripts.php:272 includes/forms.php:69
+#: includes/forms.php:76
 msgid "Submit OTP"
 msgstr "Gửi OTP"
 
 #: digbuilder/includes/widget/v1/element_form_widget.php:973
 #: digbuilder/includes/widget/v1/element_form_widget.php:975
 #: digbuilder/includes/widget/v1/element_form_widget.php:1060
-#: digbuilder/includes/widget/v1/element_form_widget.php:1062 digoldaccntmr/digoldaccntmr.php:833
-#: digoneclickls/digoneclickls.php:270 includes/core/enqueue/enqueue_scripts.php:172
-#: includes/forms.php:70 includes/forms.php:77 includes/forms/handler/process.php:501
-#: includes/plugins/bp.php:145 includes/plugins/um.php:109 includes/plugins/um.php:155
-#: includes/woocommerce-registration.php:1170 includes/woocommerce-registration.php:1327
-#: includes/woocommerce-registration.php:1399 includes/woocommerce-registration.php:1426
+#: digbuilder/includes/widget/v1/element_form_widget.php:1062
+#: digoldaccntmr/digoldaccntmr.php:833 digoneclickls/digoneclickls.php:270
+#: includes/core/enqueue/enqueue_scripts.php:172 includes/forms.php:70
+#: includes/forms.php:77 includes/forms/handler/process.php:501
+#: includes/plugins/bp.php:145 includes/plugins/um.php:109
+#: includes/plugins/um.php:155 includes/woocommerce-registration.php:1170
+#: includes/woocommerce-registration.php:1327
+#: includes/woocommerce-registration.php:1399
+#: includes/woocommerce-registration.php:1426
 msgid "Resend OTP"
 msgstr "Gửi lại OTP"
 
@@ -3811,12 +3975,14 @@ msgid "Dont have an account?"
 msgstr "Chưa có tài khoản?"
 
 #: digbuilder/includes/widget/v1/element_form_widget.php:1018
-#: digbuilder/includes/widget/v1/element_form_widget.php:1020 includes/forms.php:73
+#: digbuilder/includes/widget/v1/element_form_widget.php:1020
+#: includes/forms.php:73
 msgid "Signup With Password"
 msgstr "Đăng ký bằng mật khẩu"
 
 #: digbuilder/includes/widget/v1/element_form_widget.php:1028
-#: digbuilder/includes/widget/v1/element_form_widget.php:1030 includes/forms.php:74
+#: digbuilder/includes/widget/v1/element_form_widget.php:1030
+#: includes/forms.php:74
 msgid "Signup With OTP"
 msgstr "Đăng ký bằng OTP"
 
@@ -3945,8 +4111,8 @@ msgstr "Tắt"
 msgid "Form Title"
 msgstr "Tên mẫu"
 
-#: digbuilder/includes/widget/v8/element_form_widget.php:929 includes/forms.php:452
-#: includes/forms/render.php:266
+#: digbuilder/includes/widget/v8/element_form_widget.php:929
+#: includes/forms.php:452 includes/forms/render.php:266
 msgid "Reset Password"
 msgstr "Đặt lại mật khẩu"
 
@@ -3958,19 +4124,23 @@ msgstr "Chủ đề ánh sáng"
 msgid "Dark Theme"
 msgstr "Chủ đề tối"
 
-#: digbuilder/includes/widget/v8/element_form_widget.php:981 includes/forms/admin.php:82
+#: digbuilder/includes/widget/v8/element_form_widget.php:981
+#: includes/forms/admin.php:82
 msgid "Primary Color"
 msgstr "Màu cơ bản"
 
-#: digbuilder/includes/widget/v8/element_form_widget.php:992 includes/forms/admin.php:83
+#: digbuilder/includes/widget/v8/element_form_widget.php:992
+#: includes/forms/admin.php:83
 msgid "Accent Color"
 msgstr "Màu nhấn"
 
-#: digbuilder/includes/widget/v8/element_form_widget.php:1002 includes/forms/admin.php:84
+#: digbuilder/includes/widget/v8/element_form_widget.php:1002
+#: includes/forms/admin.php:84
 msgid "Title Color"
 msgstr "Màu tiêu đề"
 
-#: digbuilder/includes/widget/v8/element_form_widget.php:1013 includes/forms/admin.php:85
+#: digbuilder/includes/widget/v8/element_form_widget.php:1013
+#: includes/forms/admin.php:85
 msgid "Field Background Color"
 msgstr "Màu nền trường"
 
@@ -4060,7 +4230,9 @@ msgid "Settings"
 msgstr "Cài đặt"
 
 #: digit.php:991
-msgid "<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></div>"
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></"
+"div>"
 msgstr ""
 
 #: digit.php:1370
@@ -4106,8 +4278,9 @@ msgstr "Hợp nhất các trường tài khoản và thanh toán di động"
 
 #: digmergphne/digmergphne.php:106
 msgid ""
-"This will merge WooCommerce's Billing and Account Phone Number (Digits), Account phone number field "
-"will be removed from checkout and Billing Phone Number will be used as account phone number."
+"This will merge WooCommerce's Billing and Account Phone Number (Digits), "
+"Account phone number field will be removed from checkout and Billing Phone "
+"Number will be used as account phone number."
 msgstr ""
 
 #: digmergphne/digmergphne.php:112
@@ -4116,7 +4289,8 @@ msgstr "Luôn đồng bộ số điện thoại thanh toán với số tài kho�
 
 #: digmergphne/digmergphne.php:123
 msgid ""
-"User will not be able to change billing phone number from checkout once you enable this option."
+"User will not be able to change billing phone number from checkout once you "
+"enable this option."
 msgstr ""
 
 #: digoldaccntmr/digoldaccntmr.php:103 digoldaccntmr/digoldaccntmr.php:558
@@ -4128,7 +4302,9 @@ msgid "Show \"Add Phone Number\" Popup to Old Users"
 msgstr "Hiển thị cửa sổ bật lên \"Thêm số điện thoại\" cho người dùng cũ"
 
 #: digoldaccntmr/digoldaccntmr.php:122
-msgid "This feature will show popup / modal to old users asking them to enter their mobile number"
+msgid ""
+"This feature will show popup / modal to old users asking them to enter their "
+"mobile number"
 msgstr ""
 
 #: digoldaccntmr/digoldaccntmr.php:128
@@ -4136,7 +4312,9 @@ msgid "Make it compulsory"
 msgstr "Làm cho nó bắt buộc"
 
 #: digoldaccntmr/digoldaccntmr.php:139 digoldaccntmr/digoldaccntmr.php:156
-msgid "If set to yes, users will not be able to close the popup if they don't enter the mobile number"
+msgid ""
+"If set to yes, users will not be able to close the popup if they don't enter "
+"the mobile number"
 msgstr ""
 
 #: digoldaccntmr/digoldaccntmr.php:145
@@ -4235,7 +4413,8 @@ msgstr "Mã quốc gia không hợp lệ"
 msgid "Mobile Number not found"
 msgstr "Không tìm thấy số di động"
 
-#: digoldaccntmr/digoldaccntmr.php:486 includes/login.php:774 includes/process_user.php:390
+#: digoldaccntmr/digoldaccntmr.php:486 includes/login.php:774
+#: includes/process_user.php:390
 msgid "Invalid Mobile Number"
 msgstr "Số điện thoại di động không hợp lệ"
 
@@ -4248,7 +4427,9 @@ msgid "Add Phone Number"
 msgstr "Thêm số điện thoại"
 
 #: digoldaccntmr/digoldaccntmr.php:768
-msgid "You will be able to login using this mobile number and OTP passcode from next time."
+msgid ""
+"You will be able to login using this mobile number and OTP passcode from "
+"next time."
 msgstr ""
 
 #: digoldaccntmr/digoldaccntmr.php:770
@@ -4297,8 +4478,8 @@ msgid "Invalid OTP"
 msgstr "OTP không hợp lệ"
 
 #: digoneclickls/process.php:89 includes/core/enqueue/enqueue_scripts.php:275
-#: includes/forms/handler/DigitsFormHandler.php:867 includes/login.php:182 includes/login.php:708
-#: includes/process_user.php:753
+#: includes/forms/handler/DigitsFormHandler.php:867 includes/login.php:182
+#: includes/login.php:708 includes/process_user.php:753
 msgid "Login Successful, Redirecting.."
 msgstr "Đăng nhập thành công, chuyển hướng.."
 
@@ -4306,7 +4487,8 @@ msgstr "Đăng nhập thành công, chuyển hướng.."
 msgid "Unexpected error occurred! Please try again."
 msgstr "Xảy ra lỗi không mong muốn! "
 
-#: digoneclickls/process.php:128 includes/forms/handler/UserRegistration.php:434
+#: digoneclickls/process.php:128
+#: includes/forms/handler/UserRegistration.php:434
 #: includes/process_user.php:519
 msgid "Registration Successful, Redirecting.."
 msgstr "Đăng ký thành công, chuyển hướng.."
@@ -4320,7 +4502,9 @@ msgid "Lock Full Website"
 msgstr "Khóa toàn bộ trang web"
 
 #: digpagelock/digpagelock.php:179
-msgid "This will lock the whole website so that it can only be accessed by logged in users."
+msgid ""
+"This will lock the whole website so that it can only be accessed by logged "
+"in users."
 msgstr ""
 
 #: digpagelock/digpagelock.php:189
@@ -4336,7 +4520,9 @@ msgid "Lock WooCommerce Checkout Page"
 msgstr "Khóa trang thanh toán WooCommerce"
 
 #: digpagelock/digpagelock.php:222
-msgid "This will lock the checkout page so that it can only be accessed by logged in users."
+msgid ""
+"This will lock the checkout page so that it can only be accessed by logged "
+"in users."
 msgstr ""
 
 #: digpagelock/digpagelock.php:228
@@ -4380,7 +4566,8 @@ msgid "Rest API"
 msgstr "API nghỉ ngơi"
 
 #: digrestapi/digrestapi.php:432 includes/core/enqueue/enqueue_scripts.php:120
-#: includes/core/enqueue/enqueue_scripts.php:167 includes/core/enqueue/enqueue_scripts.php:256
+#: includes/core/enqueue/enqueue_scripts.php:167
+#: includes/core/enqueue/enqueue_scripts.php:256
 #: includes/woocommerce-registration.php:488
 msgid "Invalid OTP!"
 msgstr "OTP không hợp lệ!"
@@ -4389,8 +4576,8 @@ msgstr "OTP không hợp lệ!"
 msgid "Error! You need to be logged in to change number"
 msgstr "Lỗi! "
 
-#: digrestapi/digrestapi.php:455 includes/plugins/ihu.php:24 includes/wcs.php:447 includes/wp.php:287
-#: includes/wp.php:301
+#: digrestapi/digrestapi.php:455 includes/plugins/ihu.php:24
+#: includes/wcs.php:447 includes/wp.php:287 includes/wp.php:301
 msgid "Please enter a valid Mobile Number"
 msgstr "Vui lòng nhập số điện thoại di động hợp lệ"
 
@@ -4403,7 +4590,8 @@ msgid "Please enter valid credentials"
 msgstr "Vui lòng nhập thông tin xác thực hợp lệ"
 
 #: digrestapi/digrestapi.php:533 includes/core/enqueue/enqueue_scripts.php:154
-#: includes/core/enqueue/enqueue_scripts.php:249 includes/forms/handler/DigitsFormHandler.php:368
+#: includes/core/enqueue/enqueue_scripts.php:249
+#: includes/forms/handler/DigitsFormHandler.php:368
 #: includes/forms/handler/UserActionHandler.php:232 includes/login.php:515
 #: includes/process_user.php:688
 msgid "Please signup before logging in."
@@ -4433,8 +4621,8 @@ msgstr "Hoặc sử dụng mạng xã hội"
 msgid "Error while generating user login!"
 msgstr "Lỗi khi tạo đăng nhập người dùng!"
 
-#: digsociallogin/includes/providers/SocialLoginAuth.php:37 includes/forms/render.php:298
-#: includes/forms/render.php:461
+#: digsociallogin/includes/providers/SocialLoginAuth.php:37
+#: includes/forms/render.php:298 includes/forms/render.php:461
 #, php-format
 msgid "Use %s"
 msgstr "Sử dụng %s"
@@ -4464,7 +4652,8 @@ msgstr "Chuyển hướng URI"
 msgid "Setup"
 msgstr "Thiết lập"
 
-#: includes/account/secure.php:119 includes/account/secure_account_setup.php:128
+#: includes/account/secure.php:119
+#: includes/account/secure_account_setup.php:128
 msgid "2FA App (Google Auth, Authy, etc)"
 msgstr ""
 
@@ -4481,8 +4670,10 @@ msgstr "Thêm thiết bị"
 msgid "Enable %s-Factor Authentication"
 msgstr "Bật xác thực %s-Factor"
 
-#: includes/account/secure_account_disable.php:55 includes/account/secure_account_handler.php:41
-#: includes/account/secure_account_setup.php:48 includes/account/setup_account_security.php:133
+#: includes/account/secure_account_disable.php:55
+#: includes/account/secure_account_handler.php:41
+#: includes/account/secure_account_setup.php:48
+#: includes/account/setup_account_security.php:133
 msgid "Please login to continue!"
 msgstr "Vui lòng đăng nhập để tiếp tục!"
 
@@ -4495,7 +4686,8 @@ msgstr "Xác thực %d-Factor không được kích hoạt!"
 msgid "You need to first disable 3-Factor Authentication!"
 msgstr "Trước tiên, bạn cần tắt Xác thực 3 yếu tố!"
 
-#: includes/account/secure_account_disable.php:100 includes/account/secure_account_disable.php:107
+#: includes/account/secure_account_disable.php:100
+#: includes/account/secure_account_disable.php:107
 msgid "Please enter a valid Password!"
 msgstr "Vui lòng nhập Mật khẩu hợp lệ!"
 
@@ -4519,7 +4711,8 @@ msgstr "Vui lòng chọn một phương thức để tiếp tục!"
 
 #: includes/account/secure_account_handler.php:80
 msgid "Authentication method not found, please try using another method!"
-msgstr "Không tìm thấy phương pháp xác thực, vui lòng thử sử dụng phương pháp khác!"
+msgstr ""
+"Không tìm thấy phương pháp xác thực, vui lòng thử sử dụng phương pháp khác!"
 
 #: includes/account/secure_account_handler.php:106
 #, php-format
@@ -4542,7 +4735,9 @@ msgstr "Vui lòng bật 2FA trước khi bật 3FA"
 
 #: includes/account/secure_account_handler.php:173
 #, php-format
-msgid "Please add phone number to your account before using it as a %s-Factor Authenticator"
+msgid ""
+"Please add phone number to your account before using it as a %s-Factor "
+"Authenticator"
 msgstr ""
 
 #: includes/account/secure_account_setup.php:60
@@ -4578,10 +4773,13 @@ msgstr "Sử dụng Khóa bảo mật"
 msgid "Add Email Address"
 msgstr "Thêm Địa chỉ Email"
 
-#: includes/account/setup_account_security.php:100 includes/forms/handler/UserRegistration.php:143
-#: includes/forms/handler/UserRegistration.php:146 includes/forms/handler/UserRegistration.php:475
-#: includes/process_user.php:165 includes/process_user.php:169 includes/register.php:409
-#: includes/register.php:413 includes/woocommerce-registration.php:453
+#: includes/account/setup_account_security.php:100
+#: includes/forms/handler/UserRegistration.php:143
+#: includes/forms/handler/UserRegistration.php:146
+#: includes/forms/handler/UserRegistration.php:475
+#: includes/process_user.php:165 includes/process_user.php:169
+#: includes/register.php:409 includes/register.php:413
+#: includes/woocommerce-registration.php:453
 msgid "Please enter a valid Email!"
 msgstr "Vui lòng nhập Email hợp lệ!"
 
@@ -4620,7 +4818,8 @@ msgstr "Tích hợp cảm biến sinh trắc học"
 
 #: includes/account/setup_account_security.php:283
 msgid "Check and follow your device's biometrics popup"
-msgstr "Kiểm tra và theo dõi cửa sổ bật lên sinh trắc học trên thiết bị của bạn"
+msgstr ""
+"Kiểm tra và theo dõi cửa sổ bật lên sinh trắc học trên thiết bị của bạn"
 
 #: includes/account/setup_account_security.php:286
 msgid "USB Security Key"
@@ -4632,7 +4831,9 @@ msgstr "Kiểm tra và theo dõi cửa sổ bật lên trình duyệt trên thi�
 
 #: includes/account/setup_account_security.php:291
 msgid "Check and follow your device's biometrics popup or use Yubikey"
-msgstr "Kiểm tra và theo dõi cửa sổ bật lên sinh trắc học trên thiết bị của bạn hoặc sử dụng Yubikey"
+msgstr ""
+"Kiểm tra và theo dõi cửa sổ bật lên sinh trắc học trên thiết bị của bạn hoặc "
+"sử dụng Yubikey"
 
 #: includes/account/setup_account_security.php:300
 msgid "Add Security Key"
@@ -4646,7 +4847,8 @@ msgstr "Vân tay hoặc Face ID của điện thoại"
 msgid "You will be able to use the same device for login in future"
 msgstr "Bạn sẽ có thể sử dụng cùng một thiết bị để đăng nhập trong tương lai"
 
-#: includes/account/setup_account_security.php:364 includes/forms/handler/process.php:432
+#: includes/account/setup_account_security.php:364
+#: includes/forms/handler/process.php:432
 msgid "Use Phone"
 msgstr "Sử dụng điện thoại"
 
@@ -4654,7 +4856,8 @@ msgstr "Sử dụng điện thoại"
 msgid "Device Registered"
 msgstr "Thiết bị đã đăng ký"
 
-#: includes/account/setup_account_security.php:387 includes/forms/handler/process.php:401
+#: includes/account/setup_account_security.php:387
+#: includes/forms/handler/process.php:401
 msgid "Scan the QR code with your phone"
 msgstr "Quét mã QR bằng điện thoại"
 
@@ -4662,7 +4865,8 @@ msgstr "Quét mã QR bằng điện thoại"
 msgid "Device's Nickname"
 msgstr "Biệt hiệu của thiết bị"
 
-#: includes/account/setup_account_security.php:437 includes/account/setup_account_security.php:543
+#: includes/account/setup_account_security.php:437
+#: includes/account/setup_account_security.php:543
 msgid "Session expired, please try again!"
 msgstr "Phiên hết hạn, vui lòng thử lại!"
 
@@ -4675,7 +4879,9 @@ msgid "Unexpected error occurred, please try again!"
 msgstr "Xảy ra lỗi không mong muốn, vui lòng thử lại!"
 
 #: includes/account/setup_account_security.php:483
-msgid "You had already authenticated device, please check device setup wizard for more info!"
+msgid ""
+"You had already authenticated device, please check device setup wizard for "
+"more info!"
 msgstr ""
 
 #: includes/account/setup_account_security.php:496
@@ -4702,7 +4908,8 @@ msgstr "Vui lòng chọn loại thiết bị hợp lệ!"
 msgid "Please register your device!"
 msgstr "Vui lòng đăng ký thiết bị của bạn!"
 
-#: includes/account/setup_account_security.php:559 includes/account/setup_account_security.php:595
+#: includes/account/setup_account_security.php:559
+#: includes/account/setup_account_security.php:595
 #, php-format
 msgid "You've successfully added %s!"
 msgstr "Bạn đã thêm thành công %s!"
@@ -4727,8 +4934,10 @@ msgstr "OTP phải có 6 chữ số!"
 msgid "You've successfully enabled 2FA App!"
 msgstr "Bạn đã bật thành công Ứng dụng 2FA!"
 
-#: includes/account/setup_account_security.php:646 includes/forms/handler/DigitsFormHandler.php:1037
-#: includes/forms/handler/UserRegistration.php:348 includes/forms/handler/UserRegistration.php:358
+#: includes/account/setup_account_security.php:646
+#: includes/forms/handler/DigitsFormHandler.php:1037
+#: includes/forms/handler/UserRegistration.php:348
+#: includes/forms/handler/UserRegistration.php:358
 #: includes/process_user.php:149 includes/process_user.php:158
 msgid "Please enter a valid OTP!"
 msgstr "Vui lòng nhập OTP hợp lệ!"
@@ -4749,45 +4958,57 @@ msgstr "Vui lòng thử lại!"
 
 #: includes/account/wauth/init.php:360
 msgid "Key verification failed, if issue persists please try reloading!"
-msgstr "Xác minh khóa không thành công, nếu sự cố vẫn tiếp diễn, vui lòng thử tải lại!"
+msgstr ""
+"Xác minh khóa không thành công, nếu sự cố vẫn tiếp diễn, vui lòng thử tải "
+"lại!"
 
-#: includes/core/enqueue/enqueue_scripts.php:113 includes/core/enqueue/enqueue_scripts.php:133
+#: includes/core/enqueue/enqueue_scripts.php:113
+#: includes/core/enqueue/enqueue_scripts.php:133
 #: includes/core/enqueue/enqueue_scripts.php:229
 msgid "Please fill all the required details."
 msgstr "Vui lòng điền tất cả các chi tiết được yêu cầu."
 
-#: includes/core/enqueue/enqueue_scripts.php:114 includes/core/enqueue/enqueue_scripts.php:134
+#: includes/core/enqueue/enqueue_scripts.php:114
+#: includes/core/enqueue/enqueue_scripts.php:134
 #: includes/core/enqueue/enqueue_scripts.php:230
 msgid "Please accept terms & conditions."
 msgstr "Hãy chấp nhận các điều khoản"
 
-#: includes/core/enqueue/enqueue_scripts.php:116 includes/core/enqueue/enqueue_scripts.php:136
+#: includes/core/enqueue/enqueue_scripts.php:116
+#: includes/core/enqueue/enqueue_scripts.php:136
 #: includes/core/enqueue/enqueue_scripts.php:232
 msgid "Please enter a stronger password."
 msgstr "Vui lòng nhập mật khẩu mạnh hơn."
 
-#: includes/core/enqueue/enqueue_scripts.php:118 includes/core/enqueue/enqueue_scripts.php:161
-#: includes/core/enqueue/enqueue_scripts.php:261 includes/woocommerce-registration.php:201
-#: includes/woocommerce-registration.php:204 includes/woocommerce-registration.php:477
+#: includes/core/enqueue/enqueue_scripts.php:118
+#: includes/core/enqueue/enqueue_scripts.php:161
+#: includes/core/enqueue/enqueue_scripts.php:261
+#: includes/woocommerce-registration.php:201
+#: includes/woocommerce-registration.php:204
+#: includes/woocommerce-registration.php:477
 msgid "Invalid Mobile Number!"
 msgstr "Số điện thoại di động không hợp lệ!"
 
-#: includes/core/enqueue/enqueue_scripts.php:119 includes/core/enqueue/enqueue_scripts.php:159
+#: includes/core/enqueue/enqueue_scripts.php:119
+#: includes/core/enqueue/enqueue_scripts.php:159
 #: includes/core/enqueue/enqueue_scripts.php:259
 msgid "Invalid details!"
 msgstr "Chi tiết không hợp lệ!"
 
-#: includes/core/enqueue/enqueue_scripts.php:132 includes/core/enqueue/enqueue_scripts.php:228
-#: includes/process_user.php:936 includes/process_user.php:965
+#: includes/core/enqueue/enqueue_scripts.php:132
+#: includes/core/enqueue/enqueue_scripts.php:228 includes/process_user.php:936
+#: includes/process_user.php:965
 msgid "Passwords do not match!"
 msgstr "Mật khẩu không khớp!"
 
-#: includes/core/enqueue/enqueue_scripts.php:155 includes/core/enqueue/enqueue_scripts.php:248
-#: includes/process_user.php:347 includes/register.php:580
+#: includes/core/enqueue/enqueue_scripts.php:155
+#: includes/core/enqueue/enqueue_scripts.php:248 includes/process_user.php:347
+#: includes/register.php:580
 msgid "Invalid API credentials!"
 msgstr "Thông tin đăng nhập API không hợp lệ!"
 
-#: includes/core/enqueue/enqueue_scripts.php:156 includes/core/enqueue/enqueue_scripts.php:247
+#: includes/core/enqueue/enqueue_scripts.php:156
+#: includes/core/enqueue/enqueue_scripts.php:247
 msgid "Invalid login credentials!"
 msgstr "Thông tin đăng nhập không hợp lệ!"
 
@@ -4799,27 +5020,35 @@ msgstr "Đăng ký bằng mật khẩu"
 msgid "Invalid Password"
 msgstr "Mật khẩu không hợp lệ"
 
-#: includes/core/enqueue/enqueue_scripts.php:162 includes/core/enqueue/enqueue_scripts.php:260
-#: includes/forms/handler/UserRegistration.php:174 includes/process_user.php:184
-#: includes/process_user.php:831 includes/register.php:427
+#: includes/core/enqueue/enqueue_scripts.php:162
+#: includes/core/enqueue/enqueue_scripts.php:260
+#: includes/forms/handler/UserRegistration.php:174
+#: includes/process_user.php:184 includes/process_user.php:831
+#: includes/register.php:427
 msgid "Invalid Email!"
 msgstr "Email không hợp lệ!"
 
-#: includes/core/enqueue/enqueue_scripts.php:163 includes/core/enqueue/enqueue_scripts.php:251
-#: includes/forms/handler/DigitsFormHandler.php:323 includes/forms/handler/DigitsFormHandler.php:946
-#: includes/forms/handler/DigitsFormHandler.php:1350 includes/forms/handler/UserRegistration.php:191
-#: includes/login.php:410
+#: includes/core/enqueue/enqueue_scripts.php:163
+#: includes/core/enqueue/enqueue_scripts.php:251
+#: includes/forms/handler/DigitsFormHandler.php:323
+#: includes/forms/handler/DigitsFormHandler.php:946
+#: includes/forms/handler/DigitsFormHandler.php:1350
+#: includes/forms/handler/UserRegistration.php:191 includes/login.php:410
 msgid "At the moment, we do not allow users from your country"
 msgstr "Hiện tại, chúng tôi không cho phép người dùng từ quốc gia của bạn"
 
-#: includes/core/enqueue/enqueue_scripts.php:164 includes/core/enqueue/enqueue_scripts.php:252
+#: includes/core/enqueue/enqueue_scripts.php:164
+#: includes/core/enqueue/enqueue_scripts.php:252
 msgid "Mobile number not found!"
 msgstr "Không tìm thấy số di động!"
 
-#: includes/core/enqueue/enqueue_scripts.php:165 includes/core/enqueue/enqueue_scripts.php:253
-#: includes/login.php:427 includes/process_user.php:386 includes/process_user.php:388
-#: includes/woocommerce-registration.php:241 includes/woocommerce-registration.php:243
-#: includes/woocommerce-registration.php:496 includes/woocommerce-registration.php:798
+#: includes/core/enqueue/enqueue_scripts.php:165
+#: includes/core/enqueue/enqueue_scripts.php:253 includes/login.php:427
+#: includes/process_user.php:386 includes/process_user.php:388
+#: includes/woocommerce-registration.php:241
+#: includes/woocommerce-registration.php:243
+#: includes/woocommerce-registration.php:496
+#: includes/woocommerce-registration.php:798
 msgid "Mobile Number already in use!"
 msgstr "Số di động đã được sử dụng!"
 
@@ -4836,11 +5065,13 @@ msgstr "Xác nhận mật khẩu"
 msgid "Please enter your Mobile Number/Email"
 msgstr "Vui lòng nhập Số điện thoại di động/Email của bạn"
 
-#: includes/core/enqueue/enqueue_scripts.php:178 includes/woocommerce-registration.php:444
+#: includes/core/enqueue/enqueue_scripts.php:178
+#: includes/woocommerce-registration.php:444
 msgid "Either enter your Mobile Number or use Password!"
 msgstr "Hoặc nhập Số điện thoại di động của bạn hoặc sử dụng Mật khẩu!"
 
-#: includes/core/enqueue/enqueue_scripts.php:179 includes/core/enqueue/enqueue_scripts.php:271
+#: includes/core/enqueue/enqueue_scripts.php:179
+#: includes/core/enqueue/enqueue_scripts.php:271
 msgid "Submit"
 msgstr "Gửi"
 
@@ -4865,15 +5096,18 @@ msgstr "ĐĂNG KÝ"
 msgid "OR"
 msgstr "HOẶC"
 
-#: includes/core/enqueue/enqueue_scripts.php:191 includes/core/enqueue/enqueue_scripts.php:245
+#: includes/core/enqueue/enqueue_scripts.php:191
+#: includes/core/enqueue/enqueue_scripts.php:245
 msgid "Registration is disabled"
 msgstr "Đăng ký bị vô hiệu hóa"
 
-#: includes/core/enqueue/enqueue_scripts.php:192 includes/core/enqueue/enqueue_scripts.php:246
+#: includes/core/enqueue/enqueue_scripts.php:192
+#: includes/core/enqueue/enqueue_scripts.php:246
 msgid "Forgot Password is disabled"
 msgstr "Quên mật khẩu bị tắt"
 
-#: includes/core/enqueue/enqueue_scripts.php:193 includes/core/enqueue/enqueue_scripts.php:255
+#: includes/core/enqueue/enqueue_scripts.php:193
+#: includes/core/enqueue/enqueue_scripts.php:255
 msgid "This features only works with mobile number"
 msgstr "Tính năng này chỉ hoạt động với số điện thoại di động"
 
@@ -4914,7 +5148,7 @@ msgid "Sorry, you are not allowed to install plugins on this site."
 msgstr "Xin lỗi, bạn không được phép cài đặt plugin trên trang web này."
 
 #: includes/core/phandler.php:81
-msgid "Please purchase addon license from https://digits.unitedover.com/addons/"
+msgid "Please purchase addon license from https://dash.brqsms.com"
 msgstr ""
 
 #: includes/core/phandler.php:103
@@ -5102,7 +5336,8 @@ msgstr ""
 msgid "Mendoza"
 msgstr ""
 
-#: includes/fields/address/states.php:57 includes/fields/address/states.php:1481
+#: includes/fields/address/states.php:57
+#: includes/fields/address/states.php:1481
 msgid "Misiones"
 msgstr ""
 
@@ -5110,7 +5345,8 @@ msgstr ""
 msgid "Neuquén"
 msgstr ""
 
-#: includes/fields/address/states.php:59 includes/fields/address/states.php:2040
+#: includes/fields/address/states.php:59
+#: includes/fields/address/states.php:2040
 msgid "Río Negro"
 msgstr ""
 
@@ -5466,7 +5702,8 @@ msgstr ""
 msgid "Lovech"
 msgstr ""
 
-#: includes/fields/address/states.php:157 includes/fields/address/states.php:1999
+#: includes/fields/address/states.php:157
+#: includes/fields/address/states.php:1999
 msgid "Montana"
 msgstr ""
 
@@ -5586,7 +5823,8 @@ msgstr ""
 msgid "Ouémé"
 msgstr ""
 
-#: includes/fields/address/states.php:191 includes/fields/address/states.php:1270
+#: includes/fields/address/states.php:191
+#: includes/fields/address/states.php:1270
 msgid "Plateau"
 msgstr ""
 
@@ -5606,7 +5844,8 @@ msgstr ""
 msgid "Cochabamba"
 msgstr ""
 
-#: includes/fields/address/states.php:198 includes/fields/address/states.php:677
+#: includes/fields/address/states.php:198
+#: includes/fields/address/states.php:677
 #: includes/fields/address/states.php:1563
 msgid "La Paz"
 msgstr ""
@@ -5639,8 +5878,10 @@ msgstr ""
 msgid "Amapá"
 msgstr ""
 
-#: includes/fields/address/states.php:209 includes/fields/address/states.php:330
-#: includes/fields/address/states.php:1350 includes/fields/address/states.php:2074
+#: includes/fields/address/states.php:209
+#: includes/fields/address/states.php:330
+#: includes/fields/address/states.php:1350
+#: includes/fields/address/states.php:2074
 msgid "Amazonas"
 msgstr ""
 
@@ -5928,7 +6169,8 @@ msgstr ""
 msgid "Los Lagos"
 msgstr ""
 
-#: includes/fields/address/states.php:287 includes/fields/address/states.php:501
+#: includes/fields/address/states.php:287
+#: includes/fields/address/states.php:501
 msgid "Los Ríos"
 msgstr ""
 
@@ -6096,7 +6338,8 @@ msgstr ""
 msgid "Atlántico"
 msgstr ""
 
-#: includes/fields/address/states.php:334 includes/fields/address/states.php:490
+#: includes/fields/address/states.php:334
+#: includes/fields/address/states.php:490
 #: includes/fields/address/states.php:2055
 msgid "Bolívar"
 msgstr ""
@@ -6189,7 +6432,8 @@ msgstr ""
 msgid "San Andrés & Providencia"
 msgstr ""
 
-#: includes/fields/address/states.php:358 includes/fields/address/states.php:2066
+#: includes/fields/address/states.php:358
+#: includes/fields/address/states.php:2066
 msgid "Sucre"
 msgstr ""
 
@@ -6233,7 +6477,8 @@ msgstr ""
 msgid "Puntarenas"
 msgstr ""
 
-#: includes/fields/address/states.php:371 includes/fields/address/states.php:2044
+#: includes/fields/address/states.php:371
+#: includes/fields/address/states.php:2044
 msgid "San José"
 msgstr ""
 
@@ -6929,7 +7174,8 @@ msgstr ""
 msgid "Girona"
 msgstr ""
 
-#: includes/fields/address/states.php:564 includes/fields/address/states.php:1303
+#: includes/fields/address/states.php:564
+#: includes/fields/address/states.php:1303
 msgid "Granada"
 msgstr ""
 
@@ -6957,7 +7203,8 @@ msgstr ""
 msgid "Las Palmas"
 msgstr ""
 
-#: includes/fields/address/states.php:572 includes/fields/address/states.php:1305
+#: includes/fields/address/states.php:572
+#: includes/fields/address/states.php:1305
 msgid "León"
 msgstr ""
 
@@ -7073,12 +7320,14 @@ msgstr ""
 msgid "Bono East"
 msgstr ""
 
-#: includes/fields/address/states.php:606 includes/fields/address/states.php:1484
+#: includes/fields/address/states.php:606
+#: includes/fields/address/states.php:1484
 #: includes/fields/address/states.php:2091
 msgid "Central"
 msgstr ""
 
-#: includes/fields/address/states.php:607 includes/fields/address/states.php:2092
+#: includes/fields/address/states.php:607
+#: includes/fields/address/states.php:2092
 msgid "Eastern"
 msgstr ""
 
@@ -7090,7 +7339,8 @@ msgstr ""
 msgid "North East"
 msgstr ""
 
-#: includes/fields/address/states.php:610 includes/fields/address/states.php:2094
+#: includes/fields/address/states.php:610
+#: includes/fields/address/states.php:2094
 msgid "Northern"
 msgstr ""
 
@@ -7114,7 +7364,8 @@ msgstr ""
 msgid "Volta"
 msgstr ""
 
-#: includes/fields/address/states.php:616 includes/fields/address/states.php:2090
+#: includes/fields/address/states.php:616
+#: includes/fields/address/states.php:2090
 msgid "Western"
 msgstr ""
 
@@ -7286,7 +7537,8 @@ msgstr ""
 msgid "Choluteca"
 msgstr ""
 
-#: includes/fields/address/states.php:668 includes/fields/address/states.php:1335
+#: includes/fields/address/states.php:668
+#: includes/fields/address/states.php:1335
 msgid "Colón"
 msgstr ""
 
@@ -7746,7 +7998,8 @@ msgstr ""
 msgid "Odisha"
 msgstr ""
 
-#: includes/fields/address/states.php:792 includes/fields/address/states.php:1466
+#: includes/fields/address/states.php:792
+#: includes/fields/address/states.php:1466
 msgid "Punjab"
 msgstr ""
 
@@ -8618,7 +8871,8 @@ msgstr ""
 msgid "Bungoma"
 msgstr ""
 
-#: includes/fields/address/states.php:1030 includes/fields/address/states.php:1856
+#: includes/fields/address/states.php:1030
+#: includes/fields/address/states.php:1856
 msgid "Busia"
 msgstr ""
 
@@ -8902,7 +9156,8 @@ msgstr ""
 msgid "Margibi"
 msgstr ""
 
-#: includes/fields/address/states.php:1109 includes/fields/address/states.php:1993
+#: includes/fields/address/states.php:1109
+#: includes/fields/address/states.php:1993
 msgid "Maryland"
 msgstr ""
 
@@ -8954,7 +9209,8 @@ msgstr ""
 msgid "Cantemir"
 msgstr ""
 
-#: includes/fields/address/states.php:1125 includes/fields/address/states.php:1505
+#: includes/fields/address/states.php:1125
+#: includes/fields/address/states.php:1505
 msgid "Călărași"
 msgstr ""
 
@@ -9778,7 +10034,8 @@ msgstr ""
 msgid "Junín"
 msgstr ""
 
-#: includes/fields/address/states.php:1361 includes/fields/address/states.php:1561
+#: includes/fields/address/states.php:1361
+#: includes/fields/address/states.php:1561
 msgid "La Libertad"
 msgstr ""
 
@@ -12118,7 +12375,8 @@ msgstr ""
 msgid "District Of Columbia"
 msgstr ""
 
-#: includes/fields/address/states.php:1982 includes/fields/address/states.php:2035
+#: includes/fields/address/states.php:1982
+#: includes/fields/address/states.php:2035
 msgid "Florida"
 msgstr ""
 
@@ -12539,7 +12797,8 @@ msgstr "Xác nhận Địa chỉ Email của bạn"
 msgid "Forgot your password?"
 msgstr "Quên mật khẩu?"
 
-#: includes/forms/email_handler.php:62 includes/forms/handler/DigitsFormHandler.php:207
+#: includes/forms/email_handler.php:62
+#: includes/forms/handler/DigitsFormHandler.php:207
 msgid "Error! Not found"
 msgstr "Lỗi! "
 
@@ -12549,7 +12808,8 @@ msgstr "Không thể gửi email đến địa chỉ trống"
 
 #: includes/forms/handler/DigitsFormHandler.php:81
 msgid "You need to verify your email before you can access your account."
-msgstr "Bạn cần xác minh email trước khi có thể truy cập vào tài khoản của mình."
+msgstr ""
+"Bạn cần xác minh email trước khi có thể truy cập vào tài khoản của mình."
 
 #: includes/forms/handler/DigitsFormHandler.php:84
 msgid "Resend Email"
@@ -12559,11 +12819,13 @@ msgstr "Gửi lại Email"
 msgid "Login not allowed"
 msgstr "Không cho phép đăng nhập"
 
-#: includes/forms/handler/DigitsFormHandler.php:219 includes/forms/handler/UserRegistration.php:499
+#: includes/forms/handler/DigitsFormHandler.php:219
+#: includes/forms/handler/UserRegistration.php:499
 msgid "Please enter all the details!"
 msgstr "Vui lòng nhập tất cả các chi tiết!"
 
-#: includes/forms/handler/DigitsFormHandler.php:315 includes/forms/handler/DigitsFormHandler.php:942
+#: includes/forms/handler/DigitsFormHandler.php:315
+#: includes/forms/handler/DigitsFormHandler.php:942
 msgid "Please enter a valid phone number."
 msgstr "Vui lòng nhập số điện thoại hợp lệ."
 
@@ -12571,12 +12833,14 @@ msgstr "Vui lòng nhập số điện thoại hợp lệ."
 msgid "Please enter a valid country code."
 msgstr "Vui lòng nhập mã quốc gia hợp lệ."
 
-#: includes/forms/handler/DigitsFormHandler.php:329 includes/forms/handler/DigitsFormHandler.php:951
+#: includes/forms/handler/DigitsFormHandler.php:329
+#: includes/forms/handler/DigitsFormHandler.php:951
 #: includes/forms/handler/UserRegistration.php:196
 msgid "This phone number is not allowed!"
 msgstr "Số điện thoại này không được phép sử dụng!"
 
-#: includes/forms/handler/DigitsFormHandler.php:352 includes/forms/handler/DigitsFormHandler.php:355
+#: includes/forms/handler/DigitsFormHandler.php:352
+#: includes/forms/handler/DigitsFormHandler.php:355
 #: includes/forms/handler/DigitsFormHandler.php:976
 msgid "Please enter a valid email!"
 msgstr "Vui lòng nhập email hợp lệ!"
@@ -12617,7 +12881,8 @@ msgstr "Người dùng bị chặn đăng nhập qua thiết bị này trong m�
 msgid "Error, token not found!"
 msgstr "Lỗi, không tìm thấy mã thông báo!"
 
-#: includes/forms/handler/DigitsFormHandler.php:578 includes/forms/handler/DigitsFormHandler.php:686
+#: includes/forms/handler/DigitsFormHandler.php:578
+#: includes/forms/handler/DigitsFormHandler.php:686
 msgid "Auth Method not allowed!"
 msgstr "Phương pháp xác thực không được phép!"
 
@@ -12629,12 +12894,15 @@ msgstr "Không tìm thấy thiết bị nào!"
 msgid "No device is not linked to your account!"
 msgstr "Không có thiết bị nào không được liên kết với tài khoản của bạn!"
 
-#: includes/forms/handler/DigitsFormHandler.php:631 includes/forms/handler/DigitsFormHandler.php:638
-#: includes/forms/handler/DigitsFormHandler.php:661 includes/forms/handler/DigitsFormHandler.php:667
+#: includes/forms/handler/DigitsFormHandler.php:631
+#: includes/forms/handler/DigitsFormHandler.php:638
+#: includes/forms/handler/DigitsFormHandler.php:661
+#: includes/forms/handler/DigitsFormHandler.php:667
 msgid "No devices found!"
 msgstr "Không tìm thấy thiết bị nào!"
 
-#: includes/forms/handler/DigitsFormHandler.php:713 includes/forms/handler/DigitsFormHandler.php:1024
+#: includes/forms/handler/DigitsFormHandler.php:713
+#: includes/forms/handler/DigitsFormHandler.php:1024
 msgid "There is no phone number linked to the account!"
 msgstr "Không có số điện thoại liên kết với tài khoản!"
 
@@ -12642,7 +12910,8 @@ msgstr "Không có số điện thoại liên kết với tài khoản!"
 msgid "There is no email address linked to the account!"
 msgstr "Không có địa chỉ email liên kết với tài khoản!"
 
-#: includes/forms/handler/DigitsFormHandler.php:764 includes/forms/handler/DigitsFormHandler.php:797
+#: includes/forms/handler/DigitsFormHandler.php:764
+#: includes/forms/handler/DigitsFormHandler.php:797
 #: includes/forms/handler/DigitsFormHandler.php:821
 msgid "Please enter a valid otp!"
 msgstr "Vui lòng nhập otp hợp lệ!"
@@ -12655,7 +12924,8 @@ msgstr "Vui lòng Đăng nhập bằng điện thoại của bạn bằng cách 
 msgid "Failed, please try logging in again!"
 msgstr "Không thành công, vui lòng thử đăng nhập lại!"
 
-#: includes/forms/handler/DigitsFormHandler.php:870 includes/process_user.php:1050
+#: includes/forms/handler/DigitsFormHandler.php:870
+#: includes/process_user.php:1050
 msgid "Password changed successfully, Redirecting.."
 msgstr "Mật khẩu đã thay đổi thành công, Chuyển hướng.."
 
@@ -12667,14 +12937,15 @@ msgstr "Quên mật khẩu không được kích hoạt!"
 msgid "There is no account with that phone or email address."
 msgstr "Không có tài khoản với số điện thoại hoặc địa chỉ email đó."
 
-#: includes/forms/handler/DigitsFormHandler.php:1046 includes/process_user.php:889
-#: includes/process_user.php:938
+#: includes/forms/handler/DigitsFormHandler.php:1046
+#: includes/process_user.php:889 includes/process_user.php:938
 msgid "Please use a stronger password!"
 msgstr "Vui lòng sử dụng mật khẩu mạnh hơn!"
 
 #: includes/forms/handler/DigitsFormHandler.php:1293
 msgid "Phone number/Email not found, please try using different method!"
-msgstr "Không tìm thấy số điện thoại/Email, vui lòng thử sử dụng phương pháp khác!"
+msgstr ""
+"Không tìm thấy số điện thoại/Email, vui lòng thử sử dụng phương pháp khác!"
 
 #: includes/forms/handler/DigitsFormHandler.php:1429
 msgid "Phone number not found, please try different method!"
@@ -12685,8 +12956,12 @@ msgid "Email not found, please try different method!"
 msgstr "Không tìm thấy email, vui lòng thử phương pháp khác!"
 
 #: includes/forms/handler/DigitsFormHandler.php:1530
-msgid "This device is blocked for this user for a invalid attempt, please try again after some time!"
-msgstr "Thiết bị này bị chặn cho người dùng này vì thử không thành công, hãy thử lại sau!"
+msgid ""
+"This device is blocked for this user for a invalid attempt, please try again "
+"after some time!"
+msgstr ""
+"Thiết bị này bị chặn cho người dùng này vì thử không thành công, hãy thử lại "
+"sau!"
 
 #: includes/forms/handler/UserActionHandler.php:50
 msgid "Error, Please try again after sometime"
@@ -12700,11 +12975,14 @@ msgstr "Xảy ra lỗi không xác định"
 msgid "Error, while sending verification email! Please try again later"
 msgstr "Lỗi khi gửi email xác minh! "
 
-#: includes/forms/handler/UserActionHandler.php:61 includes/forms/handler/UserRegistration.php:439
-msgid "Please check your email for the verification link to verify the account."
+#: includes/forms/handler/UserActionHandler.php:61
+#: includes/forms/handler/UserRegistration.php:439
+msgid ""
+"Please check your email for the verification link to verify the account."
 msgstr "Hãy kiểm tra email link để tìm link xác thực tài khoản"
 
-#: includes/forms/handler/UserActionHandler.php:87 includes/forms/handler/UserActionHandler.php:257
+#: includes/forms/handler/UserActionHandler.php:87
+#: includes/forms/handler/UserActionHandler.php:257
 #: includes/forms/handler/UserActionHandler.php:380
 msgid "This link has expired, Please try again!"
 msgstr "Liên kết này đã hết hạn, Vui lòng thử lại!"
@@ -12713,7 +12991,8 @@ msgstr "Liên kết này đã hết hạn, Vui lòng thử lại!"
 msgid "Email approval link has expired, Please try again!"
 msgstr "Liên kết phê duyệt email đã hết hạn, vui lòng thử lại!"
 
-#: includes/forms/handler/UserActionHandler.php:117 includes/forms/handler/UserActionHandler.php:193
+#: includes/forms/handler/UserActionHandler.php:117
+#: includes/forms/handler/UserActionHandler.php:193
 msgid "Request not found!"
 msgstr "Không tìm thấy yêu cầu!"
 
@@ -12761,8 +13040,8 @@ msgstr "Cảm ơn bạn đã xác minh email của mình!"
 msgid "Registrations are not enabled!"
 msgstr "Đăng ký không được kích hoạt!"
 
-#: includes/forms/handler/UserRegistration.php:128 includes/process_user.php:126
-#: includes/process_user.php:129
+#: includes/forms/handler/UserRegistration.php:128
+#: includes/process_user.php:126 includes/process_user.php:129
 msgid "Invalid Password!"
 msgstr "Mật khẩu không hợp lệ!"
 
@@ -12770,36 +13049,46 @@ msgstr "Mật khẩu không hợp lệ!"
 msgid "Please use a strong password!"
 msgstr "Vui lòng sử dụng mật khẩu mạnh!"
 
-#: includes/forms/handler/UserRegistration.php:150 includes/forms/handler/UserRegistration.php:177
-#: includes/forms/handler/UserRegistration.php:480 includes/login.php:378 includes/login.php:383
-#: includes/process_user.php:426 includes/register.php:671
+#: includes/forms/handler/UserRegistration.php:150
+#: includes/forms/handler/UserRegistration.php:177
+#: includes/forms/handler/UserRegistration.php:480 includes/login.php:378
+#: includes/login.php:383 includes/process_user.php:426
+#: includes/register.php:671
 msgid "Email is already in use!"
 msgstr "Email đã được sử dụng!"
 
-#: includes/forms/handler/UserRegistration.php:159 includes/forms/handler/UserRegistration.php:163
-#: includes/forms/handler/UserRegistration.php:461 includes/process_user.php:146
-#: includes/process_user.php:155 includes/register.php:399 includes/register.php:403
+#: includes/forms/handler/UserRegistration.php:159
+#: includes/forms/handler/UserRegistration.php:163
+#: includes/forms/handler/UserRegistration.php:461
+#: includes/process_user.php:146 includes/process_user.php:155
+#: includes/register.php:399 includes/register.php:403
 #: includes/register.php:419 includes/woocommerce-registration.php:450
 msgid "Please enter a valid Mobile Number!"
 msgstr "Vui lòng nhập Số điện thoại di động hợp lệ!"
 
-#: includes/forms/handler/UserRegistration.php:170 includes/process_user.php:176
+#: includes/forms/handler/UserRegistration.php:170
+#: includes/process_user.php:176
 msgid "Please enter a valid Email\\Mobile Number!"
 msgstr "Vui lòng nhập Email\\Số điện thoại di động hợp lệ!"
 
-#: includes/forms/handler/UserRegistration.php:185 includes/forms/handler/UserRegistration.php:187
-#: includes/forms/handler/UserRegistration.php:280 includes/forms/handler/UserRegistration.php:465
+#: includes/forms/handler/UserRegistration.php:185
+#: includes/forms/handler/UserRegistration.php:187
+#: includes/forms/handler/UserRegistration.php:280
+#: includes/forms/handler/UserRegistration.php:465
 #: includes/forms/handler/UserRegistration.php:467 includes/wp.php:359
 msgid "Mobile Number is already in use!"
 msgstr "Số điện thoại di động đã được sử dụng!"
 
-#: includes/forms/handler/UserRegistration.php:275 includes/forms/handler/UserRegistration.php:325
-#: includes/process_user.php:264 includes/process_user.php:394 includes/register.php:625
+#: includes/forms/handler/UserRegistration.php:275
+#: includes/forms/handler/UserRegistration.php:325
+#: includes/process_user.php:264 includes/process_user.php:394
+#: includes/register.php:625
 msgid "Error while generating username!"
 msgstr "Lỗi khi tạo tên người dùng!"
 
-#: includes/forms/handler/UserRegistration.php:315 includes/forms/handler/UserRegistration.php:485
-#: includes/login.php:357 includes/process_user.php:309 includes/register.php:454
+#: includes/forms/handler/UserRegistration.php:315
+#: includes/forms/handler/UserRegistration.php:485 includes/login.php:357
+#: includes/process_user.php:309 includes/register.php:454
 #: includes/woocommerce-registration.php:602 includes/wp.php:277
 msgid "Username is already in use!"
 msgstr "Tên đăng nhập đã được sử dụng!"
@@ -12825,7 +13114,9 @@ msgid "Verify Phone"
 msgstr "Xác minh điện thoại"
 
 #: includes/forms/handler/handler.php:36
-msgid "Error, Your session expired for security reasons. Please refresh the page and try again!"
+msgid ""
+"Error, Your session expired for security reasons. Please refresh the page "
+"and try again!"
 msgstr "Lỗi, Vui lòng tải lại trang và thử lại!"
 
 #: includes/forms/handler/handler.php:55 includes/login.php:342
@@ -12853,7 +13144,8 @@ msgstr "Sử dụng"
 msgid "2FA App"
 msgstr ""
 
-#: includes/forms/handler/process.php:186 includes/forms/handler/process.php:224
+#: includes/forms/handler/process.php:186
+#: includes/forms/handler/process.php:224
 msgid "2FA Code"
 msgstr "2FA Mã"
 
@@ -12879,7 +13171,8 @@ msgstr "Mật mã %s, %s hoặc %s"
 msgid "%s or %s Passcode"
 msgstr "%s hoặc %s Mật khẩu"
 
-#: includes/forms/handler/process.php:214 includes/forms/handler/process.php:226
+#: includes/forms/handler/process.php:214
+#: includes/forms/handler/process.php:226
 #, php-format
 msgid "%s Passcode"
 msgstr "%s Mật khẩu"
@@ -12914,13 +13207,15 @@ msgstr "Đăng nhập bằng Vân tay hoặc Face ID của Điện thoại"
 msgid "Use Other Phone"
 msgstr "Sử dụng điện thoại khác"
 
-#: includes/forms/handler/process.php:595 includes/woocommerce-registration.php:1445
+#: includes/forms/handler/process.php:595
+#: includes/woocommerce-registration.php:1445
 msgid "New Password"
 msgstr "Mật khẩu mới"
 
 #: includes/forms/handler/process.php:664
 msgid "Please type the verification code shown in your authentication app"
-msgstr "Vui lòng nhập mã xác minh được hiển thị trong ứng dụng xác thực của bạn"
+msgstr ""
+"Vui lòng nhập mã xác minh được hiển thị trong ứng dụng xác thực của bạn"
 
 #: includes/forms/handler/process.php:668
 msgid "Please type the verification code sent to"
@@ -12930,7 +13225,8 @@ msgstr "Vui lòng nhập mã xác minh được gửi đến"
 msgid "Go Back"
 msgstr "Quay lại"
 
-#: includes/forms/render.php:286 includes/forms/render.php:449 includes/forms/signup.php:158
+#: includes/forms/render.php:286 includes/forms/render.php:449
+#: includes/forms/signup.php:158
 msgid "Use Phone Number"
 msgstr "Sử dụng số điện thoại"
 
@@ -12953,11 +13249,11 @@ msgstr "Đăng nhập ngay"
 #: includes/forms/render_approval.php:12
 #, php-format
 msgid ""
-"<span class=\"digits_desc_light\">Are you trying to login to your account from </span>%s<span class="
-"\"digits_desc_light\"> via your </span>%s?"
+"<span class=\"digits_desc_light\">Are you trying to login to your account "
+"from </span>%s<span class=\"digits_desc_light\"> via your </span>%s?"
 msgstr ""
-"<span class=\"digits_desc_light\">Có phải bạn đang cố đăng nhập từ</span>%s<span class="
-"\"digits_desc_light\"> qua </span>%s?"
+"<span class=\"digits_desc_light\">Có phải bạn đang cố đăng nhập từ</"
+"span>%s<span class=\"digits_desc_light\"> qua </span>%s?"
 
 #: includes/forms/render_approval.php:21
 msgid "Please take action on the request"
@@ -13004,7 +13300,9 @@ msgid "Invalid Email Address"
 msgstr "Địa chỉ Email không hợp lệ"
 
 #: includes/logs.php:108 includes/logs.php:181
-msgid "OTP limit has exceeded since you made too many attempts, Please try again after some time!"
+msgid ""
+"OTP limit has exceeded since you made too many attempts, Please try again "
+"after some time!"
 msgstr "Vượt quá giới hạn OTP bởi bạn đã thử lại quá nhiều, hãy thử lại sau!"
 
 #: includes/plugins/bp.php:57
@@ -13019,8 +13317,9 @@ msgstr "Xác minh số điện thoại di động không thành công"
 msgid "Please enter a valid OTP"
 msgstr "Vui lòng nhập OTP hợp lệ"
 
-#: includes/plugins/um.php:37 includes/plugins/um.php:39 includes/process_user.php:270
-#: includes/process_user.php:377 includes/register.php:508 includes/register.php:617
+#: includes/plugins/um.php:37 includes/plugins/um.php:39
+#: includes/process_user.php:270 includes/process_user.php:377
+#: includes/register.php:508 includes/register.php:617
 #: includes/register.php:630 includes/register.php:632
 msgid "Mobile number already in use!"
 msgstr "Số di động đã được sử dụng!"
@@ -13045,8 +13344,9 @@ msgstr "Tên người dùng không hợp lệ!"
 msgid "Invalid Email or Mobile Number"
 msgstr "Email hoặc số di động không hợp lệ"
 
-#: includes/process_user.php:187 includes/process_user.php:193 includes/register.php:430
-#: includes/register.php:437 includes/woocommerce-registration.php:814
+#: includes/process_user.php:187 includes/process_user.php:193
+#: includes/register.php:430 includes/register.php:437
+#: includes/woocommerce-registration.php:814
 msgid "Email already in use!"
 msgstr "Email đã được sử dụng!"
 
@@ -13064,11 +13364,12 @@ msgstr "Vui lòng nhập captcha hợp lệ"
 
 #: includes/process_user.php:825
 msgid ""
-"A password reset email has been sent to the email address, but may take several minutes to show up "
-"in your inbox. Please wait at least 10 minutes before attempting another reset."
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
 msgstr ""
-"Một email reset password đã được gửi đến đại chỉ email, nhưng có thể mất vài phút. Hãy đợi ít nhất "
-"10p trước khi thử lại."
+"Một email reset password đã được gửi đến đại chỉ email, nhưng có thể mất vài "
+"phút. Hãy đợi ít nhất 10p trước khi thử lại."
 
 #: includes/process_user.php:847
 msgid "Please enter a valid Password"
@@ -13079,7 +13380,8 @@ msgid "Your password reset link has expired. Please request a new link."
 msgstr "Liên kết đặt lại mật khẩu của bạn đã hết hạn. "
 
 #: includes/process_user.php:880
-msgid "Your password reset link appears to be invalid. Please request a new link."
+msgid ""
+"Your password reset link appears to be invalid. Please request a new link."
 msgstr "Link reset password của bạn có vẻ không hợp lệ. Hãy yêu cầu link mới."
 
 #: includes/process_user.php:1003
@@ -13103,7 +13405,8 @@ msgid "Please provide a valid email address/Mobile number."
 msgstr "Vui lòng cung cấp địa chỉ email/Số điện thoại di động hợp lệ."
 
 #: includes/register.php:148 includes/woocommerce-registration.php:499
-#: includes/woocommerce-registration.php:504 includes/woocommerce-registration.php:1695
+#: includes/woocommerce-registration.php:504
+#: includes/woocommerce-registration.php:1695
 msgid "Please provide a valid email address."
 msgstr "Vui lòng cung cấp địa chỉ email hợp lệ."
 
@@ -13179,7 +13482,9 @@ msgstr "Tên người dùng: %s"
 
 #: includes/wcs.php:169
 msgid "If this was a mistake, just ignore this email and nothing will happen."
-msgstr "Nếu đây là một sự nhầm lẫn, chỉ cần bỏ qua email này và sẽ không có gì xảy ra."
+msgstr ""
+"Nếu đây là một sự nhầm lẫn, chỉ cần bỏ qua email này và sẽ không có gì xảy "
+"ra."
 
 #: includes/wcs.php:170
 msgid "To reset your password, visit the following address:"
@@ -13205,8 +13510,8 @@ msgstr "Lý do có thể: máy chủ của bạn có thể đã tắt chức nă
 
 #: includes/wcs.php:267
 msgid ""
-"<b>Digits:</b> Please register digits with license key to enable automatic updates. Click <a href="
-"\""
+"<b>Digits:</b> Please register digits with license key to enable automatic "
+"updates. Click <a href=\""
 msgstr ""
 
 #: includes/wcs.php:324
@@ -13245,7 +13550,8 @@ msgstr "Vui lòng nhập Số điện thoại di động của bạn."
 msgid "Please enter your email or Mobile Number!"
 msgstr "Vui lòng nhập email hoặc Số điện thoại di động của bạn!"
 
-#: includes/woocommerce-registration.php:225 includes/woocommerce-registration.php:474
+#: includes/woocommerce-registration.php:225
+#: includes/woocommerce-registration.php:474
 #: includes/woocommerce-registration.php:480
 msgid "Invalid Country Code!"
 msgstr "Mã quốc gia không hợp lệ!"
@@ -13258,8 +13564,10 @@ msgstr "Email Thanh toán"
 msgid "Billing Mobile Number"
 msgstr "Số điện thoại di động thanh toán"
 
-#: includes/woocommerce-registration.php:363 includes/woocommerce-registration.php:1699
-msgid "An account is already registered with your email address. Please log in."
+#: includes/woocommerce-registration.php:363
+#: includes/woocommerce-registration.php:1699
+msgid ""
+"An account is already registered with your email address. Please log in."
 msgstr "Đã có tài khoảng sử dụng email này. Hãy đăng nhập."
 
 #: includes/woocommerce-registration.php:467
@@ -13287,8 +13595,12 @@ msgid "ERROR"
 msgstr "LỖI"
 
 #: includes/woocommerce-registration.php:681
-msgid "Couldn&#8217;t register you&hellip; please contact us if you continue to have problems."
-msgstr "Không thể tạo tài khoản cho bạn... hãy liên hệ chúng tôi nếu bạn vẫn gặp vấn đề."
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+"Không thể tạo tài khoản cho bạn... hãy liên hệ chúng tôi nếu bạn vẫn gặp vấn "
+"đề."
 
 #: includes/woocommerce-registration.php:792
 msgid "Invalid country code!"
@@ -13328,9 +13640,11 @@ msgstr "Số điện thoại di động là bắt buộc!"
 
 #: includes/woocommerce-registration.php:1491
 msgid ""
-"Lost your password? Please enter your mobile number to receive OTP or email address to get a link "
-"to create a new password."
-msgstr "Quên mật khẩu? Hãy nhập số điện thoại để nhận OTP hoặc email để nhận link tạo mật khẩu mới."
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+"Quên mật khẩu? Hãy nhập số điện thoại để nhận OTP hoặc email để nhận link "
+"tạo mật khẩu mới."
 
 #: includes/woocommerce-registration.php:1560
 msgid "User"
@@ -13340,7 +13654,8 @@ msgstr "Người dùng"
 msgid "Digits Data Eraser"
 msgstr "Công cụ Digits xóa dữ liệu"
 
-#: includes/woocommerce-registration.php:1614 includes/woocommerce-registration.php:1627
+#: includes/woocommerce-registration.php:1614
+#: includes/woocommerce-registration.php:1627
 msgid "Removed"
 msgstr "Đã xóa"
 
@@ -13349,7 +13664,8 @@ msgid "Please enter a valid account username."
 msgstr "Vui lòng nhập tên người dùng tài khoản hợp lệ."
 
 #: includes/woocommerce-registration.php:1713
-msgid "An account is already registered with that username. Please choose another."
+msgid ""
+"An account is already registered with that username. Please choose another."
 msgstr ""
 
 #: includes/woocommerce-registration.php:1724
@@ -13389,23 +13705,19 @@ msgid "Click here to Verify Email"
 msgstr "Bấm vào đây để Xác minh Email"
 
 #. Plugin Name of the plugin/theme
-msgid "DIGITS: WordPress Mobile Number Signup and Login"
+msgid "BrqSMS: WordPress Mobile Number Signup and Login"
 msgstr "DIGITS: Đăng ký và đăng nhập số di động WordPress"
 
 #. Plugin URI of the plugin/theme
-msgid "https://digits.unitedover.com"
+msgid "https://dash.brqsms.com"
 msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Expand your website dimensions by providing signup and login using mobile number. User can register "
-"themselves with just a mobile number."
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register themselves with just a mobile number."
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "UnitedOver"
-msgstr ""
-
-#. Author URI of the plugin/theme
-msgid "https://www.unitedover.com/"
+msgid "ABDALRAHMAN MOLOOD"
 msgstr ""

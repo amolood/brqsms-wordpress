@@ -1,8 +1,8 @@
 # Author Alessandro Stella
-# This file is distributed under the same license as the DIGITS: WordPress Mobile Number Signup and Login plugin.
+# This file is distributed under the same license as the BrqSMS: WordPress Mobile Number Signup and Login plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login 8.6\n"
+"Project-Id-Version: BrqSMS: WordPress Mobile Number Signup and Login 8.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/digits\n"
 "POT-Creation-Date: 2025-06-18T16:52:16+00:00\n"
 "PO-Revision-Date: 2025-08-20 08:23+0200\n"
@@ -18,13 +18,13 @@ msgstr ""
 
 #. Plugin Name of the plugin
 #: digit.php
-msgid "DIGITS: WordPress Mobile Number Signup and Login"
+msgid "BrqSMS: WordPress Mobile Number Signup and Login"
 msgstr "DIGITS: Login e Registrazione su WordPress tramite numero telefonico"
 
 #. Plugin URI of the plugin
 #: digit.php
-msgid "https://digits.unitedover.com"
-msgstr "https://digits.unitedover.com"
+msgid "https://dash.brqsms.com"
+msgstr "https://dash.brqsms.com"
 
 #. Description of the plugin
 #: digit.php
@@ -38,13 +38,8 @@ msgstr ""
 
 #. Author of the plugin
 #: digit.php
-msgid "UnitedOver"
-msgstr "UnitedOver"
-
-#. Author URI of the plugin
-#: digit.php
-msgid "https://www.unitedover.com/"
-msgstr "https://www.unitedover.com/"
+msgid "ABDALRAHMAN MOLOOD"
+msgstr "ABDALRAHMAN MOLOOD"
 
 #: admin/editor/editor.php:34 includes/core/enqueue/enqueue_scripts.php:168
 #: includes/register.php:771
@@ -2882,8 +2877,7 @@ msgid ""
 msgstr ""
 
 #: includes/core/phandler.php:84
-msgid ""
-"Please purchase addon license from https://digits.unitedover.com/addons/"
+msgid "Please purchase addon license from https://dash.brqsms.com"
 msgstr ""
 
 #: includes/edit_number.php:43
@@ -10737,7 +10731,9 @@ msgid "Please use a stronger password!"
 msgstr "Si prega di utilizzare una password più complessa!"
 
 #: includes/forms/handler/handler.php:36
-msgid "Error, Your session expired for security reasons. Please refresh the page and try again!"
+msgid ""
+"Error, Your session expired for security reasons. Please refresh the page "
+"and try again!"
 msgstr "Errore. Ricarica la pagina e riprova!"
 
 #: includes/forms/handler/handler.php:55 includes/login.php:347

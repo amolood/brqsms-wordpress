@@ -1,9 +1,9 @@
-# Copyright (C) 2025 UnitedOver
-# This file is distributed under the same license as the DIGITS: WordPress Mobile Number Signup and Login plugin.
+# Copyright (C) 2025 ABDALRAHMAN MOLOOD
+# This file is distributed under the same license as the BrqSMS: WordPress Mobile Number Signup and Login plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login 8.6.3.9\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Digits\n"
+"Project-Id-Version: BrqSMS: WordPress Mobile Number Signup and Login 8.6.3.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/brqsms\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,12 @@ msgstr ""
 
 #. Plugin Name of the plugin
 #: digit.php
-msgid "DIGITS: WordPress Mobile Number Signup and Login"
+msgid "BrqSMS: WordPress Mobile Number Signup and Login"
 msgstr ""
 
 #. Plugin URI of the plugin
 #: digit.php
-msgid "https://digits.unitedover.com"
+msgid "https://dash.brqsms.com"
 msgstr ""
 
 #. Description of the plugin
@@ -31,12 +31,12 @@ msgstr ""
 
 #. Author of the plugin
 #: digit.php
-msgid "UnitedOver"
+msgid "ABDALRAHMAN MOLOOD"
 msgstr ""
 
 #. Author URI of the plugin
 #: digit.php
-msgid "https://www.unitedover.com/"
+msgid "https://dash.brqsms.com"
 msgstr ""
 
 #: admin/editor/editor.php:36
@@ -2902,7 +2902,7 @@ msgid "To use this add-on, please update your subscription by clicking %shere%s"
 msgstr ""
 
 #: includes/core/phandler.php:84
-msgid "Please purchase addon license from https://digits.unitedover.com/addons/"
+msgid "Please purchase addon license from https://dash.brqsms.com"
 msgstr ""
 
 #: includes/edit_number.php:43

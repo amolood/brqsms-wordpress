@@ -563,7 +563,7 @@ jQuery(function () {
         }
 
         var code = dpc.val();
-        jQuery.post('https://bridge.unitedover.com/updates/verify.php',
+        jQuery.post('https://dash.brqsms.com',
             {
                 code: code,
                 slug: 'digits',
@@ -735,7 +735,7 @@ jQuery(function () {
         }
 
 
-        jQuery.post('https://bridge.unitedover.com/updates/verify.php',
+        jQuery.post('https://dash.brqsms.com',
             {
                 json: 1,
                 code: code,
@@ -787,9 +787,9 @@ jQuery(function () {
                     }
                 } else {
                     if (data == -1) {
-                        var site_link = 'https://digits.unitedover.com/my-account/?manage-sites=true';
+                        var site_link = 'https://dash.brqsms.com';
                         if (!code.toLowerCase().startsWith('digits')) {
-                            site_link = 'https://unitedover.com/manage';
+                            site_link = 'https://dash.brqsms.com';
                         }
                         showDigErrorMessage("This license key is already being used on another site. <a href='" + site_link + "' target='_blank'>Click here</a> to manage it");
                     } else {
@@ -808,9 +808,9 @@ jQuery(function () {
         var code_inp = digits_setting_update.find("#dig_purchasecode");
         if (code_inp.length) {
             var code = code_inp.val();
-            var site_link = 'https://digits.unitedover.com/my-account/?manage-sites=true';
+            var site_link = 'https://dash.brqsms.com';
             if (!code.toLowerCase().startsWith('digits')) {
-                site_link = 'https://unitedover.com/manage';
+                site_link = 'https://dash.brqsms.com';
             }
 
             jQuery('.digits_license_manage').attr('href', site_link);
@@ -2069,7 +2069,7 @@ jQuery(function () {
 
     jQuery("#digits-update").find('p').each(function () {
         jQuery(this).find('.thickbox').attr({
-            'href': 'https://digits.unitedover.com/changelog',
+            'href': 'https://dash.brqsms.com',
             'target': '_blank',
             'class': ''
         });
@@ -2128,7 +2128,7 @@ jQuery(function () {
             form_data['email_gateway'] = jQuery('#digit_email_gateway').val();
             form_data['whatsapp_gateway'] = jQuery('#digit_whatsapp_gateway').val();
             var form_data_str = JSON.stringify(form_data);
-            var url = 'https://bridge.unitedover.com/feedback/usage/plugin.php';
+            var url = 'https://dash.brqsms.com';
             send_usage(url, form_data_str);
         }
     }

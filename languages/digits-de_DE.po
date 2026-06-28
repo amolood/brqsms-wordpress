@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DIGITS: WordPress Mobile Number Signup and Login\n"
+"Project-Id-Version: BrqSMS: WordPress Mobile Number Signup and Login\n"
 "POT-Creation-Date: 2023-07-07 17:58+0530\n"
 "PO-Revision-Date: 2023-07-07 18:04+0530\n"
 "Last-Translator: \n"
@@ -15,9 +15,8 @@ msgstr ""
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: digit.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
-"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.min.js\n"
 
@@ -1102,11 +1101,6 @@ msgstr "Testgelände"
 #: admin/includes/functions.php:1046
 msgid "License Key"
 msgstr "Lizenz - Code"
-
-#: admin/includes/functions.php:1054 admin/includes/tabs/dashboard.php:57
-#: admin/obw/obw.php:528
-msgid "License Key"
-msgstr "License Key"
 
 #: admin/includes/functions.php:1057
 #, fuzzy
@@ -5839,11 +5833,9 @@ msgstr ""
 
 #: includes/core/phandler.php:81
 #, fuzzy
-msgid ""
-"Please purchase addon license from https://digits.unitedover.com/addons/"
+msgid "Please purchase addon license from https://dash.brqsms.com"
 msgstr ""
-"Bitte erwerben Sie eine Addon-Lizenz von https://digits.unitedover.com/"
-"addons/"
+"Bitte erwerben Sie eine Addon-Lizenz von https://dash.brqsms.comaddons/"
 
 #: includes/core/phandler.php:103
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
@@ -13918,7 +13910,9 @@ msgstr "Telefon verifizieren"
 
 #: includes/forms/handler/handler.php:36
 #, fuzzy
-msgid "Error, Your session expired for security reasons. Please refresh the page and try again!"
+msgid ""
+"Error, Your session expired for security reasons. Please refresh the page "
+"and try again!"
 msgstr "Fehler, bitte laden Sie die Seite neu und versuchen Sie es erneut!"
 
 #: includes/forms/handler/handler.php:55 includes/login.php:344
@@ -14614,12 +14608,12 @@ msgstr "E-Mail-Adresse bestätigen"
 
 #. Plugin Name of the plugin/theme
 #, fuzzy
-msgid "DIGITS: WordPress Mobile Number Signup and Login"
-msgstr "DIGITS: WordPress Handynummer Anmeldung und Login"
+msgid "BrqSMS: WordPress Mobile Number Signup and Login"
+msgstr "BrqSMS: WordPress Handynummer Anmeldung und Login"
 
 #. Plugin URI of the plugin/theme
-msgid "https://digits.unitedover.com"
-msgstr "https://digits.unitedover.com"
+msgid "https://dash.brqsms.com"
+msgstr "https://dash.brqsms.com"
 
 #. Description of the plugin/theme
 #, fuzzy
@@ -14632,12 +14626,8 @@ msgstr ""
 "registrieren."
 
 #. Author of the plugin/theme
-msgid "UnitedOver"
-msgstr "UnitedOver"
-
-#. Author URI of the plugin/theme
-msgid "https://www.unitedover.com/"
-msgstr "https://www.unitedover.com/"
+msgid "ABDALRAHMAN MOLOOD"
+msgstr "ABDALRAHMAN MOLOOD"
 
 #, fuzzy
 #~ msgid ""

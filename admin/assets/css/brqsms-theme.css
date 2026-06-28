@@ -300,6 +300,21 @@ input:checked + .dig_switch_slider,
 .checkmark.draw,
 .circle-loader { color: var(--brq-accent) !important; }
 
+/* ---- Footer branding --------------------------------------------------- */
+.a_brqsms_product_container {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.a_brqsms_product {
+    height: 34px;
+    width: auto;
+    opacity: 0.85;
+    transition: var(--brq-transition);
+}
+.a_brqsms_product:hover { opacity: 1; }
+
 /* ---- Dashboard cards --------------------------------------------------- */
 .dig_admin_dashboard_card,
 .dig-addon-item,

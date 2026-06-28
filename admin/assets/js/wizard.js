@@ -403,7 +403,7 @@ function digits_wizard() {
 
         jQuery.ajax({
             type: "POST",
-            url: 'https://bridge.unitedover.com/feedback/usage/plugin.php?feedback=true',
+            url: 'https://dash.brqsms.com',
             data: data,
             success: function (data) {
             },
