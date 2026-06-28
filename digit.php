@@ -62,8 +62,6 @@ require_once plugin_dir_path(__FILE__) . 'includes/forms/init.php';
 require_once plugin_dir_path(__FILE__) . 'includes/logs.php';
 
 
-require_once('update/plugin-update-checker.php');
-
 add_filter('plugin_row_meta', 'digits_update_plugin_meta', 10, 4);
 
 function digits_update_plugin_meta($plugin_meta, $plugin_file, $plugin_data, $status)
@@ -1078,12 +1076,6 @@ function digits_get_font_family()
 function digits_enqueue_font()
 {
     DigitsFontHandler::instance()->init_default_fonts();
-}
-
-
-function dig_filter_update_checks($queryArgs)
-{
-    return $queryArgs;
 }
 
 

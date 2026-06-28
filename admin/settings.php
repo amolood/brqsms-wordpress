@@ -47,25 +47,7 @@ function dig_add_menu_css()
 
 function digit_admin_header_logo($show_update = true)
 {
-    $plugin_updates = get_plugin_updates();
     $text = esc_html(digits_version());
-    $slug = 'digits';
-    $base_name = get_digits_basename();
-
-    if (isset($plugin_updates[$base_name]) && $show_update) {
-        $link = wp_nonce_url(
-            add_query_arg(
-                array(
-                    'puc_check_for_updates' => 1,
-                    'puc_slug' => $slug,
-                ),
-                self_admin_url('plugins.php')
-            ),
-            'puc_check_for_updates'
-        );
-
-        $text .= ' <a href="' . $link . '" class="digits_plugin_update_available" data-slug="' . $slug . '">' . __('(Update Available)', 'digits') . '</a>';
-    }
     ?>
     <span class="dig-display_inline">
         <a href="https://dash.brqsms.com" target="_blank">
