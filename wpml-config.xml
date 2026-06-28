@@ -6,6 +6,8 @@
     <key name="digmyaccounttrans"/>
     <key name="diglogouttrans"/>
     <key name="dig_messagetemplate"/>
+    <key name="dig_whatsapp_messagetemplate"/>
+    <key name="dig_replace_otp_word"/>
     <key name="digits_loginred"/>
     <key name="digits_regred"/>
     <key name="digits_forgotred"/>
