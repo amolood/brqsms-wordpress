@@ -3,11 +3,13 @@
 /*
  * Plugin Name: BrqSMS: WordPress Mobile Number Signup and Login
  * Description: Expand your website dimensions by providing signup and login using mobile number. User can register themselves with just a mobile number.
- * Version: 9.1.0.5
+ * Version: 1.0.0
  * Plugin URI: https://dash.brqsms.com
  * Author URI: https://dash.brqsms.com
  * Author: ABDALRAHMAN MOLOOD
  * Text Domain: digits
+ * Requires at least: 5.0
+ * Tested up to: 6.7
  * Requires PHP: 5.5
  * Domain Path: /languages
  * License: GPLv2 or later
@@ -26,7 +28,7 @@ if (!defined('ABSPATH')) {
 
 function digits_version()
 {
-    return '9.1.0.5';
+    return '1.0.0';
 }
 
 
