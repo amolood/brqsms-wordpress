@@ -1,4 +1,4 @@
-# BrqSMS — WordPress Mobile Number Signup and Login
+# BrqSMS — WordPress Mobile Number Signup and Login (Sudanese Provider)
 
 > Passwordless, mobile-first signup and login for WordPress. Users register and authenticate with their phone number and a one-time password (OTP) delivered over SMS through the **BrqSMS** gateway.
 
